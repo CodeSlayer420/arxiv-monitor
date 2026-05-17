@@ -22,6 +22,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests feedparser
 
+      - name: Set date
+        run: echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
+
       - name: Run arXiv monitor
         run: python3 arxiv_monitor.py --no-open
 
@@ -32,3 +35,16 @@ jobs:
           git add arxiv_digest_*.html professors_list.md professors_list.json
           git diff --staged --quiet || git commit -m "digest: $(date +%Y-%m-%d)"
           git push
+
+      - name: Email digest
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: pranavcharith@gmail.com
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "arXiv Digest — ${{ env.DATE }}"
+          to: pranavcharith@gmail.com
+          from: "arXiv Monitor <pranavcharith@gmail.com>"
+          html_body: file://arxiv_digest_${{ env.DATE }}.html
