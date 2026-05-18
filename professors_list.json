@@ -94,6 +94,15 @@
     "last_seen": "2026-05-17"
   },
   {
+    "name": "Diego Sáez-Chillón Gómez",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 2,
+    "last_seen": "2026-05-18"
+  },
+  {
     "name": "Dimitrios Zoakos",
     "institution": "",
     "topics": [
@@ -115,6 +124,15 @@
     "last_seen": "2026-05-17"
   },
   {
+    "name": "Fabián Caro-Pérez",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-05-18"
+  },
+  {
     "name": "George Georgiou",
     "institution": "",
     "topics": [
@@ -123,6 +141,17 @@
     ],
     "count": 2,
     "last_seen": "2026-05-17"
+  },
+  {
+    "name": "Haitang Yang",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 2,
+    "last_seen": "2026-05-18"
   },
   {
     "name": "Jonah Kudler-Flam",
@@ -134,6 +163,26 @@
     ],
     "count": 2,
     "last_seen": "2026-05-17"
+  },
+  {
+    "name": "María Pilar García del Moral",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Peng Wang",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 2,
+    "last_seen": "2026-05-18"
   },
   {
     "name": "Pongwit Srisangyingcharoen",
@@ -166,6 +215,24 @@
     "last_seen": "2026-05-17"
   },
   {
+    "name": "Sergei D. Odintsov",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 2,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Shin'ichi Nojiri",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 2,
+    "last_seen": "2026-05-18"
+  },
+  {
     "name": "Takanori Ishii",
     "institution": "",
     "topics": [
@@ -176,73 +243,6 @@
     "last_seen": "2026-05-17"
   },
   {
-    "name": "Diego Sáez-Chillón Gómez",
-    "institution": "",
-    "topics": [
-      "Entanglement & Geometry"
-    ],
-    "count": 1,
-    "last_seen": "2026-05-18"
-  },
-  {
-    "name": "Fabián Caro-Pérez",
-    "institution": "",
-    "topics": [
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-05-18"
-  },
-  {
-    "name": "Haitang Yang",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Entanglement & Geometry"
-    ],
-    "count": 1,
-    "last_seen": "2026-05-18"
-  },
-  {
-    "name": "María Pilar García del Moral",
-    "institution": "",
-    "topics": [
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-05-18"
-  },
-  {
-    "name": "Peng Wang",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Entanglement & Geometry"
-    ],
-    "count": 1,
-    "last_seen": "2026-05-18"
-  },
-  {
-    "name": "Sergei D. Odintsov",
-    "institution": "",
-    "topics": [
-      "Entanglement & Geometry"
-    ],
-    "count": 1,
-    "last_seen": "2026-05-18"
-  },
-  {
-    "name": "Shin'ichi Nojiri",
-    "institution": "",
-    "topics": [
-      "Entanglement & Geometry"
-    ],
-    "count": 1,
-    "last_seen": "2026-05-18"
-  },
-  {
     "name": "Xin Jiang",
     "institution": "",
     "topics": [
@@ -250,7 +250,7 @@
       "CFT",
       "Entanglement & Geometry"
     ],
-    "count": 1,
+    "count": 2,
     "last_seen": "2026-05-18"
   },
   {
@@ -258,6 +258,68 @@
     "institution": "",
     "topics": [
       "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Antón F. Faedo",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Carlos Hoyos",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Daniele Musso",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Jose M. Begines",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Wenliang Li",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Yongwei Guo",
+    "institution": "",
+    "topics": [
+      "CFT"
     ],
     "count": 1,
     "last_seen": "2026-05-18"
