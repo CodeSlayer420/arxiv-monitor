@@ -1,6 +1,6 @@
 # Researcher Tracker
 
-_Updated 2026-05-17 &middot; 18 researchers tracked_
+_Updated 2026-05-18 &middot; 27 researchers tracked_
 
 | # | Name | Institution | Topics | Appearances | Last Seen |
 |---|------|-------------|--------|:-----------:|-----------|
@@ -22,3 +22,12 @@ _Updated 2026-05-17 &middot; 18 researchers tracked_
 | 16 | Rumi Hasegawa | — | AdS/CFT, Quantum Gravity | 2 | 2026-05-17 |
 | 17 | Ryo Adachi | — | AdS/CFT, Quantum Gravity | 2 | 2026-05-17 |
 | 18 | Takanori Ishii | — | AdS/CFT, Quantum Gravity | 2 | 2026-05-17 |
+| 19 | Diego Sáez-Chillón Gómez | — | Entanglement & Geometry | 1 | 2026-05-18 |
+| 20 | Fabián Caro-Pérez | — | String Theory | 1 | 2026-05-18 |
+| 21 | Haitang Yang | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-05-18 |
+| 22 | María Pilar García del Moral | — | String Theory | 1 | 2026-05-18 |
+| 23 | Peng Wang | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-05-18 |
+| 24 | Sergei D. Odintsov | — | Entanglement & Geometry | 1 | 2026-05-18 |
+| 25 | Shin'ichi Nojiri | — | Entanglement & Geometry | 1 | 2026-05-18 |
+| 26 | Xin Jiang | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-05-18 |
+| 27 | Álvaro Restuccia | — | String Theory | 1 | 2026-05-18 |

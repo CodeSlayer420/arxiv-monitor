@@ -174,5 +174,92 @@
     ],
     "count": 2,
     "last_seen": "2026-05-17"
+  },
+  {
+    "name": "Diego Sáez-Chillón Gómez",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Fabián Caro-Pérez",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Haitang Yang",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "María Pilar García del Moral",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Peng Wang",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Sergei D. Odintsov",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Shin'ichi Nojiri",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Xin Jiang",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Álvaro Restuccia",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-18"
   }
 ]
