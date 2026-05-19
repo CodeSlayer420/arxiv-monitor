@@ -1,6 +1,6 @@
 # Researcher Tracker
 
-_Updated 2026-05-18 &middot; 33 researchers tracked_
+_Updated 2026-05-19 &middot; 55 researchers tracked_
 
 | # | Name | Institution | Topics | Appearances | Last Seen |
 |---|------|-------------|--------|:-----------:|-----------|
@@ -31,9 +31,31 @@ _Updated 2026-05-18 &middot; 33 researchers tracked_
 | 25 | Takanori Ishii | — | AdS/CFT, Quantum Gravity | 2 | 2026-05-17 |
 | 26 | Xin Jiang | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-05-18 |
 | 27 | Álvaro Restuccia | — | String Theory | 2 | 2026-05-18 |
-| 28 | Antón F. Faedo | — | AdS/CFT, Entanglement & Geometry, String Theory | 1 | 2026-05-18 |
-| 29 | Carlos Hoyos | — | AdS/CFT, Entanglement & Geometry, String Theory | 1 | 2026-05-18 |
-| 30 | Daniele Musso | — | AdS/CFT, Entanglement & Geometry, String Theory | 1 | 2026-05-18 |
-| 31 | Jose M. Begines | — | AdS/CFT, Entanglement & Geometry, String Theory | 1 | 2026-05-18 |
-| 32 | Wenliang Li | — | CFT | 1 | 2026-05-18 |
-| 33 | Yongwei Guo | — | CFT | 1 | 2026-05-18 |
+| 28 | Alejandro Perez | — | Quantum Gravity | 1 | 2026-05-19 |
+| 29 | Antón F. Faedo | — | AdS/CFT, Entanglement & Geometry, String Theory | 1 | 2026-05-18 |
+| 30 | Carlos Hoyos | — | AdS/CFT, Entanglement & Geometry, String Theory | 1 | 2026-05-18 |
+| 31 | Christian Kennedy | — | AdS/CFT, String Theory | 1 | 2026-05-19 |
+| 32 | D. G. C. McKeon | — | Quantum Gravity | 1 | 2026-05-19 |
+| 33 | Daniele Musso | — | AdS/CFT, Entanglement & Geometry, String Theory | 1 | 2026-05-18 |
+| 34 | Eleonora Alfinito | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-05-19 |
+| 35 | F. T. Brandt | — | Quantum Gravity | 1 | 2026-05-19 |
+| 36 | Gabriele Tartaglino-Mazzucchelli | — | AdS/CFT, String Theory | 1 | 2026-05-19 |
+| 37 | Hussain Gohar | — | Geometric Gravity | 1 | 2026-05-19 |
+| 38 | J. Frenkel | — | Quantum Gravity | 1 | 2026-05-19 |
+| 39 | Jose M. Begines | — | AdS/CFT, Entanglement & Geometry, String Theory | 1 | 2026-05-18 |
+| 40 | Juan Manuel Diaz | — | Quantum Gravity | 1 | 2026-05-19 |
+| 41 | Katrin Becker | — | String Theory | 1 | 2026-05-19 |
+| 42 | Ki-Seok Kim | — | AdS/CFT, Geometric Gravity | 1 | 2026-05-19 |
+| 43 | Man-Li Tian | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-05-19 |
+| 44 | Man-Man Sun | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-05-19 |
+| 45 | Matteo Beccaria | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-05-19 |
+| 46 | Michele Galli | — | AdS/CFT, String Theory | 1 | 2026-05-19 |
+| 47 | Parth Raina | — | AdS/CFT, String Theory | 1 | 2026-05-19 |
+| 48 | Qi You | — | String Theory | 1 | 2026-05-19 |
+| 49 | Roberto Auzzi | — | AdS/CFT, CFT | 1 | 2026-05-19 |
+| 50 | S. Martins-Filho | — | Quantum Gravity | 1 | 2026-05-19 |
+| 51 | Salvatore Santoro | — | AdS/CFT, CFT | 1 | 2026-05-19 |
+| 52 | Stefano Bolognesi | — | AdS/CFT, CFT | 1 | 2026-05-19 |
+| 53 | Wenliang Li | — | CFT | 1 | 2026-05-18 |
+| 54 | Yongwei Guo | — | CFT | 1 | 2026-05-18 |
+| 55 | Zhou-Run Zhu | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-05-19 |
