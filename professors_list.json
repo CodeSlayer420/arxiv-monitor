@@ -991,6 +991,16 @@
     "last_seen": "2026-05-23"
   },
   {
+    "name": "Souvik Bera",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-05-31"
+  },
+  {
     "name": "Stephanie Baines",
     "institution": "",
     "topics": [
@@ -999,6 +1009,16 @@
     ],
     "count": 2,
     "last_seen": "2026-05-28"
+  },
+  {
+    "name": "Sumit Banik",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-05-31"
   },
   {
     "name": "Takanori Ishii",
@@ -1320,6 +1340,16 @@
     "last_seen": "2026-05-22"
   },
   {
+    "name": "Evgeny Skvortsov",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-31"
+  },
+  {
     "name": "F. T. Brandt",
     "institution": "",
     "topics": [
@@ -1415,6 +1445,15 @@
     "last_seen": "2026-05-18"
   },
   {
+    "name": "Joseph Delmar",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-31"
+  },
+  {
     "name": "Juan Manuel Diaz",
     "institution": "",
     "topics": [
@@ -1480,6 +1519,15 @@
     "last_seen": "2026-05-19"
   },
   {
+    "name": "Krzysztof Cichy",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-31"
+  },
+  {
     "name": "Maharshi Sarma",
     "institution": "",
     "topics": [
@@ -1519,6 +1567,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-19"
+  },
+  {
+    "name": "Martha Constantinou",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-31"
   },
   {
     "name": "Martin Sasieta",
@@ -1638,6 +1695,16 @@
     "last_seen": "2026-05-19"
   },
   {
+    "name": "Richard Van Dongen",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-31"
+  },
+  {
     "name": "Roberto A. Sussman",
     "institution": "",
     "topics": [
@@ -1750,16 +1817,6 @@
     "last_seen": "2026-05-30"
   },
   {
-    "name": "Souvik Bera",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-05-30"
-  },
-  {
     "name": "Stefano Bolognesi",
     "institution": "",
     "topics": [
@@ -1777,16 +1834,6 @@
     ],
     "count": 1,
     "last_seen": "2026-05-25"
-  },
-  {
-    "name": "Sumit Banik",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-05-30"
   },
   {
     "name": "Surajit Chattopadhyay",
@@ -1871,6 +1918,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-28"
+  },
+  {
+    "name": "Yong Zhao",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-05-31"
   },
   {
     "name": "Yongwei Guo",
