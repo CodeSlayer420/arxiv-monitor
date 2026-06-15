@@ -2785,6 +2785,16 @@
     "last_seen": "2026-06-11"
   },
   {
+    "name": "Adolfo Guarino",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-15"
+  },
+  {
     "name": "Ahmad Sheykhi",
     "institution": "",
     "topics": [
@@ -2950,6 +2960,16 @@
     "last_seen": "2026-05-19"
   },
   {
+    "name": "Clara Roldán-Domínguez",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-15"
+  },
+  {
     "name": "Connor Wolfe",
     "institution": "",
     "topics": [
@@ -2988,6 +3008,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-18"
+  },
+  {
+    "name": "David J. E. Marsh",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-15"
   },
   {
     "name": "David Ridout",
@@ -3129,6 +3158,16 @@
     "last_seen": "2026-05-25"
   },
   {
+    "name": "Giuseppe Sudano",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-15"
+  },
+  {
     "name": "Gurbir Arora",
     "institution": "",
     "topics": [
@@ -3175,6 +3214,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-19"
+  },
+  {
+    "name": "James Halverson",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-15"
   },
   {
     "name": "Javlon Rayimbaev",
@@ -3342,6 +3390,15 @@
     ],
     "count": 1,
     "last_seen": "2026-06-05"
+  },
+  {
+    "name": "Liam McAllister",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-15"
   },
   {
     "name": "M. A. Khan",
@@ -3539,6 +3596,15 @@
     "last_seen": "2026-06-09"
   },
   {
+    "name": "Pablo Páez-Velasco",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-15"
+  },
+  {
     "name": "Parth Raina",
     "institution": "",
     "topics": [
@@ -3670,6 +3736,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-22"
+  },
+  {
+    "name": "Sebastian Vander Ploeg Fallon",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-15"
   },
   {
     "name": "Sebastián Nájera",
@@ -3833,6 +3908,15 @@
     "last_seen": "2026-05-28"
   },
   {
+    "name": "Tatsuhiro Misumi",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-15"
+  },
+  {
     "name": "Tim Henke",
     "institution": "",
     "topics": [
@@ -3992,5 +4076,15 @@
     ],
     "count": 1,
     "last_seen": "2026-06-05"
+  },
+  {
+    "name": "Álvaro Arboleya",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-15"
   }
 ]
