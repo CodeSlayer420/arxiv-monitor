@@ -32,6 +32,17 @@
     "last_seen": "2026-06-14"
   },
   {
+    "name": "Haitang Yang",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 6,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Kaho Yoshimura",
     "institution": "",
     "topics": [
@@ -61,17 +72,6 @@
     ],
     "count": 5,
     "last_seen": "2026-05-28"
-  },
-  {
-    "name": "Haitang Yang",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Entanglement & Geometry"
-    ],
-    "count": 5,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "Reiko Liu",
@@ -115,6 +115,16 @@
     ],
     "count": 4,
     "last_seen": "2026-06-21"
+  },
+  {
+    "name": "Francesco Sannino",
+    "institution": "",
+    "topics": [
+      "CFT",
+      "Geometric Gravity"
+    ],
+    "count": 4,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Francisco S. N. Lobo",
@@ -206,6 +216,15 @@
     ],
     "count": 4,
     "last_seen": "2026-06-21"
+  },
+  {
+    "name": "Yuan Miao",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 4,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "A. A. Saharian",
@@ -617,6 +636,16 @@
     "last_seen": "2026-06-12"
   },
   {
+    "name": "Fei Huang",
+    "institution": "",
+    "topics": [
+      "CFT",
+      "Celestial Holography"
+    ],
+    "count": 3,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Feng Hao",
     "institution": "",
     "topics": [
@@ -661,16 +690,6 @@
     ],
     "count": 3,
     "last_seen": "2026-06-19"
-  },
-  {
-    "name": "Francesco Sannino",
-    "institution": "",
-    "topics": [
-      "CFT",
-      "Geometric Gravity"
-    ],
-    "count": 3,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "G. V. Mirzoyan",
@@ -995,6 +1014,36 @@
     "last_seen": "2026-06-12"
   },
   {
+    "name": "Lorenzo Herres",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Geometric Gravity"
+    ],
+    "count": 3,
+    "last_seen": "2026-06-25"
+  },
+  {
+    "name": "Lorenzo Orlando",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Geometric Gravity"
+    ],
+    "count": 3,
+    "last_seen": "2026-06-25"
+  },
+  {
+    "name": "Loïc Marsot",
+    "institution": "",
+    "topics": [
+      "CFT",
+      "Celestial Holography"
+    ],
+    "count": 3,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Lu Wei",
     "institution": "",
     "topics": [
@@ -1070,6 +1119,26 @@
     "last_seen": "2026-06-11"
   },
   {
+    "name": "Mariana Graña",
+    "institution": "",
+    "topics": [
+      "Quantum Gravity",
+      "String Theory"
+    ],
+    "count": 3,
+    "last_seen": "2026-06-25"
+  },
+  {
+    "name": "Mariano Cadoni",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Geometric Gravity"
+    ],
+    "count": 3,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Matteo Tuveri",
     "institution": "",
     "topics": [
@@ -1133,6 +1202,16 @@
     ],
     "count": 3,
     "last_seen": "2026-06-12"
+  },
+  {
+    "name": "Mirko Pitzalis",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Geometric Gravity"
+    ],
+    "count": 3,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Misao Sasaki",
@@ -1819,15 +1898,6 @@
     "last_seen": "2026-06-07"
   },
   {
-    "name": "Yuan Miao",
-    "institution": "",
-    "topics": [
-      "CFT"
-    ],
-    "count": 3,
-    "last_seen": "2026-06-21"
-  },
-  {
     "name": "Yuber F. Perez-Gonzalez",
     "institution": "",
     "topics": [
@@ -1977,6 +2047,15 @@
     "last_seen": "2026-06-06"
   },
   {
+    "name": "Amitava Choudhuri",
+    "institution": "",
+    "topics": [
+      "Geometric Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Andrea Bulgarelli",
     "institution": "",
     "topics": [
@@ -2061,6 +2140,24 @@
     "last_seen": "2026-06-06"
   },
   {
+    "name": "Arthur Lipstein",
+    "institution": "",
+    "topics": [
+      "AdS/CFT"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
+    "name": "Asato Tsuchiya",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Ashoke Sen",
     "institution": "",
     "topics": [
@@ -2068,6 +2165,17 @@
     ],
     "count": 2,
     "last_seen": "2026-06-18"
+  },
+  {
+    "name": "Aytül Filiz",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Quantum Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Ayush Bidlan",
@@ -2128,6 +2236,18 @@
     ],
     "count": 2,
     "last_seen": "2026-05-28"
+  },
+  {
+    "name": "Bin Zhu",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Celestial Holography",
+      "Quantum Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Bintoro Anang Subagyo",
@@ -2215,6 +2335,15 @@
     ],
     "count": 2,
     "last_seen": "2026-05-28"
+  },
+  {
+    "name": "Cristhiam Lopez-Arcos",
+    "institution": "",
+    "topics": [
+      "AdS/CFT"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Cumrun Vafa",
@@ -2305,6 +2434,16 @@
     "last_seen": "2026-05-17"
   },
   {
+    "name": "Dominic O. Chang",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Ekapong Hirunsirisawat",
     "institution": "",
     "topics": [
@@ -2369,14 +2508,14 @@
     "last_seen": "2026-05-27"
   },
   {
-    "name": "Fei Huang",
+    "name": "Federico Capeccia",
     "institution": "",
     "topics": [
-      "CFT",
-      "Celestial Holography"
+      "AdS/CFT",
+      "CFT"
     ],
     "count": 2,
-    "last_seen": "2026-06-24"
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Fernando M. Belchior",
@@ -2455,6 +2594,15 @@
     "last_seen": "2026-05-17"
   },
   {
+    "name": "Giacomo Cacciapaglia",
+    "institution": "",
+    "topics": [
+      "Geometric Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Giulio Codogni",
     "institution": "",
     "topics": [
@@ -2481,6 +2629,17 @@
     ],
     "count": 2,
     "last_seen": "2026-06-11"
+  },
+  {
+    "name": "H. T. Özer",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Quantum Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Haifeng Tang",
@@ -2549,6 +2708,15 @@
     "last_seen": "2026-05-23"
   },
   {
+    "name": "Humberto Gomez",
+    "institution": "",
+    "topics": [
+      "AdS/CFT"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Igor Mol",
     "institution": "",
     "topics": [
@@ -2587,6 +2755,16 @@
     "last_seen": "2026-06-11"
   },
   {
+    "name": "Jacqueline Caminiti",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Jakob Hollweck",
     "institution": "",
     "topics": [
@@ -2594,6 +2772,16 @@
     ],
     "count": 2,
     "last_seen": "2026-06-19"
+  },
+  {
+    "name": "Jan Troost",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "John McGreevy",
@@ -2616,6 +2804,16 @@
     "last_seen": "2026-05-17"
   },
   {
+    "name": "Jonathan Sorce",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Joydeep Naskar",
     "institution": "",
     "topics": [
@@ -2632,6 +2830,16 @@
     ],
     "count": 2,
     "last_seen": "2026-05-23"
+  },
+  {
+    "name": "Junho Hong",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "K. B. Alkalaev",
@@ -2681,6 +2889,15 @@
     ],
     "count": 2,
     "last_seen": "2026-06-06"
+  },
+  {
+    "name": "Keiichiro Hattori",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Kensuke Gallock-Yoshimura",
@@ -2748,6 +2965,16 @@
     "last_seen": "2026-06-13"
   },
   {
+    "name": "Leo Rodriguez",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Leonardo Rastelli",
     "institution": "",
     "topics": [
@@ -2765,36 +2992,6 @@
     ],
     "count": 2,
     "last_seen": "2026-06-19"
-  },
-  {
-    "name": "Lorenzo Herres",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "Geometric Gravity"
-    ],
-    "count": 2,
-    "last_seen": "2026-06-24"
-  },
-  {
-    "name": "Lorenzo Orlando",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "Geometric Gravity"
-    ],
-    "count": 2,
-    "last_seen": "2026-06-24"
-  },
-  {
-    "name": "Loïc Marsot",
-    "institution": "",
-    "topics": [
-      "CFT",
-      "Celestial Holography"
-    ],
-    "count": 2,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "Luca Ciambelli",
@@ -2845,6 +3042,15 @@
     "last_seen": "2026-05-27"
   },
   {
+    "name": "Manuel Del Piano",
+    "institution": "",
+    "topics": [
+      "Geometric Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Marc S. Klinger",
     "institution": "",
     "topics": [
@@ -2870,26 +3076,6 @@
     ],
     "count": 2,
     "last_seen": "2026-05-28"
-  },
-  {
-    "name": "Mariana Graña",
-    "institution": "",
-    "topics": [
-      "Quantum Gravity",
-      "String Theory"
-    ],
-    "count": 2,
-    "last_seen": "2026-05-28"
-  },
-  {
-    "name": "Mariano Cadoni",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "Geometric Gravity"
-    ],
-    "count": 2,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "Marius Gerbershagen",
@@ -2966,16 +3152,6 @@
     "last_seen": "2026-06-10"
   },
   {
-    "name": "Mirko Pitzalis",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "Geometric Gravity"
-    ],
-    "count": 2,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Mohamed M. Anber",
     "institution": "",
     "topics": [
@@ -3004,6 +3180,16 @@
     ],
     "count": 2,
     "last_seen": "2026-06-19"
+  },
+  {
+    "name": "Nikolay Bobev",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Norihiro Tanahashi",
@@ -3219,6 +3405,16 @@
     "last_seen": "2026-06-11"
   },
   {
+    "name": "Raid M Suleiman",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Ratchaphat Nakarachinda",
     "institution": "",
     "topics": [
@@ -3227,6 +3423,15 @@
     ],
     "count": 2,
     "last_seen": "2026-06-24"
+  },
+  {
+    "name": "Renann Lipinski Jusinskas",
+    "institution": "",
+    "topics": [
+      "AdS/CFT"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Rodolfo Véliz",
@@ -3423,6 +3628,16 @@
     "last_seen": "2026-05-18"
   },
   {
+    "name": "Shanshan Rodriguez",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Shatarupa Maity",
     "institution": "",
     "topics": [
@@ -3517,6 +3732,15 @@
     "last_seen": "2026-06-06"
   },
   {
+    "name": "Subhra Mondal",
+    "institution": "",
+    "topics": [
+      "Geometric Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Sumit Banik",
     "institution": "",
     "topics": [
@@ -3525,6 +3749,25 @@
     ],
     "count": 2,
     "last_seen": "2026-05-31"
+  },
+  {
+    "name": "Sunjin Choi",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
+    "name": "T. Thiemann",
+    "institution": "",
+    "topics": [
+      "Quantum Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Tadashi Takayanagi",
@@ -3546,6 +3789,15 @@
     ],
     "count": 2,
     "last_seen": "2026-05-17"
+  },
+  {
+    "name": "Tatsuya Seko",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Temple He",
@@ -3622,6 +3874,25 @@
     ],
     "count": 2,
     "last_seen": "2026-05-30"
+  },
+  {
+    "name": "Valentin Reys",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
+  },
+  {
+    "name": "Vania Vellucci",
+    "institution": "",
+    "topics": [
+      "Geometric Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Veronica Collazuol",
@@ -3932,15 +4203,6 @@
     "last_seen": "2026-06-02"
   },
   {
-    "name": "Amitava Choudhuri",
-    "institution": "",
-    "topics": [
-      "Geometric Gravity"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Andrea Campoleoni",
     "institution": "",
     "topics": [
@@ -4017,33 +4279,6 @@
     "last_seen": "2026-05-22"
   },
   {
-    "name": "Arthur Lipstein",
-    "institution": "",
-    "topics": [
-      "AdS/CFT"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
-    "name": "Asato Tsuchiya",
-    "institution": "",
-    "topics": [
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
-    "name": "Aytül Filiz",
-    "institution": "",
-    "topics": [
-      "AdS/CFT"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-23"
-  },
-  {
     "name": "B. Turimov",
     "institution": "",
     "topics": [
@@ -4060,18 +4295,6 @@
     ],
     "count": 1,
     "last_seen": "2026-05-30"
-  },
-  {
-    "name": "Bin Zhu",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Celestial Holography",
-      "Quantum Gravity"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "Brenno Carlini Vallilo",
@@ -4146,15 +4369,6 @@
     "last_seen": "2026-05-25"
   },
   {
-    "name": "Cristhiam Lopez-Arcos",
-    "institution": "",
-    "topics": [
-      "AdS/CFT"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "D. G. C. McKeon",
     "institution": "",
     "topics": [
@@ -4171,6 +4385,15 @@
     ],
     "count": 1,
     "last_seen": "2026-06-09"
+  },
+  {
+    "name": "Daniele Licciardello",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Daniele Musso",
@@ -4202,6 +4425,15 @@
     "last_seen": "2026-05-22"
   },
   {
+    "name": "Dimitrios Toulikas",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "Domenico Frattulillo",
     "institution": "",
     "topics": [
@@ -4209,16 +4441,6 @@
     ],
     "count": 1,
     "last_seen": "2026-05-25"
-  },
-  {
-    "name": "Dominic O. Chang",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "Donato Bini",
@@ -4256,6 +4478,15 @@
     ],
     "count": 1,
     "last_seen": "2026-06-02"
+  },
+  {
+    "name": "Eric Vernier",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Ethan Fursman",
@@ -4296,16 +4527,6 @@
     "last_seen": "2026-05-19"
   },
   {
-    "name": "Federico Capeccia",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Francesca Vidotto",
     "institution": "",
     "topics": [
@@ -4342,15 +4563,6 @@
     ],
     "count": 1,
     "last_seen": "2026-05-19"
-  },
-  {
-    "name": "Giacomo Cacciapaglia",
-    "institution": "",
-    "topics": [
-      "Geometric Gravity"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "Giampiero Esposito",
@@ -4392,15 +4604,6 @@
     "last_seen": "2026-05-25"
   },
   {
-    "name": "H. T. Özer",
-    "institution": "",
-    "topics": [
-      "AdS/CFT"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-23"
-  },
-  {
     "name": "Hajime Nagoya",
     "institution": "",
     "topics": [
@@ -4408,15 +4611,6 @@
     ],
     "count": 1,
     "last_seen": "2026-05-28"
-  },
-  {
-    "name": "Humberto Gomez",
-    "institution": "",
-    "topics": [
-      "AdS/CFT"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "Hussain Gohar",
@@ -4438,6 +4632,15 @@
     "last_seen": "2026-06-05"
   },
   {
+    "name": "Iosif Bena",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-25"
+  },
+  {
     "name": "J. Frenkel",
     "institution": "",
     "topics": [
@@ -4447,16 +4650,6 @@
     "last_seen": "2026-05-19"
   },
   {
-    "name": "Jacqueline Caminiti",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "James Halverson",
     "institution": "",
     "topics": [
@@ -4464,16 +4657,6 @@
     ],
     "count": 1,
     "last_seen": "2026-06-15"
-  },
-  {
-    "name": "Jan Troost",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "Javlon Rayimbaev",
@@ -4521,16 +4704,6 @@
     ],
     "count": 1,
     "last_seen": "2026-06-16"
-  },
-  {
-    "name": "Jonathan Sorce",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "Jose M. Begines",
@@ -4581,16 +4754,6 @@
     "last_seen": "2026-05-25"
   },
   {
-    "name": "Junho Hong",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Justine Fasquel",
     "institution": "",
     "topics": [
@@ -4636,15 +4799,6 @@
     "last_seen": "2026-06-02"
   },
   {
-    "name": "Keiichiro Hattori",
-    "institution": "",
-    "topics": [
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Keisuke Nakashi",
     "institution": "",
     "topics": [
@@ -4682,16 +4836,6 @@
     "last_seen": "2026-05-31"
   },
   {
-    "name": "Leo Rodriguez",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Li-Jie Xin",
     "institution": "",
     "topics": [
@@ -4708,6 +4852,15 @@
     ],
     "count": 1,
     "last_seen": "2026-06-15"
+  },
+  {
+    "name": "Luca Martucci",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Lukas Schoug",
@@ -4778,15 +4931,6 @@
     "last_seen": "2026-06-16"
   },
   {
-    "name": "Manuel Del Piano",
-    "institution": "",
-    "topics": [
-      "Geometric Gravity"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Martha Constantinou",
     "institution": "",
     "topics": [
@@ -4805,6 +4949,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-25"
+  },
+  {
+    "name": "Masahito Yamazaki",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Matthew Headrick",
@@ -4894,16 +5047,6 @@
     "last_seen": "2026-05-28"
   },
   {
-    "name": "Nikolay Bobev",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Nuriddin Kurbonov",
     "institution": "",
     "topics": [
@@ -4988,23 +5131,13 @@
     "last_seen": "2026-05-19"
   },
   {
-    "name": "Raid M Suleiman",
+    "name": "Raphaël Dulac",
     "institution": "",
     "topics": [
-      "AdS/CFT",
       "String Theory"
     ],
     "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
-    "name": "Renann Lipinski Jusinskas",
-    "institution": "",
-    "topics": [
-      "AdS/CFT"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Richard Van Dongen",
@@ -5129,16 +5262,6 @@
     "last_seen": "2026-06-02"
   },
   {
-    "name": "Shanshan Rodriguez",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Shokoufe Faraji",
     "institution": "",
     "topics": [
@@ -5166,6 +5289,15 @@
     ],
     "count": 1,
     "last_seen": "2026-06-02"
+  },
+  {
+    "name": "Si-wen Li",
+    "institution": "",
+    "topics": [
+      "AdS/CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Sid Maibach",
@@ -5253,23 +5385,15 @@
     "last_seen": "2026-05-25"
   },
   {
-    "name": "Subhra Mondal",
-    "institution": "",
-    "topics": [
-      "Geometric Gravity"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
-    "name": "Sunjin Choi",
+    "name": "Sudipta Dutta",
     "institution": "",
     "topics": [
       "AdS/CFT",
-      "String Theory"
+      "CFT",
+      "Celestial Holography"
     ],
     "count": 1,
-    "last_seen": "2026-06-24"
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Surajit Chattopadhyay",
@@ -5290,15 +5414,6 @@
     "last_seen": "2026-05-30"
   },
   {
-    "name": "T. Thiemann",
-    "institution": "",
-    "topics": [
-      "Quantum Gravity"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Taehwan Oh",
     "institution": "",
     "topics": [
@@ -5316,15 +5431,6 @@
     ],
     "count": 1,
     "last_seen": "2026-06-15"
-  },
-  {
-    "name": "Tatsuya Seko",
-    "institution": "",
-    "topics": [
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
   },
   {
     "name": "Tim Henke",
@@ -5364,25 +5470,6 @@
     "last_seen": "2026-06-09"
   },
   {
-    "name": "Valentin Reys",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
-    "name": "Vania Vellucci",
-    "institution": "",
-    "topics": [
-      "Geometric Gravity"
-    ],
-    "count": 1,
-    "last_seen": "2026-06-24"
-  },
-  {
     "name": "Vittorio D'Esposito",
     "institution": "",
     "topics": [
@@ -5418,6 +5505,24 @@
     ],
     "count": 1,
     "last_seen": "2026-06-05"
+  },
+  {
+    "name": "Xiang Hao",
+    "institution": "",
+    "topics": [
+      "AdS/CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-25"
+  },
+  {
+    "name": "Yan-qing Zhao",
+    "institution": "",
+    "topics": [
+      "AdS/CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-25"
   },
   {
     "name": "Yiru Wang",
@@ -5525,5 +5630,14 @@
     ],
     "count": 1,
     "last_seen": "2026-06-15"
+  },
+  {
+    "name": "Álvaro Mozota Frauca",
+    "institution": "",
+    "topics": [
+      "Quantum Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-06-25"
   }
 ]
