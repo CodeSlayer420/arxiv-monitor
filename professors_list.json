@@ -7353,6 +7353,15 @@
     "last_seen": "2026-06-02"
   },
   {
+    "name": "Armen Poghosyan",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-13"
+  },
+  {
     "name": "Aroonkumar Beesham",
     "institution": "",
     "topics": [
@@ -7678,6 +7687,15 @@
     "last_seen": "2026-05-28"
   },
   {
+    "name": "Hasmik Poghosyan",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-13"
+  },
+  {
     "name": "Ion Nechita",
     "institution": "",
     "topics": [
@@ -7991,6 +8009,16 @@
     "last_seen": "2026-05-25"
   },
   {
+    "name": "Mehdi Sadeghi",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-13"
+  },
+  {
     "name": "Miao Hu",
     "institution": "",
     "topics": [
@@ -8018,6 +8046,16 @@
     ],
     "count": 1,
     "last_seen": "2026-05-22"
+  },
+  {
+    "name": "Mikhail Belakovskiy",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-13"
   },
   {
     "name": "Mikhail S. Volkov",
@@ -8055,6 +8093,16 @@
     ],
     "count": 1,
     "last_seen": "2026-06-30"
+  },
+  {
+    "name": "Mojtaba Shahbazi",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-13"
   },
   {
     "name": "Moslem Shafiee",
@@ -8121,6 +8169,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-19"
+  },
+  {
+    "name": "Paul Pfeiffer",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-13"
   },
   {
     "name": "Peng Ye",
@@ -8488,6 +8545,16 @@
     "last_seen": "2026-05-25"
   },
   {
+    "name": "Vladimir Belavin",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-13"
+  },
+  {
     "name": "Waleed El Hanafy",
     "institution": "",
     "topics": [
@@ -8504,6 +8571,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Wolfgang Spitzer",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-13"
   },
   {
     "name": "Xavier Bekaert",
