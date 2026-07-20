@@ -1991,6 +1991,17 @@
     "last_seen": "2026-06-21"
   },
   {
+    "name": "Jacob March",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 3,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Jaeha Park",
     "institution": "",
     "topics": [
@@ -2288,6 +2299,17 @@
     ],
     "count": 3,
     "last_seen": "2026-07-15"
+  },
+  {
+    "name": "Keiichiro Furuya",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 3,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Keiichiro Hattori",
@@ -2872,6 +2894,17 @@
     ],
     "count": 3,
     "last_seen": "2026-07-18"
+  },
+  {
+    "name": "Ning Bao",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 3,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Nirmalya Kajuri",
@@ -5314,6 +5347,16 @@
     "last_seen": "2026-06-11"
   },
   {
+    "name": "Davide Batic",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Quantum Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Debabrata Sahu",
     "institution": "",
     "topics": [
@@ -5354,6 +5397,16 @@
     ],
     "count": 2,
     "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Denys Dutykh",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Quantum Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Diana Muñoz-Valencia",
@@ -6206,17 +6259,6 @@
     "last_seen": "2026-07-04"
   },
   {
-    "name": "Jacob March",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Entanglement & Geometry"
-    ],
-    "count": 2,
-    "last_seen": "2026-07-10"
-  },
-  {
     "name": "Jacob McNamara",
     "institution": "",
     "topics": [
@@ -6535,17 +6577,6 @@
     ],
     "count": 2,
     "last_seen": "2026-06-06"
-  },
-  {
-    "name": "Keiichiro Furuya",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Entanglement & Geometry"
-    ],
-    "count": 2,
-    "last_seen": "2026-07-10"
   },
   {
     "name": "Kensuke Gallock-Yoshimura",
@@ -7172,17 +7203,6 @@
     ],
     "count": 2,
     "last_seen": "2026-07-04"
-  },
-  {
-    "name": "Ning Bao",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Entanglement & Geometry"
-    ],
-    "count": 2,
-    "last_seen": "2026-07-10"
   },
   {
     "name": "Norbert M. Linke",
@@ -8692,6 +8712,25 @@
     "last_seen": "2026-06-11"
   },
   {
+    "name": "Abdullah Guvendi",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Geometric Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Aditya Iyer",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Adolfo Guarino",
     "institution": "",
     "topics": [
@@ -8710,6 +8749,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-26"
+  },
+  {
+    "name": "Alan S. Cornell",
+    "institution": "",
+    "topics": [
+      "AdS/CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Albion Lawrence",
@@ -8739,6 +8787,15 @@
     ],
     "count": 1,
     "last_seen": "2026-06-23"
+  },
+  {
+    "name": "Alexander Yosifov",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Ali Eghbali",
@@ -8862,6 +8919,16 @@
     "last_seen": "2026-06-11"
   },
   {
+    "name": "Behzad Eslam Panah",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Geometric Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Bekzod Rahmatov",
     "institution": "",
     "topics": [
@@ -8869,6 +8936,36 @@
     ],
     "count": 1,
     "last_seen": "2026-05-30"
+  },
+  {
+    "name": "Blagoje Oblak",
+    "institution": "",
+    "topics": [
+      "Asymptotic Symmetries"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Boris Post",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry",
+      "Geometric Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Bozhen Zhou",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Brenno Carlini Vallilo",
@@ -8919,6 +9016,15 @@
     ],
     "count": 1,
     "last_seen": "2026-06-30"
+  },
+  {
+    "name": "Charles Marteau",
+    "institution": "",
+    "topics": [
+      "Asymptotic Symmetries"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Chen-Te Ma",
@@ -8980,6 +9086,15 @@
     "last_seen": "2026-06-09"
   },
   {
+    "name": "Daniel Serrano",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Daniele Musso",
     "institution": "",
     "topics": [
@@ -9009,22 +9124,13 @@
     "last_seen": "2026-05-22"
   },
   {
-    "name": "Davide Batic",
+    "name": "Dayue Qin",
     "institution": "",
     "topics": [
-      "Quantum Gravity"
+      "Entanglement & Geometry"
     ],
     "count": 1,
-    "last_seen": "2026-07-14"
-  },
-  {
-    "name": "Denys Dutykh",
-    "institution": "",
-    "topics": [
-      "Quantum Gravity"
-    ],
-    "count": 1,
-    "last_seen": "2026-07-14"
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Domenico Frattulillo",
@@ -9242,6 +9348,27 @@
     "last_seen": "2026-06-05"
   },
   {
+    "name": "Jeevan Chandra",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry",
+      "Geometric Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Jeremy A. Mann",
+    "institution": "",
+    "topics": [
+      "Asymptotic Symmetries"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Jianhui Lin",
     "institution": "",
     "topics": [
@@ -9259,6 +9386,24 @@
     ],
     "count": 1,
     "last_seen": "2026-06-05"
+  },
+  {
+    "name": "Jinzhao Sun",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Jorrit Bosma",
+    "institution": "",
+    "topics": [
+      "Asymptotic Symmetries"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Jose M. Begines",
@@ -9300,6 +9445,15 @@
     "last_seen": "2026-05-28"
   },
   {
+    "name": "Jue Xu",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Junchen Rong",
     "institution": "",
     "topics": [
@@ -9307,6 +9461,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-25"
+  },
+  {
+    "name": "Junxiang Huang",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Justine Fasquel",
@@ -9448,6 +9611,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-19"
+  },
+  {
+    "name": "Marios Petropoulos",
+    "institution": "",
+    "topics": [
+      "Asymptotic Symmetries"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Martha Constantinou",
@@ -9624,6 +9796,16 @@
     "last_seen": "2026-06-08"
   },
   {
+    "name": "Omar Mustafa",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Geometric Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Osvaldo Chandia",
     "institution": "",
     "topics": [
@@ -9640,6 +9822,15 @@
     ],
     "count": 1,
     "last_seen": "2026-06-15"
+  },
+  {
+    "name": "Pan Zhang",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Parth Raina",
@@ -9659,6 +9850,15 @@
     ],
     "count": 1,
     "last_seen": "2026-07-13"
+  },
+  {
+    "name": "Pei Zeng",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Peng Ye",
@@ -9696,6 +9896,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-19"
+  },
+  {
+    "name": "Qi Zhao",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Roberto A. Sussman",
@@ -9800,6 +10009,16 @@
     "last_seen": "2026-05-22"
   },
   {
+    "name": "Semra Gurtas Dogan",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Geometric Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Shalabh Gautam",
     "institution": "",
     "topics": [
@@ -9820,6 +10039,15 @@
     "last_seen": "2026-05-22"
   },
   {
+    "name": "Shreyas Sadugol",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Shudi Jiang",
     "institution": "",
     "topics": [
@@ -9837,6 +10065,15 @@
     ],
     "count": 1,
     "last_seen": "2026-06-02"
+  },
+  {
+    "name": "Shuo Zhou",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Sid Maibach",
@@ -9980,6 +10217,15 @@
     "last_seen": "2026-06-30"
   },
   {
+    "name": "Tianfeng Feng",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Tim Henke",
     "institution": "",
     "topics": [
@@ -9987,6 +10233,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-22"
+  },
+  {
+    "name": "Tongyang Li",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Tristan Hübsch",
@@ -10045,6 +10300,15 @@
     "last_seen": "2026-06-02"
   },
   {
+    "name": "Wenjun Yu",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Wenliang Li",
     "institution": "",
     "topics": [
@@ -10052,6 +10316,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-18"
+  },
+  {
+    "name": "Wenzheng Dong",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Wolfgang Spitzer",
@@ -10073,6 +10346,24 @@
     "last_seen": "2026-06-05"
   },
   {
+    "name": "Xiao Yuan",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Xiao-Ming Zhang",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Xing Huang",
     "institution": "",
     "topics": [
@@ -10083,6 +10374,33 @@
     "last_seen": "2026-06-30"
   },
   {
+    "name": "Xinzhao Wang",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Xiongfeng Ma",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Yantao Wu",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Yen-Kheng Lim",
     "institution": "",
     "topics": [
@@ -10090,6 +10408,24 @@
     ],
     "count": 1,
     "last_seen": "2026-07-14"
+  },
+  {
+    "name": "Yiming Huang",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Ying Li",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Yiru Wang",
@@ -10111,6 +10447,15 @@
     "last_seen": "2026-05-31"
   },
   {
+    "name": "You Zhou",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Yu-Tao Hu",
     "institution": "",
     "topics": [
@@ -10120,6 +10465,15 @@
     "last_seen": "2026-06-05"
   },
   {
+    "name": "Yuan Yao",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
     "name": "Yun-Ten Chin",
     "institution": "",
     "topics": [
@@ -10127,6 +10481,15 @@
     ],
     "count": 1,
     "last_seen": "2026-07-14"
+  },
+  {
+    "name": "Yuntian Gu",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Z. Avezmuratova",
@@ -10145,6 +10508,24 @@
     ],
     "count": 1,
     "last_seen": "2026-06-11"
+  },
+  {
+    "name": "Zhenyu Du",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Zhou You",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Zhou-Run Zhu",
@@ -10176,6 +10557,24 @@
     ],
     "count": 1,
     "last_seen": "2026-06-08"
+  },
+  {
+    "name": "Ziruo Wang",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Zixu Zhang",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-07-20"
   },
   {
     "name": "Álvaro Arboleya",
