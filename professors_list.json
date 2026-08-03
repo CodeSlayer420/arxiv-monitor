@@ -989,6 +989,16 @@
     "last_seen": "2026-08-01"
   },
   {
+    "name": "Subhra Mondal",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry",
+      "Geometric Gravity"
+    ],
+    "count": 4,
+    "last_seen": "2026-08-03"
+  },
+  {
     "name": "Yuta Hamada",
     "institution": "",
     "topics": [
@@ -1463,6 +1473,18 @@
     ],
     "count": 3,
     "last_seen": "2026-06-21"
+  },
+  {
+    "name": "Arpan Bhattacharyya",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Asymptotic Symmetries",
+      "Celestial Holography",
+      "Entanglement & Geometry"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-03"
   },
   {
     "name": "Artyom P. Nevecheria",
@@ -4590,15 +4612,6 @@
     "last_seen": "2026-07-18"
   },
   {
-    "name": "Subhra Mondal",
-    "institution": "",
-    "topics": [
-      "Geometric Gravity"
-    ],
-    "count": 3,
-    "last_seen": "2026-06-26"
-  },
-  {
     "name": "Subhroneel Chakrabarti",
     "institution": "",
     "topics": [
@@ -5987,16 +6000,6 @@
     ],
     "count": 2,
     "last_seen": "2026-08-01"
-  },
-  {
-    "name": "Arpan Bhattacharyya",
-    "institution": "",
-    "topics": [
-      "Asymptotic Symmetries",
-      "Celestial Holography"
-    ],
-    "count": 2,
-    "last_seen": "2026-06-06"
   },
   {
     "name": "Arthur Lipstein",
@@ -11496,6 +11499,26 @@
     "last_seen": "2026-06-15"
   },
   {
+    "name": "Ling-Zheng Xia",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-03"
+  },
+  {
+    "name": "Lixin Xu",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-03"
+  },
+  {
     "name": "Lukas Schoug",
     "institution": "",
     "topics": [
@@ -11566,6 +11589,16 @@
     "last_seen": "2026-05-19"
   },
   {
+    "name": "Manish Ramchander",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-03"
+  },
+  {
     "name": "Marios Petropoulos",
     "institution": "",
     "topics": [
@@ -11613,6 +11646,16 @@
     ],
     "count": 1,
     "last_seen": "2026-05-25"
+  },
+  {
+    "name": "Md Khalid Hossain",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-03"
   },
   {
     "name": "Mehdi Sadeghi",
@@ -11888,6 +11931,16 @@
     "last_seen": "2026-06-16"
   },
   {
+    "name": "Ronak M Soni",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-03"
+  },
+  {
     "name": "S. I. Aadharsh Raj",
     "institution": "",
     "topics": [
@@ -11915,6 +11968,15 @@
     ],
     "count": 1,
     "last_seen": "2026-07-23"
+  },
+  {
+    "name": "S. Shankaranarayanan",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-03"
   },
   {
     "name": "S. Usanov",
@@ -11952,6 +12014,16 @@
     ],
     "count": 1,
     "last_seen": "2026-05-22"
+  },
+  {
+    "name": "Sanhita Parihar",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-03"
   },
   {
     "name": "Sebastian Vander Ploeg Fallon",
@@ -12009,6 +12081,16 @@
     ],
     "count": 1,
     "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Shubho R. Roy",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-03"
   },
   {
     "name": "Shudi Jiang",
