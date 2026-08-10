@@ -3597,6 +3597,19 @@
     "last_seen": "2026-06-19"
   },
   {
+    "name": "Mahdis Ghodrati",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry",
+      "Quantum Gravity",
+      "String Theory"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-10"
+  },
+  {
     "name": "Manan Bhatia",
     "institution": "",
     "topics": [
@@ -3718,6 +3731,16 @@
     ],
     "count": 3,
     "last_seen": "2026-07-03"
+  },
+  {
+    "name": "Masataka Watanabe",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry",
+      "Quantum Gravity"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-10"
   },
   {
     "name": "Masaya Yata",
@@ -9167,17 +9190,6 @@
     "last_seen": "2026-07-03"
   },
   {
-    "name": "Mahdis Ghodrati",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "Entanglement & Geometry",
-      "Quantum Gravity"
-    ],
-    "count": 2,
-    "last_seen": "2026-05-27"
-  },
-  {
     "name": "Makana Silva",
     "institution": "",
     "topics": [
@@ -9353,16 +9365,6 @@
     ],
     "count": 2,
     "last_seen": "2026-05-18"
-  },
-  {
-    "name": "Masataka Watanabe",
-    "institution": "",
-    "topics": [
-      "Entanglement & Geometry",
-      "Quantum Gravity"
-    ],
-    "count": 2,
-    "last_seen": "2026-07-02"
   },
   {
     "name": "Matheus Balisa",
@@ -10248,6 +10250,16 @@
     ],
     "count": 2,
     "last_seen": "2026-07-31"
+  },
+  {
+    "name": "S. Shankaranarayanan",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry",
+      "Quantum Gravity"
+    ],
+    "count": 2,
+    "last_seen": "2026-08-10"
   },
   {
     "name": "Saeed Fakhry",
@@ -11668,6 +11680,25 @@
     "last_seen": "2026-06-02"
   },
   {
+    "name": "Amogh Srivastav",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry",
+      "Quantum Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-10"
+  },
+  {
+    "name": "Ankit Anand",
+    "institution": "",
+    "topics": [
+      "Geometric Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-10"
+  },
+  {
     "name": "Anna Biggs",
     "institution": "",
     "topics": [
@@ -12162,6 +12193,15 @@
     "last_seen": "2026-07-13"
   },
   {
+    "name": "Hendrik J. R. Van Zyl",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-10"
+  },
+  {
     "name": "Houri-Christina Tarazi",
     "institution": "",
     "topics": [
@@ -12236,6 +12276,15 @@
     ],
     "count": 1,
     "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Jeff Murugan",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-10"
   },
   {
     "name": "Jeremy A. Mann",
@@ -12412,6 +12461,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-19"
+  },
+  {
+    "name": "Kimet Jusufi",
+    "institution": "",
+    "topics": [
+      "Geometric Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-10"
   },
   {
     "name": "Krzysztof Cichy",
@@ -12919,15 +12977,6 @@
     ],
     "count": 1,
     "last_seen": "2026-07-23"
-  },
-  {
-    "name": "S. Shankaranarayanan",
-    "institution": "",
-    "topics": [
-      "Entanglement & Geometry"
-    ],
-    "count": 1,
-    "last_seen": "2026-08-03"
   },
   {
     "name": "S. Usanov",
