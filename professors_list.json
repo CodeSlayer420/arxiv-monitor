@@ -461,6 +461,15 @@
     "last_seen": "2026-07-30"
   },
   {
+    "name": "Mauricio Cataldo",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 6,
+    "last_seen": "2026-08-24"
+  },
+  {
     "name": "Michal P. Heller",
     "institution": "",
     "topics": [
@@ -839,15 +848,6 @@
     ],
     "count": 5,
     "last_seen": "2026-08-15"
-  },
-  {
-    "name": "Mauricio Cataldo",
-    "institution": "",
-    "topics": [
-      "Entanglement & Geometry"
-    ],
-    "count": 5,
-    "last_seen": "2026-08-20"
   },
   {
     "name": "Reiko Liu",
@@ -13614,6 +13614,15 @@
     "last_seen": "2026-07-14"
   },
   {
+    "name": "Ali Shojai",
+    "institution": "",
+    "topics": [
+      "Asymptotic Symmetries"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-24"
+  },
+  {
     "name": "Amare Abebe",
     "institution": "",
     "topics": [
@@ -13631,6 +13640,15 @@
     ],
     "count": 1,
     "last_seen": "2026-08-10"
+  },
+  {
+    "name": "Andreas P. Braun",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-24"
   },
   {
     "name": "Anna Biggs",
@@ -14594,6 +14612,15 @@
     "last_seen": "2026-07-07"
   },
   {
+    "name": "Matteo Sacchi",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-24"
+  },
+  {
     "name": "Matthew Headrick",
     "institution": "",
     "topics": [
@@ -14758,6 +14785,15 @@
     "last_seen": "2026-05-28"
   },
   {
+    "name": "Nathan Moynihan",
+    "institution": "",
+    "topics": [
+      "Asymptotic Symmetries"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-24"
+  },
+  {
     "name": "Nuriddin Kurbonov",
     "institution": "",
     "topics": [
@@ -14785,6 +14821,15 @@
     ],
     "count": 1,
     "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Oscar Lewis",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-24"
   },
   {
     "name": "Osvaldo Chandia",
@@ -14877,6 +14922,15 @@
     ],
     "count": 1,
     "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Raihaneh Moti",
+    "institution": "",
+    "topics": [
+      "Asymptotic Symmetries"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-24"
   },
   {
     "name": "Rajdeep Mitra",
@@ -14972,6 +15026,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-30"
+  },
+  {
+    "name": "Sakura Schafer-Nameki",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-24"
   },
   {
     "name": "Salvatore Santoro",
