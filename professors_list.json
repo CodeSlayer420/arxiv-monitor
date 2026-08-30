@@ -2204,6 +2204,17 @@
     "last_seen": "2026-07-18"
   },
   {
+    "name": "Alok Laddha",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Celestial Holography"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-30"
+  },
+  {
     "name": "Alvaro Torres-Caballeros",
     "institution": "",
     "topics": [
@@ -2328,6 +2339,16 @@
     ],
     "count": 3,
     "last_seen": "2026-06-11"
+  },
+  {
+    "name": "Andreas Schmitt",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-30"
   },
   {
     "name": "Andrei Grigorev",
@@ -2462,6 +2483,17 @@
     ],
     "count": 3,
     "last_seen": "2026-06-18"
+  },
+  {
+    "name": "Arjun Bagchi",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Celestial Holography"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-30"
   },
   {
     "name": "Arkady A. Tseytlin",
@@ -4641,6 +4673,17 @@
     "last_seen": "2026-07-03"
   },
   {
+    "name": "Liang Li",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-30"
+  },
+  {
     "name": "Lijing Shao",
     "institution": "",
     "topics": [
@@ -5357,6 +5400,16 @@
     "last_seen": "2026-08-22"
   },
   {
+    "name": "Nicolas Kovensky",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-30"
+  },
+  {
     "name": "Nicolò Primi",
     "institution": "",
     "topics": [
@@ -5516,6 +5569,17 @@
     ],
     "count": 3,
     "last_seen": "2026-08-20"
+  },
+  {
+    "name": "Partha Paul",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Celestial Holography"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-30"
   },
   {
     "name": "Parthasarathi Majumdar",
@@ -5717,6 +5781,17 @@
     ],
     "count": 3,
     "last_seen": "2026-08-16"
+  },
+  {
+    "name": "Prateksh Dhivakar",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Celestial Holography"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-30"
   },
   {
     "name": "Preslav Asenov",
@@ -7557,6 +7632,15 @@
     "last_seen": "2026-08-08"
   },
   {
+    "name": "Zhengyan Darius Shi",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-30"
+  },
+  {
     "name": "Zhi-Fu Gao",
     "institution": "",
     "topics": [
@@ -7988,17 +8072,6 @@
     "last_seen": "2026-05-27"
   },
   {
-    "name": "Alok Laddha",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Celestial Holography"
-    ],
-    "count": 2,
-    "last_seen": "2026-08-29"
-  },
-  {
     "name": "Alonso Perez-Lona",
     "institution": "",
     "topics": [
@@ -8101,16 +8174,6 @@
     ],
     "count": 2,
     "last_seen": "2026-08-01"
-  },
-  {
-    "name": "Andreas Schmitt",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 2,
-    "last_seen": "2026-08-29"
   },
   {
     "name": "Andrew Burbanks",
@@ -8295,17 +8358,6 @@
     ],
     "count": 2,
     "last_seen": "2026-07-31"
-  },
-  {
-    "name": "Arjun Bagchi",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Celestial Holography"
-    ],
-    "count": 2,
-    "last_seen": "2026-08-29"
   },
   {
     "name": "Armin Ghazi",
@@ -11210,17 +11262,6 @@
     "last_seen": "2026-07-22"
   },
   {
-    "name": "Liang Li",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Entanglement & Geometry"
-    ],
-    "count": 2,
-    "last_seen": "2026-08-29"
-  },
-  {
     "name": "Ling Lin",
     "institution": "",
     "topics": [
@@ -11926,16 +11967,6 @@
     "last_seen": "2026-08-21"
   },
   {
-    "name": "Nicolas Kovensky",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 2,
-    "last_seen": "2026-08-29"
-  },
-  {
     "name": "Nicolás Abate",
     "institution": "",
     "topics": [
@@ -12156,17 +12187,6 @@
     "last_seen": "2026-07-29"
   },
   {
-    "name": "Partha Paul",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Celestial Holography"
-    ],
-    "count": 2,
-    "last_seen": "2026-08-29"
-  },
-  {
     "name": "Parthapratim Pradhan",
     "institution": "",
     "topics": [
@@ -12331,17 +12351,6 @@
     ],
     "count": 2,
     "last_seen": "2026-07-03"
-  },
-  {
-    "name": "Prateksh Dhivakar",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Celestial Holography"
-    ],
-    "count": 2,
-    "last_seen": "2026-08-29"
   },
   {
     "name": "Pratik Roy",
@@ -14201,15 +14210,6 @@
     ],
     "count": 2,
     "last_seen": "2026-07-02"
-  },
-  {
-    "name": "Zhengyan Darius Shi",
-    "institution": "",
-    "topics": [
-      "CFT"
-    ],
-    "count": 2,
-    "last_seen": "2026-08-29"
   },
   {
     "name": "Zhenhua Shi",
