@@ -4007,6 +4007,17 @@
     "last_seen": "2026-08-13"
   },
   {
+    "name": "Irene Valenzuela",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "String Theory"
+    ],
+    "count": 3,
+    "last_seen": "2026-08-31"
+  },
+  {
     "name": "Ivan Gusev",
     "institution": "",
     "topics": [
@@ -10362,17 +10373,6 @@
     "last_seen": "2026-06-26"
   },
   {
-    "name": "Irene Valenzuela",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "String Theory"
-    ],
-    "count": 2,
-    "last_seen": "2026-07-16"
-  },
-  {
     "name": "Ivan Dneprov",
     "institution": "",
     "topics": [
@@ -10617,6 +10617,19 @@
     ],
     "count": 2,
     "last_seen": "2026-08-05"
+  },
+  {
+    "name": "Jeevan Chandra",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "Entanglement & Geometry",
+      "Geometric Gravity",
+      "String Theory"
+    ],
+    "count": 2,
+    "last_seen": "2026-08-31"
   },
   {
     "name": "Jelle Hartong",
@@ -14838,6 +14851,16 @@
     "last_seen": "2026-06-02"
   },
   {
+    "name": "Gabriel Fenati",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-31"
+  },
+  {
     "name": "Gabriele Tartaglino-Mazzucchelli",
     "institution": "",
     "topics": [
@@ -14995,18 +15018,6 @@
     ],
     "count": 1,
     "last_seen": "2026-06-05"
-  },
-  {
-    "name": "Jeevan Chandra",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "Entanglement & Geometry",
-      "Geometric Gravity"
-    ],
-    "count": 1,
-    "last_seen": "2026-07-20"
   },
   {
     "name": "Jeremy A. Mann",
@@ -15455,6 +15466,16 @@
     ],
     "count": 1,
     "last_seen": "2026-05-19"
+  },
+  {
+    "name": "Miguel Montero",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-08-31"
   },
   {
     "name": "Miguel-Angel Sanchis-Lozano",
