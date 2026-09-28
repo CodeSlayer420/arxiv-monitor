@@ -8071,6 +8071,17 @@
     "last_seen": "2026-08-23"
   },
   {
+    "name": "Shai M. Chester",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "String Theory"
+    ],
+    "count": 3,
+    "last_seen": "2026-09-28"
+  },
+  {
     "name": "Shao-Chen Ho",
     "institution": "",
     "topics": [
@@ -16099,17 +16110,6 @@
     "last_seen": "2026-07-15"
   },
   {
-    "name": "Shai M. Chester",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "CFT",
-      "String Theory"
-    ],
-    "count": 2,
-    "last_seen": "2026-09-19"
-  },
-  {
     "name": "Shan-Ming Ruan",
     "institution": "",
     "topics": [
@@ -17787,6 +17787,16 @@
     "last_seen": "2026-05-19"
   },
   {
+    "name": "Alessandro Piazza",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-09-28"
+  },
+  {
     "name": "Alex Karrila",
     "institution": "",
     "topics": [
@@ -18201,6 +18211,16 @@
     "last_seen": "2026-05-18"
   },
   {
+    "name": "Daniele R. Pavarini",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-09-28"
+  },
+  {
     "name": "David J. E. Marsh",
     "institution": "",
     "topics": [
@@ -18256,6 +18276,15 @@
     ],
     "count": 1,
     "last_seen": "2026-08-17"
+  },
+  {
+    "name": "Diego H. Gugliotta",
+    "institution": "",
+    "topics": [
+      "Quantum Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-09-28"
   },
   {
     "name": "Domenico Frattulillo",
@@ -18590,6 +18619,15 @@
     "last_seen": "2026-06-05"
   },
   {
+    "name": "Iñaki Garay",
+    "institution": "",
+    "topics": [
+      "Quantum Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-09-28"
+  },
+  {
     "name": "J. Frenkel",
     "institution": "",
     "topics": [
@@ -18837,6 +18875,16 @@
     "last_seen": "2026-09-09"
   },
   {
+    "name": "Kevin Nguyen",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-09-28"
+  },
+  {
     "name": "Ki-Seok Kim",
     "institution": "",
     "topics": [
@@ -18943,6 +18991,15 @@
     ],
     "count": 1,
     "last_seen": "2026-08-11"
+  },
+  {
+    "name": "Luis J. Garay",
+    "institution": "",
+    "topics": [
+      "Quantum Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-09-28"
   },
   {
     "name": "Lukas Schoug",
@@ -19432,6 +19489,15 @@
     "last_seen": "2026-08-17"
   },
   {
+    "name": "Raül Vera",
+    "institution": "",
+    "topics": [
+      "Quantum Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-09-28"
+  },
+  {
     "name": "Roberto A. Sussman",
     "institution": "",
     "topics": [
@@ -19620,6 +19686,15 @@
     "last_seen": "2026-07-20"
   },
   {
+    "name": "Sergio Rodríguez-González",
+    "institution": "",
+    "topics": [
+      "Quantum Gravity"
+    ],
+    "count": 1,
+    "last_seen": "2026-09-28"
+  },
+  {
     "name": "Shalabh Gautam",
     "institution": "",
     "topics": [
@@ -19789,6 +19864,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-22"
+  },
+  {
+    "name": "Sylvain Ribault",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-09-28"
   },
   {
     "name": "Sébastien Clesse",
@@ -20255,6 +20339,15 @@
     ],
     "count": 1,
     "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Zohar Komargodski",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-09-28"
   },
   {
     "name": "Álvaro Arboleya",
