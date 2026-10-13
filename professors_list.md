@@ -1,6 +1,6 @@
 # Researcher Tracker
 
-_Updated 2026-10-12 &middot; 2452 researchers tracked_
+_Updated 2026-10-13 &middot; 2452 researchers tracked_
 
 | # | Name | Institution | Topics | Appearances | Last Seen |
 |---|------|-------------|--------|:-----------:|-----------|
