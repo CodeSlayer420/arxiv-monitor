@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>arXiv Digest — 2026-10-24</title>
+<style>
+:root{
+  --bg:#0d1117;--surface:#161b22;--card:#1c2128;--border:#30363d;
+  --text:#e6edf3;--muted:#8b949e;--accent:#7c3aed;--link:#58a6ff;
+  --green:#3fb950;--yellow:#d29922;--pink:#f778ba;--tag:#1c2432;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter','Segoe UI',system-ui,sans-serif;
+     background:var(--bg);color:var(--text);line-height:1.6;font-size:15px}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+
+.header{background:var(--surface);border-bottom:1px solid var(--border);padding:2rem 2.5rem}
+.header h1{font-size:1.65rem;font-weight:700;letter-spacing:-.02em;color:#fff;margin-bottom:.2rem}
+.tagline{color:var(--muted);font-size:.85rem;margin-bottom:1rem}
+.stats{display:flex;flex-wrap:wrap;gap:.45rem}
+.stat{background:var(--card);border:1px solid var(--border);border-radius:6px;
+      padding:.28rem .7rem;font-size:.78rem;color:var(--muted)}
+.stat b{color:var(--text)}
+
+.container{max-width:960px;margin:0 auto;padding:1.5rem 2rem}
+.section-label{font-size:.7rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;
+               color:var(--muted);margin:1.5rem 0 .75rem;padding-bottom:.4rem;
+               border-bottom:1px solid var(--border)}
+
+.card{background:var(--card);border:1px solid var(--border);border-radius:10px;
+      padding:1.2rem 1.4rem;margin-bottom:.8rem;transition:border-color .15s}
+.card:hover{border-color:var(--accent)}
+.rank{float:right;font-size:1.4rem;font-weight:700;color:var(--border);margin-left:.75rem;line-height:1}
+
+.title{font-size:1.05rem;font-weight:600;margin-bottom:.4rem}
+.title a{color:var(--text)}
+.title a:hover{color:var(--link)}
+
+.meta{display:flex;flex-wrap:wrap;gap:.45rem;align-items:center;margin-bottom:.55rem;font-size:.82rem}
+.authors{color:var(--muted)}
+.aid{font-family:monospace;font-size:.76rem}
+.score{color:var(--yellow);font-weight:600}
+.bar-outer{display:inline-block;vertical-align:middle;background:var(--border);
+           border-radius:3px;height:5px;width:90px;margin-left:.35rem}
+.bar-inner{background:linear-gradient(90deg,var(--accent),var(--pink));
+           height:100%;border-radius:3px}
+.pdf{color:var(--green);font-size:.76rem;font-weight:500}
+
+.tags{display:flex;flex-wrap:wrap;gap:.3rem;margin-bottom:.55rem}
+.tag{background:var(--tag);color:var(--link);border:1px solid var(--border);
+     border-radius:20px;padding:.12rem .5rem;font-size:.73rem}
+.cat{color:var(--muted)}
+
+.abstract{color:var(--muted);font-size:.84rem;line-height:1.75}
+.abstract.clamp{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.toggle{background:none;border:none;color:var(--link);cursor:pointer;font-size:.76rem;margin-top:.25rem;padding:0}
+.toggle:hover{text-decoration:underline}
+
+footer{text-align:center;padding:1.5rem;color:var(--muted);font-size:.76rem;
+       border-top:1px solid var(--border);margin-top:1rem}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>arXiv Daily Digest</h1>
+  <div class="tagline">
+    Quantum Gravity &middot; Holography &middot; AdS/CFT &middot; String Theory
+    &middot; Celestial Holography &middot; Asymptotic Symmetries &middot; CFT
+    &middot; Ryu-Takayanagi &middot; Entanglement &amp; Geometry
+  </div>
+  <div class="stats"><div class="stat">Generated: <b>Saturday, October 24, 2026 at 07:28</b></div><div class="stat">Papers: <b>29</b></div><div class="stat">Categories: <b>hep-th, gr-qc, math-ph</b></div><div class="stat">CFT: <b>12</b></div><div class="stat">AdS/CFT: <b>10</b></div><div class="stat">Quantum Gravity: <b>8</b></div><div class="stat">Celestial Holography: <b>4</b></div><div class="stat">Entanglement &amp; Geometry: <b>4</b></div><div class="stat">String Theory: <b>4</b></div></div>
+</div>
+<div class="container">
+  <div class="section-label">Papers ranked by relevance &mdash; click title to open on arXiv</div>
+  
+<div class="card">
+  <div class="rank">#1</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30915v1" target="_blank">Quasinormal modes, complex null geodesics and singularity resolution in regular AdS black holes</a></div>
+  <div class="meta">
+    <span class="authors">Heng-Yu Chen, Yasuaki Hikida, Yasutaka Koga</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30915v1" target="_blank">2610.30915v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30915v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;11</span><div class="bar-outer"><div class="bar-inner" style="width:18%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag">CFT</span><span class="tag">Quantum Gravity</span><span class="tag cat">hep-th</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a1">The black hole singularity is hidden behind its horizon, and it is difficult to determine whether it is resolved by quantum gravity or stringy effects. For an AdS-Schwarzschild black hole, it is known that the two-point function of the dual conformal field theory has a singularity associated with a null geodesic that bounces off the black hole singularity. In this paper, we investigate how the resolution of the black hole singularity is encoded in the dual conformal field theory by considering regular AdS black holes as regularized geometries. Using WKB analysis, we compute the quasinormal modes of regular AdS black holes and read off the dual two-point functions from the modes. We find that the singularity corresponding to the bouncing null geodesic for singular black holes is replaced by a smooth bump associated with a complex, rather than real, null geodesic. The location of the complex geodesic singularity is supported by analyzing the structure of the operator product expansion for the two-point function. Our results provide a holographic signature of black hole singularity resolution and clarify how information about the regular interior is encoded in boundary correlation functions.</div>
+  <button class="toggle" onclick="tog(this,'a1')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#2</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30466v1" target="_blank">Conformal geodesics and the hyperboloid at timelike infinity</a></div>
+  <div class="meta">
+    <span class="authors">Achilleas V. Koukas, Mariem Magdy, Juan A. Valiente Kroon</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30466v1" target="_blank">2610.30466v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30466v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;11</span><div class="bar-outer"><div class="bar-inner" style="width:18%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag">Celestial Holography</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a2">A description of scattering in asymptotically flat spacetimes that includes both radiation and massive asymptotic states requires control of the relation between null and timelike infinity. Motivated by this problem, we use the properties of conformal geodesics to construct an extended representation of timelike infinity in Minkowski spacetime. The construction exploits the fact that every non-null metric geodesic in an Einstein spacetime is, up to an explicit local reparametrisation, a conformal geodesic. It replaces the point $i^+$ by a hyperboloidal boundary $\mathcal{H}^+$ meeting future null infinity $\mathscr{I}^+$ at a corner $\mathcal{C}^{+}$, while fixing the location of $\mathscr{I}^+$ in the associated conformal Gaussian gauge. In this gauge, we derive the equations governing massless scalar and spin-$2$ fields. In particular, we obtain a transport equation for the scalar field along future null infinity and analyse the asymptotic behaviour of its spherical-harmonic modes near timelike infinity. We also derive the explicit massless spin-$2$ equations in this gauge. Finally, we examine the relation to projective extensions and to the hyperbolic base of the extended Carrollian space $\mathrm{Ti}$. Our results provide a geometric framework for studying the connection between late-time and null asymptotics which is a prerequisite for scattering constructions relevant to flat space holography.</div>
+  <button class="toggle" onclick="tog(this,'a2')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#3</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30134v1" target="_blank">A signature of the timelike singularity in holography</a></div>
+  <div class="meta">
+    <span class="authors">Joydeep Chakravarty, Yoav Zigdon</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30134v1" target="_blank">2610.30134v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30134v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;10</span><div class="bar-outer"><div class="bar-inner" style="width:17%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag">CFT</span><span class="tag cat">hep-th</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a3">In the context of the AdS/CFT correspondence, we provide a simple observable, the imaginary part of the retarded Green&#x27;s function, which captures the timelike singularity of a charged black brane. Solving wave equations of bulk fields with different spins outside the black brane, we calculate exponentially small contributions to retarded Green&#x27;s functions in the dual CFT at large real frequency. These contributions admit an interpretation in terms of paths in an analytically continued classical black brane interior via a WKB approximation: they provide the complex time elapsed along null geodesics that reflect off the singularity, and incorporate the corresponding reflection coefficients.</div>
+  <button class="toggle" onclick="tog(this,'a3')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#4</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31610v1" target="_blank">Quantum gravity on the bulk cone</a></div>
+  <div class="meta">
+    <span class="authors">Ahmed Almheiri, Matthew Dodelson, Zohar Komargodski</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31610v1" target="_blank">2610.31610v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31610v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;9</span><div class="bar-outer"><div class="bar-inner" style="width:15%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag">CFT</span><span class="tag">Quantum Gravity</span><span class="tag cat">hep-th</span></div>
+  <div class="abstract clamp" id="a4">Bulk-cone singularities in holographic correlators encode propagation along bulk null geodesics. The prototypical example is an AdS black hole, where incoming null geodesics can wind around the photon sphere and return to the boundary. These singularities appear in real time in the thermal two-point function at finite volume. We show that conformal field theories dual to gravitational theories at finite $G_N$ cannot have such singularities. We rule out these singularities both for individual microstates and for the thermal state. The main thrust of the argument is to invoke an analytic continuation in the temperature. As a microscopic example, we construct an AdS$_3$ geometry with two colliding shocks which exhibits a bulk cone singularity. We show by an explicit calculation in the CFT that this singularity is smoothed out at finite $G_N$. Qualitatively, the singularity resolution is a consequence of the fuzziness of the bulk solution in quantum gravity.</div>
+  <button class="toggle" onclick="tog(this,'a4')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#5</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31536v1" target="_blank">Perturbations and phenomenology of compact objects in quantum gravity theories</a></div>
+  <div class="meta">
+    <span class="authors">Andrea Spina</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31536v1" target="_blank">2610.31536v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31536v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;7</span><div class="bar-outer"><div class="bar-inner" style="width:12%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Quantum Gravity</span><span class="tag cat">gr-qc</span><span class="tag cat">hep-th</span></div>
+  <div class="abstract clamp" id="a5">This thesis investigates the perturbative dynamics and phenomenology of compact objects in two approaches to quantum gravity: quadratic gravity and asymptotic safety. Linear perturbations provide a tool to probe the physical properties of spacetimes and their potential observational signatures, including quasinormal modes, black hole shadows, and Hawking radiation. The first part focuses on Einstein-Weyl gravity, where an additional massive spin-2 degree of freedom modifies the dynamics of compact objects. We derive and analyze tensor perturbation for static, spherically symmetric solutions, identifying Gregory-Laflamme-type instabilities in the monopole sector and studying the time domain evolution of higher multipoles. We also investigate universal massive-field tails and the breakdown of the standard eikonal correspondence between quasinormal modes and null geodesics. Particular attention is devoted to veiled singularities, horizonless configurations that satisfy a form of weak cosmic censorship and can mimic black hole shadows. The second part examines regular black holes in asymptotically safe gravity. Using the proper-time flow approach, we construct and investigate a dynamical regular black hole solution arising from gravitational collapse. We analyze its perturbative stability and quasinormal mode spectrum, finding characteristic deviations from Schwarzschild black holes. We explore the phenomenological implications of quantum corrections for shadows and Hawking radiation. While shadow remains compatible with current constraints, the modified evaporation process features lower temperatures and suppressed emission rates, with implications for primordial black holes and their possible contribution to dark matter. Overall, this work demonstrates how the perturbative dynamics of compact objects can connect quantum gravity models to potentially observable astrophysical phenomena.</div>
+  <button class="toggle" onclick="tog(this,'a5')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#6</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31269v1" target="_blank">Monodromy Defects of 3D Wilson-Fisher Criticality on the Fuzzy Sphere</a></div>
+  <div class="meta">
+    <span class="authors">Yin Tang, W. Zhu</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31269v1" target="_blank">2610.31269v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31269v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;7</span><div class="bar-outer"><div class="bar-inner" style="width:12%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">CFT</span><span class="tag cat">hep-th</span><span class="tag cat">cond-mat.stat-mech</span><span class="tag cat">cond-mat.str-el</span></div>
+  <div class="abstract clamp" id="a6">Monodromy (twist) line defects arise as the boundaries of topological symmetry surfaces, which are among the simplest non-trivial conformal defects with direct realizations as magnetic vortex in quantum magnets, as Wilson and t Hooft lines of gauge theories, and as the replica twist operators in quantum information theory. However, their interacting dynamics remains difficult to characterize non-perturbatively. Here we design a way to realize the monodromy boundary conditions in the fuzzy-sphere regularization by threading a symmetry-selective Aharonov-Bohm flux through the two poles of the sphere. We apply this construction to the $\mathbb{Z}_2$ twist of the 3D Ising conformal field theory (CFT), $π$-twist of the 3D O(2) CFT and three inequivalent monodromies of O(3) (centre twist, z-axis $π$-twist and the reflection). For each defect, we extract the low-lying defect spectrum together with bulk-to-defect and defect-defect operator product expansion coefficients, which characterize the operators living on the defect line, their mutual interactions, and how they couple to the surrounding critical bulk. Among the low-lying defect primaries resolved in our spectra, we find no relevant scalar perturbation that preserves all the symmetries of the corresponding defect. The relevant deformations identified in our calculations break at least one preserved symmetry, providing evidence that these monodromy defects are stable against symmetry-preserving relevant perturbations. These results establish a systematic set of non-perturbative conformal data for monodromy defects beyond the Ising twist. Our construction therefore turns the symmetry flux into a tunable knob of the fuzzy-sphere regularization, opening a route to exploring the response of critical matter to distinct defects.</div>
+  <button class="toggle" onclick="tog(this,'a6')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#7</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31413v1" target="_blank">The Spectral Edge at Large Central Charge and Black Hole Statistics</a></div>
+  <div class="meta">
+    <span class="authors">Eric Perlmutter</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31413v1" target="_blank">2610.31413v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31413v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;6</span><div class="bar-outer"><div class="bar-inner" style="width:10%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag">CFT</span><span class="tag cat">hep-th</span></div>
+  <div class="abstract clamp" id="a7">We introduce a new approach to high-energy spectra in AdS$_3$/CFT$_2$, addressing the open challenge of incorporating spectral statistics into the modular bootstrap. Using the analytic theory of $L$-functions attached to two-dimensional CFTs, we leverage modular constraints among high-energy states to derive a sum rule relating the spectral edge to bulk spectral fluctuations. As an application, we establish a refined modular bootstrap bound: letting $Δ_1$ be the conformal dimension of the lightest excited Virasoro primary of a unitary CFT of central charge $c$, we show that $Δ_1 - {c-1\over 12} \leq o(c)$, with at most one exceptional value of the scalar gap at each sufficiently large $c$; moreover, along any sequence in $c$ for which such exceptional gaps are realized, the remaining gaps obey the stronger bound $Δ_1 - {c-1\over 12} \leq O(1)$. The result applies to theories with logarithmic rigidity of spectral counting fluctuations, as in random matrix theory.</div>
+  <button class="toggle" onclick="tog(this,'a7')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#8</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30126v2" target="_blank">Random Euclidean CFT$_2$ from Triangulated dS$_3$ Gravity</a></div>
+  <div class="meta">
+    <span class="authors">Ji-seong Chae</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30126v2" target="_blank">2610.30126v2</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30126v2" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;6</span><div class="bar-outer"><div class="bar-inner" style="width:10%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">CFT</span><span class="tag cat">hep-th</span></div>
+  <div class="abstract clamp" id="a8">We propose a random Euclidean CFT description of three-dimensional de Sitter gravity, with fixed central charge and primary spectrum but fluctuating operator product coefficients. Our construction starts from compact regions assembled from generalized hyperbolic tetrahedra. We analytically continue the gravitational amplitudes computed from these triangulations to de Sitter parameters and use them to infer OPE correlations. We recover matching normalized amplitudes from a complex Liouville cosmological wavefunction. For the tetrahedral $K_4$ filling, the non-Gaussian OPE cumulant carries an oscillatory hyperbolic-volume phase. We reconstruct the associated Lorentzian de Sitter spacetime and show that angle derivatives of this phase yield the rapidities of boost holonomies around its initial singularity. Its spacelike future boundary carries a positive-definite conformal metric, while the wavefunction obeys Euclidean conformal Ward identities. The physical CFT spectrum is organized by integer spin, and the scalar restriction of the two-chiral fusion coefficient yields the Virasoro $6j$ square. We construct a positive finite OPE ensemble that reproduces the theta normalization and Virasoro tetrahedral cumulant while satisfying the retained sphere-crossing equations.</div>
+  <button class="toggle" onclick="tog(this,'a8')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#9</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30062v1" target="_blank">Hydrodynamic description of correlation matrix eigenvalues in a finite temperature expanding free fermionic gas</a></div>
+  <div class="meta">
+    <span class="authors">Atharva Naik, Madhumita Saha, David A. Huse et al.</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30062v1" target="_blank">2610.30062v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30062v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;6</span><div class="bar-outer"><div class="bar-inner" style="width:10%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Entanglement &amp; Geometry</span><span class="tag">Quantum Gravity</span><span class="tag cat">quant-ph</span><span class="tag cat">cond-mat.mes-hall</span><span class="tag cat">cond-mat.quant-gas</span></div>
+  <div class="abstract clamp" id="a9">A recent work considered the Page curve for entanglement entropy of a freely expanding one-dimensional Fermi gas starting from a finite box (the system) in a zero-temperature initial state that then expands in to a semi-infinite vacuum (the environment). For the case with a single defect at the system-environment junction, it was shown that the Yang-Yang entropy of the system computed from semiclassical hydrodynamics agrees with the microscopically computed entanglement entropy, yielding the Page curve. On the other hand, the environment Yang-Yang entropy showed a monotonic increase. Here, we propose a hydrodynamic description to obtain the eigenvalues of the microscopic correlation matrix for a nonzero temperature freely-expanding Fermi gas. For the system, the phase space density directly gives the correlation matrix eigenvalues and thus, via the Yang-Yang formula, yields the von-Neumann entropy. For the reservoir, a modification of the phase space density is required in the Yang-Yang formula, to incorporate coherences, in order to reproduce accurately the entropy. The hydrodynamic description of correlation matrix eigenvalues also leads to a Levitov-Lesovik type formula for the full-counting-statistics for a finite system in the transient regime. We provide a heuristic derivation of the correlation matrix eigenvalues based on a semiclassical wave-packet picture.</div>
+  <button class="toggle" onclick="tog(this,'a9')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#10</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.29717v1" target="_blank">Scalar-scalar-graviton vertex from Asymptotic Safety</a></div>
+  <div class="meta">
+    <span class="authors">Tim Eckert, Benjamin Knorr</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.29717v1" target="_blank">2610.29717v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.29717v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;6</span><div class="bar-outer"><div class="bar-inner" style="width:10%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Asymptotic Symmetries</span><span class="tag">Quantum Gravity</span><span class="tag cat">hep-th</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a10">The unitarity and causality properties of asymptotically safe quantum gravity are still unsettled. Scattering amplitudes provide a direct test, but their computation requires fully momentum-dependent correlation functions. In this light, we compute the full scalar-scalar-graviton vertex from Asymptotic Safety within a mostly analytic approximation. Qualitatively, we find the expected logarithmic branch-cut structure, and we correctly recover the double-eikonal soft divergences predicted by Weinberg&#x27;s soft theorem. Quantitatively, we find that non-minimal operators are generally as important as the minimal vertex stemming from the scalar kinetic term.</div>
+  <button class="toggle" onclick="tog(this,'a10')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#11</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31648v1" target="_blank">On the direct SLE-martingale approach to the integrability of Conformal Loop Ensembles</a></div>
+  <div class="meta">
+    <span class="authors">Jason Miller, Wendelin Werner</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31648v1" target="_blank">2610.31648v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31648v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;6</span><div class="bar-outer"><div class="bar-inner" style="width:10%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">CFT</span><span class="tag">Quantum Gravity</span><span class="tag cat">math.PR</span><span class="tag cat">math-ph</span></div>
+  <div class="abstract clamp" id="a11">This paper is about the derivation of &quot;integrability results&quot; (i.e., for example, explicit formulas for the probability of events involving a few marked points) for Conformal Loop Ensembles, that are the (conjectured) scaling limits of discrete crititical planar lattice models from Statistical Physics. We discuss the explicit solutions to the PDEs provided by the original SLE/CLE martingale approach that AI now makes it possible to uncover. This provides short and direct new proofs of a number of formulas that have recently been derived based on Liouville quantum gravity, conformal field theory or Coulomb gas methods, and also makes it possible to derive some new ones. We briefly illustrate this with the examples of the backbone exponent and annulus crossing probabilities for critical percolation, but this direct approach seems to apply to a wide class of observables of two-dimensional systems related to conformal field theories.</div>
+  <button class="toggle" onclick="tog(this,'a11')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#12</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30246v1" target="_blank">From bulk flows to boundary generators and costs</a></div>
+  <div class="meta">
+    <span class="authors">Rafael Carrasco, Carlos Pérez-Pardavila</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30246v1" target="_blank">2610.30246v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30246v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;5</span><div class="bar-outer"><div class="bar-inner" style="width:8%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag">Entanglement &amp; Geometry</span><span class="tag cat">hep-th</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a12">Holographic complexity admits a broad family of bulk observables, yet their relation to boundary state-preparation costs remains unclear. We propose a local prescription that associates suitable bulk observables with quadratic cost geometries on families of states prepared by Euclidean sources. Building on the holographic transport of bulk Hamiltonian flows to Euclidean preparation sources, we use the Hessian of the transported generator at a stationary reference state to define a candidate cost metric. When this Hessian is positive definite, the minimised preparation energy reproduces the change in the bulk observable to quadratic order. We characterise the resulting preparation penalties relative to the Fubini-Study metric and compute them for the maximal volume in scalar perturbations of AdS$_3$. At large-conformal dimension, we recover the known proportionality between cost and Fubini-Study metrics. At finite dimension, we obtain positive but generally unequal penalties for source variations that displace the bulk field and its conjugate momentum, breaking this proportionality even for a single scalar operator. We further study a deformation of volume by quadratic scalar and gradient terms in the large-dimension regime, determining how the couplings modify the penalties and constrain positivity. These additions selectively change field-displacement costs, with the gradient term introducing mode dependence. Our results provide an explicit local connection between the choice of bulk observables and the assignment of boundary preparation penalties.</div>
+  <button class="toggle" onclick="tog(this,'a12')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#13</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31197v1" target="_blank">String Amplitudes on Integer Rectangles</a></div>
+  <div class="meta">
+    <span class="authors">Song He, Yong Zhang, Fan Zhu et al.</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31197v1" target="_blank">2610.31197v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31197v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;4</span><div class="bar-outer"><div class="bar-inner" style="width:7%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">CFT</span><span class="tag">String Theory</span><span class="tag cat">hep-th</span></div>
+  <div class="abstract clamp" id="a13">Hidden zeros of tree-level string amplitudes of colored scalars lie on loci specified by integer-valued dimensionless momentum contractions arranged in rectangles on the kinematic mesh. We study the same kinematic loci for open-string amplitudes with gluons, fermions and higher-spin states at arbitrary finite mass levels. Disk monodromy relations yield $\textit{zero-locus factorization}$: at regular points where the monodromy system is invertible, the amplitude is a weighted sum of physical three-point amplitudes sewn to complete on-shell $(n-1)$-point amplitudes. Hidden zeros follow when the external wavefunctions annihilate all contributing three-point couplings. In the low-energy limit, the massless zero-integer branch recovers the corresponding field-theory factorization. For closed strings, including gravitons, persistent cubic zeros in both chiral sectors remove the disk poles, allowing the Kawai--Lewellen--Tye momentum-kernel zero to imply amplitude zeros. The operator product expansions of external vertices give a common worldsheet origin for these conditions across spins and mass levels.</div>
+  <button class="toggle" onclick="tog(this,'a13')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#14</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30273v1" target="_blank">Data analysis of millions of Type IIB flux vacua</a></div>
+  <div class="meta">
+    <span class="authors">Yuta Hamada, Yuma Uematsu, Masahito Yamazaki</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30273v1" target="_blank">2610.30273v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30273v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;4</span><div class="bar-outer"><div class="bar-inner" style="width:7%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">String Theory</span><span class="tag cat">hep-th</span></div>
+  <div class="abstract clamp" id="a14">We study the vacuum structure of flux compactifications of type IIB string theory on the degree 18 hypersurface in $\mathbb{CP}^4_{1,1,1,6,9}$ with two effective complex structure moduli. We scan $30{,}770{,}178$ flux choices compatible with the tadpole bound, and use a gradient-based constrained minimization based on the SLSQP algorithm to identify candidates for local minima of the scalar potential, yielding a dataset of millions of candidate flux vacua. Using the $1{,}296{,}633$ reliable solutions selected from this dataset, we analyze distributions and correlations of various physical quantities such as vacuum expectation values of moduli and vacuum energy. Using quadratic flux invariants as input features, we train a classifier to identify solutions satisfying the numerical SUSY criterion $|V|&lt;10^{-4.5}$. On a randomly selected test set, selecting the top-ranked $5\%$ recovers $47.2\%$ of the SUSY test solutions. We also use supervised regression to predict the potential and moduli field values. In the regression comparison, quadratic flux invariant inputs improve prediction of potential value and the complex-structure coordinates, while the vanilla six flux parameters give better predictions for the axio-dilaton coordinates under the tested settings.</div>
+  <button class="toggle" onclick="tog(this,'a14')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#15</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30254v1" target="_blank">Fluids on null hypersurfaces and Carrollian hydrodynamics</a></div>
+  <div class="meta">
+    <span class="authors">Emil Have</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30254v1" target="_blank">2610.30254v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30254v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;4</span><div class="bar-outer"><div class="bar-inner" style="width:7%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Celestial Holography</span><span class="tag cat">hep-th</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a15">We study intrinsic ideal fluids on null hypersurfaces and their realisations by causal fluids living in the ambient spacetime. An embedded null hypersurface is equipped with an induced Carrollian structure with a temporal Weyl symmetry inherited from rescalings of the null generator, and we develop the corresponding null submanifold and variational calculus. The intrinsic fluid phases are classified according to their realisation of Carroll boosts and temporal Weyl symmetry. If we demand that an ambient fluid be confined to a null hypersurface, the ambient fluid velocity must be null, which realises an intrinsic zero-temperature Carrollian phase with unbroken Carroll boosts. In general, timelike or null ambient fluids will cross a null hypersurface and lead to an open Carrollian system. On a null foliation, the sources correspond to transport between null leaves. We then show that there exists a decoupling limit of a timelike ambient fluid which gives rise to an autonomous Carrollian fluid with spontaneously broken Carroll boosts and no source terms. This decoupling limit corresponds to an infinite boost while keeping the enthalpy finite and nonzero, which leads to a divergent ambient energy-momentum tensor. Nevertheless, the induced Carrollian responses do not see the divergent term and remain finite, and an independent Carroll boost Goldstone emerges from a subleading component of the ambient fluid velocity in this limit.</div>
+  <button class="toggle" onclick="tog(this,'a15')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#16</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30242v1" target="_blank">Defect flows from functional relations in the asymptotic semiring</a></div>
+  <div class="meta">
+    <span class="authors">Federico Ambrosino, Anatoly Konechny, Ingo Runkel et al.</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30242v1" target="_blank">2610.30242v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30242v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;4</span><div class="bar-outer"><div class="bar-inner" style="width:7%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">CFT</span><span class="tag cat">hep-th</span><span class="tag cat">cond-mat.str-el</span><span class="tag cat">math-ph</span></div>
+  <div class="abstract clamp" id="a16">We study perturbations of topological defects by a relevant holomorphic defect field in two-dimensional conformal field theory. This produces translation invariant defects and these necessarily flow to topological defects in the infrared. Translation invariant defects form a monoidal category which extends the fusion category of topological defects. We argue that the renormalisation group flow defines a semiring homomorphism from the semiring of translation invariant defects to an &quot;asymptotic semiring&quot; which we construct from topological defects. The semiring homomorphism preserves functional relations, and we illustrate in the example of Virasoro minimal models that the resulting relations in the asymptotic semiring constrain the defect flow endpoints. The companion paper [1] contains a detailed study of such defect flows in several minimal models, both numerically and analytically.</div>
+  <button class="toggle" onclick="tog(this,'a16')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#17</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.29956v1" target="_blank">Carrollian Symmetries and Dynamical Entropy</a></div>
+  <div class="meta">
+    <span class="authors">Michael Imseis</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.29956v1" target="_blank">2610.29956v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.29956v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;4</span><div class="bar-outer"><div class="bar-inner" style="width:7%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Celestial Holography</span><span class="tag cat">hep-th</span></div>
+  <div class="abstract clamp" id="a17">Carrollian geometry has recently emerged as the proper language to understand the geometry of null hypersurfaces from an intrinsic perspective. In this paper, we demonstrate that the Noether charge associated with the intrinsic conformal symmetry of Carrollian manifolds yields exactly the dynamical entropy formula recently proposed by Hollands, Wald and Zhang. This result follows directly from the requirement that the gravitational phase space induced on a finite distance null hypersurface be anomaly-free, in a covariant phase space sense. We then show that a linearized perturbation of this dynamical entropy charge, sourced by an external matter perturbation falling across the hypersurface, satisfies a physical process first law. Moreover, upon imposing the classical null energy condition, a linearized second law holds for the dynamical entropy. We then turn to a semi-classical generalization of this construction, where we argue that a notion of dynamical generalized entropy follows from considering perturbations sourced by external quantum matter. By imposing the quantum null energy condition (QNEC), we find a generalized second law for a linearized perturbation of the dynamical generalized entropy. Finally, we use our results to speculate on relations to the quantum focusing conjecture.</div>
+  <button class="toggle" onclick="tog(this,'a17')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#18</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31534v1" target="_blank">Testing charged Simpson-Visser-AdS spacetimes with twin-peak QPOs</a></div>
+  <div class="meta">
+    <span class="authors">Saeed Ullah Khan, Javlon Rayimbaev, Muhammad Zahid et al.</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31534v1" target="_blank">2610.31534v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31534v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;4</span><div class="bar-outer"><div class="bar-inner" style="width:7%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag cat">gr-qc</span><span class="tag cat">hep-ph</span></div>
+  <div class="abstract clamp" id="a18">In this manuscript, we study circular geodesics and twin-peak high-frequency quasi-periodic oscillations (HF-QPOs) in the charged Simpson--Visser--anti-de Sitter (AdS) spacetime, which depends on a charge parameter $Q$, a regularization scale $b$ and an AdS radius $l$. Written in terms of the areal radius $R=\sqrt{r^{2}+b^{2}}$, the specific energy, angular momentum, Keplerian frequency and innermost stable circular orbit (ISCO) of test particles coincide with those of the Reissner--Nordström--AdS black hole, so $b$ enters the epicyclic spectrum only through a factor $1-b^{2}/R^{2}$ in the radial frequency. We give this frequency and the ISCO condition in closed form. We then fit the relativistic-precession model to the HF-QPO pairs of GRO~J1655$-$40 and XTE~J1550$-$564, with their dynamical masses included as Gaussian priors. The Schwarzschild limit gives $χ^{2}=32.9$ for two degrees of freedom. One additional deformation removes this tension: $Q/M=0.814^{+0.059}_{-0.074}$ at fixed $l=100M$, or $l=40.6^{+6.2}_{-4.8}\,M$ at $Q=0$, both with $χ^{2}\simeq0.13$. These two solutions lie on a single degeneracy valley in the $(Q,l)$ plane, and, at $l=100M$, $b$ is left unconstrained up to $b\simeq3.9M$ (68\%), a limit set by the charge prior rather than by the data. A Kerr black hole with spin $a\simeq0.3$--$0.4$ reproduces the same pairs, so the inferred deformation most likely absorbs the spin neglected by the static metric. Our results therefore describe degeneracies among orbital-frequency deformations; they are not a measurement of an electric charge or of a cosmological constant.</div>
+  <button class="toggle" onclick="tog(this,'a18')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#19</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30268v1" target="_blank">Accurate initial data for Cauchy-characteristic evolution</a></div>
+  <div class="meta">
+    <span class="authors">Guido Da Re, Keefe Mitman, Leo C. Stein et al.</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30268v1" target="_blank">2610.30268v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30268v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;4</span><div class="bar-outer"><div class="bar-inner" style="width:7%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Asymptotic Symmetries</span><span class="tag">Celestial Holography</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a19">Accurate gravitational-wave (GW) templates from numerical-relativity (NR) simulations are essential for GW science. These templates are typically computed at finite radii and extrapolated to future null infinity $\mathscr{I}^{+}$, the asymptotic boundary of spacetime. However, this procedure is known to not accurately capture momentum fluxes and memory effects, limiting the accuracy of waveform models and data analyses that rely on them. Cauchy-characteristic evolution (CCE) instead integrates Einstein&#x27;s equations along outgoing null hypersurfaces from a Cauchy simulation&#x27;s finite-radius worldtube to $\mathscr{I}^{+}$. Its accuracy, though, has been limited by initial data that produce long-lived spurious transients, which contaminate several cycles of the waveform emitted by the binary coalescence. We identify incorrect initial angular coordinates as the source of these transients. We construct initial data that matches the Cauchy worldtube data through second order in the radial derivatives and solve for the angular coordinates consistent with the resulting radial profile. These improvements remove the unphysical transient: a $10\%$ modulation of a binary black hole&#x27;s $(2,2)$ mode amplitude lasting over $1000\,M$ disappears, and the late-time tail of a head-on black hole collision is recovered. The construction is independent of the Cauchy formulation and allows archived simulations to be reprocessed with CCE, paving the way for improved GW catalogs.</div>
+  <button class="toggle" onclick="tog(this,'a19')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#20</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31672v1" target="_blank">Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory</a></div>
+  <div class="meta">
+    <span class="authors">G. Bonelli, S. Lacroix, T. Pedroni et al.</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31672v1" target="_blank">2610.31672v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31672v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">CFT</span><span class="tag cat">hep-th</span><span class="tag cat">math-ph</span></div>
+  <div class="abstract clamp" id="a20">We construct a family of integrable 2d sigma models through 4d Chern-Simons theory and show that their classical point-particle reduction corresponds to a Hitchin system. The integrable Hitchin quantisation then provides a natural candidate Hamiltonian for the one-loop reduced dynamics of the sigma models, which coincides with the Perelman operator in all cases examined. This allows us to study the corresponding spectral problems using 4d $\mathcal{N}=2$ gauge theory and 2d conformal field theory methods. For the sausage model, we derive exact quantisation conditions and compute exponentially small corrections essential for the agreement with numerical finite-volume results.</div>
+  <button class="toggle" onclick="tog(this,'a20')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#21</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31665v1" target="_blank">Half-Completeness from Standard Gravitational Dispersion Relations</a></div>
+  <div class="meta">
+    <span class="authors">Lukas W. Lindwasser, Laurentiu Rodina, Justinas Rumbutis</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31665v1" target="_blank">2610.31665v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31665v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Quantum Gravity</span><span class="tag cat">hep-th</span></div>
+  <div class="abstract clamp" id="a21">The completeness hypothesis states that quantum gravity realizes every representation allowed by its gauge group. Previous S-matrix arguments used the graviton pole to constrain exchanged representations, including a proof of completeness by imposing an additional high-energy bound on crossing-odd amplitudes. We investigate what follows without this assumption, using standard twice-subtracted dispersion relations, positivity, and crossing symmetry. For external massless SU(2) isospin $J$, we prove ``half-completeness&#x27;&#x27;: either massive exchanges include every isospin $j\le J$, or at least one $j&gt;J$ is required. At $J=1$, we construct an explicit amplitude with only $j=0,1$ exchanges that satisfies these conditions but violates the crossing-odd bound. This establishes that the additional high-energy assumption does not follow from the standard framework. For $J\ge2$, however, we show that lower-only spectra cannot be realized within a class of string-inspired Euler amplitudes, leaving their existence an open question. More generally, for scalar matter transforming under any compact internal symmetry group, we prove that massive singlets of unbounded Lorentz spin must be exchanged.</div>
+  <button class="toggle" onclick="tog(this,'a21')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#22</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31238v1" target="_blank">High precision black hole scattering</a></div>
+  <div class="meta">
+    <span class="authors">Benjamin Sauer</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31238v1" target="_blank">2610.31238v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31238v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">String Theory</span><span class="tag cat">hep-th</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a22">In this thesis we compute the impulse of a classical black hole scattering encounter in the Post-Minkowskian (PM) expansion - a weak-field expansion in Newton&#x27;s constant $G$ - up to the fifth order. We describe the black holes as point particles within an effective field theory framework and couple them through gravity. The classical equations of motion are solved diagrammatically using the worldline quantum field theory (WQFT) formalism, in which the solution with causal boundary conditions is encoded in tree-level Feynman diagrams built from graviton and worldline fields. The Feynman integrals arising at each order are reduced by advanced IBP reduction techniques and evaluated with the method of differential equations. We find that, in the solution of these integrals, periods over Calabi--Yau manifolds - familiar from string theory - appear and contribute to the classical impulse at the fifth Post-Minkowskian order. The results of this work are the first analytic results for the scattering observables at fifth Post-Minkowskian order, together with the appearance of Calabi--Yau threefold periods in a classical physics observable.</div>
+  <button class="toggle" onclick="tog(this,'a22')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#23</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.31191v1" target="_blank">Timelike Supersymmetric Geometries in Seven-Dimensional Supergravity</a></div>
+  <div class="meta">
+    <span class="authors">Michèle Levi</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.31191v1" target="_blank">2610.31191v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.31191v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag">String Theory</span><span class="tag cat">hep-th</span><span class="tag cat">math-ph</span><span class="tag cat">math.DG</span></div>
+  <div class="abstract clamp" id="a23">Seven-dimensional supergravity poses a uniquely intricate supersymmetry problem, combining topologically massive higher-form gauge dynamics, distinct Clifford algebra properties, and rich geometric structures. We first establish the complete formulation of the maximal Cartan-gauged theory in terms of the gauge-invariant higher-form flux, including both the bosonic action and supersymmetry variations. This formulation, which also makes the smooth ungauged limit manifest, is achieved by requiring a consistent truncation to the minimal Cartan-gauged theory in the equal-charge limit. We construct the complete bilinear system for a timelike Killing vector, where additional internal orientation of the symplectic-Majorana spinor arises already in the scalar sector, uniquely among pure minimal ungauged theories. In the equal-charge sector, we decouple the algebraic constraints into SU$(3)$-isotypic components, and analyse the differential bilinear relations, determining the permitted dilaton gradient, fluxes, fibration twist and intrinsic torsion of the base. We prove that with gauging and active Cartan flux, the complex scalar bilinear vanishes identically. We also construct a Killing gauge for the higher-form potential compatible with the self-duality condition. We show that with gauging but no active Cartan flux, the Killing vector also acts as a generator of the gauged R-symmetry, and the base structure is enlarged from SU$(3)$ to U$(3)$. We find that BPS-flow solutions realize this setting. With supersymmetry, we isolate a single independent component of the 3-form equation across an exhaustive four-class partition for both theories within this setup. Applied to known and proposed solutions in both theories, this classification exposes unexplored sectors and provides an accessible toolbox for constructing and testing solutions and developing new geometric and holographic applications.</div>
+  <button class="toggle" onclick="tog(this,'a23')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#24</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30311v1" target="_blank">Amplified EFT corrections near exceptional QNMs</a></div>
+  <div class="meta">
+    <span class="authors">William L. Boyce, Jorge E. Santos</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30311v1" target="_blank">2610.30311v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30311v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag">CFT</span><span class="tag cat">hep-th</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a24">We show that the ordinary expansion of EFT corrections to individual QNM frequencies breaks down at an exceptional QNM, and that these corrections become enhanced for near-exceptional QNMs. We give a brief argument for why this should generally happen, before numerically demonstrating this behaviour by calculating the $α&#x27;^3$ corrections to QNMs of equal-spin Myers--Perry-AdS$_5$ black holes. This calculation corresponds to $λ^{-3/2}$ corrections to the poles of the retarded Green&#x27;s function in the boundary CFT, where $λ$ is the &#x27;t Hooft coupling. Treating the coalescing pair together, we calculate the leading $λ^{-3/4}$ splitting at the uncorrected exceptional point and the $λ^{-3/2}$ displacement of the exceptional point in temperature and angular velocity. The background derivative expansion can remain valid while the nondegenerate expansion of individual frequencies fails. We discuss the implications for the full response and for other areas of black hole physics.</div>
+  <button class="toggle" onclick="tog(this,'a24')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#25</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30247v1" target="_blank">3D de Sitter from complex Virasoro TQFT: Observers and knots</a></div>
+  <div class="meta">
+    <span class="authors">Jeevan Chandra, Diego Liska, Boris Post</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30247v1" target="_blank">2610.30247v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30247v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag">CFT</span><span class="tag cat">hep-th</span><span class="tag cat">math-ph</span></div>
+  <div class="abstract clamp" id="a25">The Euclidean saddles of 3D Einstein gravity with positive cosmological constant are spherical three-manifolds. When one adds a heavy observer, the backreacted saddles are spherical cone manifolds, with a conical singularity along the observer worldline. We propose exact gravitational partition functions at fixed topology on a class of spherical cone manifolds that undergo hyperbolic-to-spherical transitions as the cone angles increase. Our construction relies on a careful analytic continuation of the product of two Virasoro TQFT partition functions. We test the proposal by showing that the exact partition functions exponentiate in the semiclassical limit to the spherical volume, in agreement with the gravitational on-shell action. This leads to a spherical volume conjecture for the product of continued Virasoro TQFT amplitudes. As further evidence, we relate the theta and tetrahedron graph amplitudes to the two-point function and out-of-time-ordered four-point function of operators on a massive observer&#x27;s worldline. In appropriate limits, we recover the static patch scalar two-point function with finite observer backreaction and the semiclassical effects of observer recoil. In addition, we analyze examples with knotted worldlines and reproduce their spherical volumes. We also apply our prescription to Seifert manifolds, which are off-shell in AdS$_3$ gravity but admit dS$_3$ saddles, and find agreement with their spherical volumes semiclassically. Finally, using Dehn surgery on torus knots and links, we obtain partition functions on smooth spherical three-manifolds.</div>
+  <button class="toggle" onclick="tog(this,'a25')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#26</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30586v1" target="_blank">Perturbations, eikonal limit and Hawking radiation of diverse external fields in a non-minimal charged black hole</a></div>
+  <div class="meta">
+    <span class="authors">Yinan Jia, Zhen-Hao Yang, Xiao-Mei Kuang</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30586v1" target="_blank">2610.30586v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30586v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Quantum Gravity</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a26">We compare the quasinormal modes (QNMs), greybody factors, and Hawking emission of massless scalar, electromagnetic, and Dirac test fields propagating on a non-minimal Einstein--Yang--Mills black hole. The QNMs are calculated using WKB and pseudospectral methods, while greybody factors are estimated with sixth-order WKB method. All computed modes are damped within the parameter range considered. Higher overtones generally exhibit stronger dependence on the non-minimal coupling $ξ$ than the fundamental mode, including non-monotonic behavior in the scalar and Dirac sectors. For large multipole numbers, all three fields follow a common leading eikonal description governed by the unstable circular null orbit. Increasing $ξ$ raises the orbital angular velocity and reduces the Lyapunov exponent, leading to higher oscillation frequencies and weaker damping rate. The greybody factors depend strongly on the multipole number, with weaker field dependent corrections from $ξ$. The partial-wave emission powers generally decrease with increasing $ξ$, while the lowest scalar mode shows mild non-monotonic behavior. This comparison reveals enhanced overtone sensitivity alongside comparatively small changes in transmission, whereas the Hawking emission reflects changes in both the greybody factors and the black hole temperature.</div>
+  <button class="toggle" onclick="tog(this,'a26')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#27</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.30224v1" target="_blank">Wormhole geometries and energy conditions in linear and non-linear $f(Q,L_m)$ gravity</a></div>
+  <div class="meta">
+    <span class="authors">Sara Rastgoo, Foad Parsaei</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.30224v1" target="_blank">2610.30224v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.30224v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Entanglement &amp; Geometry</span><span class="tag cat">gr-qc</span></div>
+  <div class="abstract clamp" id="a27">This study explores static and spherically symmetric wormhole configurations in an extended formulation of symmetric teleparallel gravity governed by $f(Q,L_m)=α(-Q)+βL_m $ and $f(Q,L_m)= -Q+L_m^α $ (where $Q$ is the non-metricity scalar, $L_m$ is the matter Lagrangian, and $α, β$ are constants). By varying the action with respect to the metric, we obtain the corresponding field equations. We conclude that the linear $f(Q,L_m)=α(-Q)+βL_m$ framework successfully supports physically realistic wormholes without requiring extreme energy condition violations. It has been demonstrated that spacetime solutions violating both the radial and lateral null energy conditions in general relativity can nevertheless satisfy the NEC in $f(Q, L_m)$ gravity. Within non-linear $f(Q,L_m)$ gravity, non-exotic asymptotically flat wormhole solutions are derived using linear and asymptotically linear equations of state. Our results open new avenues to link modified gravity models with the observable astrophysical traits of exotic spacetimes.</div>
+  <button class="toggle" onclick="tog(this,'a27')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#28</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.29941v1" target="_blank">Rotation slows the instability of Ellis-Bronnikov wormholes</a></div>
+  <div class="meta">
+    <span class="authors">Nikita M. Shirokov, Ilya Nachevsky</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.29941v1" target="_blank">2610.29941v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.29941v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Entanglement &amp; Geometry</span><span class="tag cat">gr-qc</span><span class="tag cat">astro-ph.HE</span></div>
+  <div class="abstract clamp" id="a28">We present nonlinear 3+1 evolutions of rotating Ellis-Bronnikov wormholes. We construct stationary rotating drainhole solutions with a spectral solver up to an equatorial rotation velocity of 99% of the speed of light, validate the solver against published symmetric solutions, and correct an inconsistency in a published field equation. Perturbed only by truncation error, the evolutions show that rotation slows the radial instability of the static wormhole. Near 30% of the extremal angular momentum the unperturbed throat expands instead of collapsing, rather than the instability disappearing as second-order perturbation theory suggests. From 58% upward we find no evidence of instability over the evolved times; at the fastest spin this holds at three resolutions. Collapsing rotating throats emit an axisymmetric quadrupolar gravitational-wave burst whose energy grows with spin. Second-order perturbative initial data trigger the instability through their own truncation error, so they are unsuitable for stability studies.</div>
+  <button class="toggle" onclick="tog(this,'a28')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#29</div>
+  <div class="title"><a href="https://arxiv.org/abs/2610.29406v1" target="_blank">A spinor-adapted geometric approach to nonlinear Dirac systems on the Schwarzschild black hole background</a></div>
+  <div class="meta">
+    <span class="authors">Seokchang Hong</span>
+    <a class="aid" href="https://arxiv.org/abs/2610.29406v1" target="_blank">2610.29406v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2610.29406v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Geometric Gravity</span><span class="tag cat">math.AP</span><span class="tag cat">math-ph</span></div>
+  <div class="abstract clamp" id="a29">Building on our previous work, we extend the spinor-adapted geometric method for nonlinear Dirac systems from small perturbations of Minkowski spacetime to the Schwarzschild background. As a linear foundation, we establish integrated local energy decay estimates and an \(r^p\)-weighted energy hierarchy for spinor fields, adapting the physical-space approach of Dafermos and Rodnianski to the Dirac setting. The main focus of the paper is nonlinear. We consider a semilinear tensorial wave--Dirac model motivated by the wave-gauge reduction of the Einstein--Dirac system and prove global small-data stability. A principal difficulty is the apparent loss of derivatives arising from the coupling between the first-order Dirac equation and the second-order tensorial wave equation. We overcome this difficulty through a spinor-adapted energy hierarchy that exploits the complementary roles of the Dirac-current energy and the spinorial wave energy. In particular, the nonlinear estimates are closed without requiring the top-order Dirac-current estimate. The nonlinear analysis demonstrates that the spinorial structures remain essential on the black-hole background. The combination of Dirac-current energy, spinorial wave energy, Kosmann Lie derivatives, and the Clifford-algebraic null structure enables us to close the nonlinear estimates without imposing an independent null condition on the tensorial wave equation. Thus, the nonlinear closure relies fundamentally on structures intrinsic to the Dirac equation. A second main result is the global small-data stability of the Maxwell--Dirac system in the Lorenz gauge on the Schwarzschild background, under a vanishing-charge assumption. This extends the nonlinear stability theory to a genuine gauge-coupled Dirac system and demonstrates the applicability of the spinor-adapted physical-space approach beyond the tensorial wave--Dirac model.</div>
+  <button class="toggle" onclick="tog(this,'a29')">Show more &#9660;</button>
+</div>
+</div>
+<footer>arXiv Monitor &middot; Saturday, October 24, 2026 at 07:28</footer>
+<script>
+function tog(btn,id){
+  var el=document.getElementById(id),cl=el.classList;
+  if(cl.contains('clamp')){cl.remove('clamp');btn.textContent='Show less ▲';}
+  else{cl.add('clamp');btn.textContent='Show more ▼';}
+}
+</script>
+</body>
+</html>
