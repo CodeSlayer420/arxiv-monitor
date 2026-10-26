@@ -1919,6 +1919,18 @@
     "last_seen": "2026-09-19"
   },
   {
+    "name": "Henry W. Lin",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "Entanglement & Geometry",
+      "Quantum Gravity",
+      "String Theory"
+    ],
+    "count": 5,
+    "last_seen": "2026-10-26"
+  },
+  {
     "name": "Houwen Wu",
     "institution": "",
     "topics": [
@@ -3126,17 +3138,6 @@
     ],
     "count": 4,
     "last_seen": "2026-07-31"
-  },
-  {
-    "name": "Henry W. Lin",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "Entanglement & Geometry",
-      "Quantum Gravity"
-    ],
-    "count": 4,
-    "last_seen": "2026-09-17"
   },
   {
     "name": "Izzet Sakalli",
@@ -6663,6 +6664,16 @@
     ],
     "count": 3,
     "last_seen": "2026-07-02"
+  },
+  {
+    "name": "Igor R. Klebanov",
+    "institution": "",
+    "topics": [
+      "CFT",
+      "String Theory"
+    ],
+    "count": 3,
+    "last_seen": "2026-10-26"
   },
   {
     "name": "Ilarion V. Melnikov",
@@ -15833,15 +15844,6 @@
     "last_seen": "2026-05-27"
   },
   {
-    "name": "Igor R. Klebanov",
-    "institution": "",
-    "topics": [
-      "CFT"
-    ],
-    "count": 2,
-    "last_seen": "2026-09-12"
-  },
-  {
     "name": "Ingo Runkel",
     "institution": "",
     "topics": [
@@ -22496,6 +22498,15 @@
     "last_seen": "2026-07-20"
   },
   {
+    "name": "Ben Kain",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-10-26"
+  },
+  {
     "name": "Benjamin Leather",
     "institution": "",
     "topics": [
@@ -23270,6 +23281,15 @@
     "last_seen": "2026-10-19"
   },
   {
+    "name": "Hong Y. Ling",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-10-26"
+  },
+  {
     "name": "Hongbao Zhang",
     "institution": "",
     "topics": [
@@ -23433,6 +23453,15 @@
     ],
     "count": 1,
     "last_seen": "2026-07-20"
+  },
+  {
+    "name": "Jessica Yeh",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-10-26"
   },
   {
     "name": "Jianhui Lin",
@@ -24327,6 +24356,15 @@
     ],
     "count": 1,
     "last_seen": "2026-10-06"
+  },
+  {
+    "name": "Pavel Meshcheriakov",
+    "institution": "",
+    "topics": [
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-10-26"
   },
   {
     "name": "Pei Zeng",
