@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>arXiv Digest — 2026-11-09</title>
+<style>
+:root{
+  --bg:#0d1117;--surface:#161b22;--card:#1c2128;--border:#30363d;
+  --text:#e6edf3;--muted:#8b949e;--accent:#7c3aed;--link:#58a6ff;
+  --green:#3fb950;--yellow:#d29922;--pink:#f778ba;--tag:#1c2432;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter','Segoe UI',system-ui,sans-serif;
+     background:var(--bg);color:var(--text);line-height:1.6;font-size:15px}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+
+.header{background:var(--surface);border-bottom:1px solid var(--border);padding:2rem 2.5rem}
+.header h1{font-size:1.65rem;font-weight:700;letter-spacing:-.02em;color:#fff;margin-bottom:.2rem}
+.tagline{color:var(--muted);font-size:.85rem;margin-bottom:1rem}
+.stats{display:flex;flex-wrap:wrap;gap:.45rem}
+.stat{background:var(--card);border:1px solid var(--border);border-radius:6px;
+      padding:.28rem .7rem;font-size:.78rem;color:var(--muted)}
+.stat b{color:var(--text)}
+
+.container{max-width:960px;margin:0 auto;padding:1.5rem 2rem}
+.section-label{font-size:.7rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;
+               color:var(--muted);margin:1.5rem 0 .75rem;padding-bottom:.4rem;
+               border-bottom:1px solid var(--border)}
+
+.card{background:var(--card);border:1px solid var(--border);border-radius:10px;
+      padding:1.2rem 1.4rem;margin-bottom:.8rem;transition:border-color .15s}
+.card:hover{border-color:var(--accent)}
+.rank{float:right;font-size:1.4rem;font-weight:700;color:var(--border);margin-left:.75rem;line-height:1}
+
+.title{font-size:1.05rem;font-weight:600;margin-bottom:.4rem}
+.title a{color:var(--text)}
+.title a:hover{color:var(--link)}
+
+.meta{display:flex;flex-wrap:wrap;gap:.45rem;align-items:center;margin-bottom:.55rem;font-size:.82rem}
+.authors{color:var(--muted)}
+.aid{font-family:monospace;font-size:.76rem}
+.score{color:var(--yellow);font-weight:600}
+.bar-outer{display:inline-block;vertical-align:middle;background:var(--border);
+           border-radius:3px;height:5px;width:90px;margin-left:.35rem}
+.bar-inner{background:linear-gradient(90deg,var(--accent),var(--pink));
+           height:100%;border-radius:3px}
+.pdf{color:var(--green);font-size:.76rem;font-weight:500}
+
+.tags{display:flex;flex-wrap:wrap;gap:.3rem;margin-bottom:.55rem}
+.tag{background:var(--tag);color:var(--link);border:1px solid var(--border);
+     border-radius:20px;padding:.12rem .5rem;font-size:.73rem}
+.cat{color:var(--muted)}
+
+.abstract{color:var(--muted);font-size:.84rem;line-height:1.75}
+.abstract.clamp{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.toggle{background:none;border:none;color:var(--link);cursor:pointer;font-size:.76rem;margin-top:.25rem;padding:0}
+.toggle:hover{text-decoration:underline}
+
+footer{text-align:center;padding:1.5rem;color:var(--muted);font-size:.76rem;
+       border-top:1px solid var(--border);margin-top:1rem}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>arXiv Daily Digest</h1>
+  <div class="tagline">
+    Quantum Gravity &middot; Holography &middot; AdS/CFT &middot; String Theory
+    &middot; Celestial Holography &middot; Asymptotic Symmetries &middot; CFT
+    &middot; Ryu-Takayanagi &middot; Entanglement &amp; Geometry
+  </div>
+  <div class="stats"><div class="stat">Generated: <b>Monday, November 9, 2026 at 09:59</b></div><div class="stat">Papers: <b>4</b></div><div class="stat">Categories: <b>hep-th, gr-qc, math-ph</b></div><div class="stat">CFT: <b>1</b></div><div class="stat">Celestial Holography: <b>1</b></div><div class="stat">String Theory: <b>1</b></div><div class="stat">Asymptotic Symmetries: <b>1</b></div><div class="stat">AdS/CFT: <b>1</b></div></div>
+</div>
+<div class="container">
+  <div class="section-label">Papers ranked by relevance &mdash; click title to open on arXiv</div>
+  
+<div class="card">
+  <div class="rank">#1</div>
+  <div class="title"><a href="https://arxiv.org/abs/2611.09867v1" target="_blank">Existence of extremal solutions in the 1d conformal bootstrap</a></div>
+  <div class="meta">
+    <span class="authors">Filip Herček, Nat Levine</span>
+    <a class="aid" href="https://arxiv.org/abs/2611.09867v1" target="_blank">2611.09867v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2611.09867v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;7</span><div class="bar-outer"><div class="bar-inner" style="width:12%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">CFT</span><span class="tag cat">hep-th</span><span class="tag cat">math-ph</span></div>
+  <div class="abstract clamp" id="a1">Extremal solutions and functionals play an important role in the conformal bootstrap. These are the solutions that saturate unitarity bounds, and the dual functionals that encode the optimal bounds. While they have fundamental theoretical implications, their existence has not been rigorously established. This is particularly subtle in the setting of the full infinite-dimensional bootstrap, i.e. the limit of zero numerical truncation. In this article, we prove that extremal solutions exist for OPE maximisation problems in 1d CFT. These are a large class of generically interacting, unitary, exact solutions of the crossing equation that maximise an OPE coefficient. We also prove that these problems have &#x27;zero duality gap&#x27;, meaning there exist functionals arbitrarily close to extremality. Our approach is to formulate the bootstrap as a convex optimisation problem in a Hilbert space and apply the Fenchel-Rockafellar theorem.</div>
+  <button class="toggle" onclick="tog(this,'a1')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#2</div>
+  <div class="title"><a href="https://arxiv.org/abs/2611.09420v1" target="_blank">Null Strings Gauged, Reloaded and Quantized, II: Null Strings on Flat Backgorund Have Discrete Spectrum</a></div>
+  <div class="meta">
+    <span class="authors">I. Rasulian, M. M. Sheikh-Jabbari, H. Yavartanoo</span>
+    <a class="aid" href="https://arxiv.org/abs/2611.09420v1" target="_blank">2611.09420v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2611.09420v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;5</span><div class="bar-outer"><div class="bar-inner" style="width:8%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Celestial Holography</span><span class="tag">String Theory</span><span class="tag cat">hep-th</span></div>
+  <div class="abstract clamp" id="a2">We continue our study of the quantization of null strings, strings with Carrollian worldsheets described by an action with two-dimensional (2d) diffeomorphisms, Weyl and Carroll-Weyl scaling as gauge symmetry. We perform light cone gauge quantization of the null strings on flat space background within Schrödinger representation, initiated in arXiv:2607.02970. We show, within the regular separated Schrödinger sector, that bosonic null strings on a flat background have no critical dimensions, have discrete, nonnegative mass-squared levels and are hence free of tachyonic modes.</div>
+  <button class="toggle" onclick="tog(this,'a2')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#3</div>
+  <div class="title"><a href="https://arxiv.org/abs/2611.09757v1" target="_blank">Generalized Schwarzian thermodynamics from gravitational perturbations of near-extremal Kerr</a></div>
+  <div class="meta">
+    <span class="authors">Marcela Cárdenas, Benjamín Cuevas-Tapia, Jessica Trespalacios</span>
+    <a class="aid" href="https://arxiv.org/abs/2611.09757v1" target="_blank">2611.09757v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2611.09757v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;4</span><div class="bar-outer"><div class="bar-inner" style="width:7%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">Asymptotic Symmetries</span><span class="tag cat">gr-qc</span><span class="tag cat">hep-th</span></div>
+  <div class="abstract clamp" id="a3">We derive the generalized Schwarzian thermodynamics of near-extremal Kerr directly from four-dimensional gravitational perturbations of the near-horizon geometry. We construct two families of exact linear perturbations of the near-NHEK background: a non-normalizable mode that deforms the asymptotic boundary, and a normalizable mode supported near the horizon. Both perturbations are smooth solutions of the vacuum Einstein equations reduced to the Jackiw--Teitelboim equation for the dual scalar, without conical singularities. We study their asymptotic symmetries and show that they generate an algebra of time reparametrizations; requiring the gauge parameters to depend on the Schwarzian mode, the isometry condition selects the stationary KdV hierarchy. The same hierarchy is independently enforced by the vacuum Einstein equations on the perturbation coefficient. In the Euclidean regime, we evaluate the Hamiltonian action and show that each mode independently generates a tower of odd-power corrections to the near-extremal entropy.</div>
+  <button class="toggle" onclick="tog(this,'a3')">Show more &#9660;</button>
+</div>
+<div class="card">
+  <div class="rank">#4</div>
+  <div class="title"><a href="https://arxiv.org/abs/2611.09837v1" target="_blank">99.9...% of the SU(2) BFSS ground state</a></div>
+  <div class="meta">
+    <span class="authors">Alexander Michel, Jaroslav Scheinpflug, Xi Yin</span>
+    <a class="aid" href="https://arxiv.org/abs/2611.09837v1" target="_blank">2611.09837v1</a>
+    <a class="pdf" href="https://arxiv.org/pdf/2611.09837v1" target="_blank">[PDF]</a>
+    <span class="score">Score&nbsp;3</span><div class="bar-outer"><div class="bar-inner" style="width:5%"></div></div>
+  </div>
+  <div class="tags"><span class="tag">AdS/CFT</span><span class="tag cat">hep-th</span><span class="tag cat">math-ph</span></div>
+  <div class="abstract clamp" id="a4">We solve for the ground-state wavefunction of the SU(2) BFSS matrix model by applying the Rayleigh-Ritz method to an auxiliary operator $H_{\mathrm{aux}}$. We show that this operator agrees with the Hamiltonian on the ground-state subspace and has a spectral gap. For SU(2) specifically, the representation theory of the singlet sector gives an astronomical reduction in the number of degrees of freedom. This allows us to construct an efficient variational basis whose inner products we compute exactly. We demonstrate the method by computing a state that satisfies rigorous bounds on its energy $E\,g_{\mathrm{YM}}^{-2/3}\leq 4.18\times10^{-8}$ and ground-subspace overlap $\|P_{\ker H}ψ\|^2\geq 0.999997$. We compute ground-state moments with high precision, finding values consistent with the bounds from our matrix bootstrap. Additionally, the state accurately reproduces both the exponent and coefficient of the asymptotic radial probability density predicted by the three-graviton amplitude.</div>
+  <button class="toggle" onclick="tog(this,'a4')">Show more &#9660;</button>
+</div>
+</div>
+<footer>arXiv Monitor &middot; Monday, November 9, 2026 at 09:59</footer>
+<script>
+function tog(btn,id){
+  var el=document.getElementById(id),cl=el.classList;
+  if(cl.contains('clamp')){cl.remove('clamp');btn.textContent='Show less ▲';}
+  else{cl.add('clamp');btn.textContent='Show more ▼';}
+}
+</script>
+</body>
+</html>
