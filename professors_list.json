@@ -8696,6 +8696,16 @@
     "last_seen": "2026-10-22"
   },
   {
+    "name": "Kasia Budzik",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 3,
+    "last_seen": "2026-11-16"
+  },
+  {
     "name": "Kathrin Stoldt",
     "institution": "",
     "topics": [
@@ -18887,16 +18897,6 @@
     "last_seen": "2026-11-04"
   },
   {
-    "name": "Kasia Budzik",
-    "institution": "",
-    "topics": [
-      "AdS/CFT",
-      "String Theory"
-    ],
-    "count": 2,
-    "last_seen": "2026-10-16"
-  },
-  {
     "name": "Kathryn M. Zurek",
     "institution": "",
     "topics": [
@@ -25404,6 +25404,16 @@
     "last_seen": "2026-05-22"
   },
   {
+    "name": "Davide Gaiotto",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-11-16"
+  },
+  {
     "name": "Dayue Qin",
     "institution": "",
     "topics": [
@@ -25627,6 +25637,17 @@
     "last_seen": "2026-09-21"
   },
   {
+    "name": "Francesco Aprile",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-11-16"
+  },
+  {
     "name": "Francisco Bento Lustosa",
     "institution": "",
     "topics": [
@@ -25682,6 +25703,15 @@
     ],
     "count": 1,
     "last_seen": "2026-05-19"
+  },
+  {
+    "name": "Gang Zhou",
+    "institution": "",
+    "topics": [
+      "Entanglement & Geometry"
+    ],
+    "count": 1,
+    "last_seen": "2026-11-16"
   },
   {
     "name": "Giampiero Esposito",
@@ -25877,6 +25907,17 @@
     "last_seen": "2026-07-13"
   },
   {
+    "name": "Hector Puerta-Ramisa",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-11-16"
+  },
+  {
     "name": "Hendrik J. R. Van Zyl",
     "institution": "",
     "topics": [
@@ -25934,6 +25975,15 @@
     ],
     "count": 1,
     "last_seen": "2026-10-26"
+  },
+  {
+    "name": "Hongliang Jiang",
+    "institution": "",
+    "topics": [
+      "CFT"
+    ],
+    "count": 1,
+    "last_seen": "2026-11-16"
   },
   {
     "name": "Houri-Christina Tarazi",
@@ -26915,6 +26965,17 @@
     "last_seen": "2026-11-02"
   },
   {
+    "name": "Mitchell Woolley",
+    "institution": "",
+    "topics": [
+      "AdS/CFT",
+      "CFT",
+      "String Theory"
+    ],
+    "count": 1,
+    "last_seen": "2026-11-16"
+  },
+  {
     "name": "Mohammad Ali S. Afshar",
     "institution": "",
     "topics": [
@@ -27033,6 +27094,15 @@
     ],
     "count": 1,
     "last_seen": "2026-10-29"
+  },
+  {
+    "name": "Ondrej Hulik",
+    "institution": "",
+    "topics": [
+      "Asymptotic Symmetries"
+    ],
+    "count": 1,
+    "last_seen": "2026-11-16"
   },
   {
     "name": "Oscar Lewis",
@@ -27247,6 +27317,15 @@
     ],
     "count": 1,
     "last_seen": "2026-08-17"
+  },
+  {
+    "name": "Raphael Senghaas",
+    "institution": "",
+    "topics": [
+      "Asymptotic Symmetries"
+    ],
+    "count": 1,
+    "last_seen": "2026-11-16"
   },
   {
     "name": "Raül Vera",

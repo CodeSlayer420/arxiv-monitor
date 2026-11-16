@@ -1,6 +1,6 @@
 # Researcher Tracker
 
-_Updated 2026-11-15 &middot; 2933 researchers tracked_
+_Updated 2026-11-16 &middot; 2941 researchers tracked_
 
 | # | Name | Institution | Topics | Appearances | Last Seen |
 |---|------|-------------|--------|:-----------:|-----------|
@@ -872,1075 +872,1075 @@ _Updated 2026-11-15 &middot; 2933 researchers tracked_
 | 866 | Kai Shi | — | AdS/CFT | 3 | 2026-09-20 |
 | 867 | Kaihao Jing | — | Quantum Gravity | 3 | 2026-10-11 |
 | 868 | Kartheek Hegde | — | AdS/CFT | 3 | 2026-10-22 |
-| 869 | Kathrin Stoldt | — | Asymptotic Symmetries | 3 | 2026-10-22 |
-| 870 | Katja Klobas | — | Entanglement & Geometry | 3 | 2026-06-21 |
-| 871 | Ke Chen | — | AdS/CFT, Geometric Gravity | 3 | 2026-10-11 |
-| 872 | Keiichiro Furuya | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-07-20 |
-| 873 | Keiichiro Hattori | — | String Theory | 3 | 2026-06-26 |
-| 874 | Keisuke Izumi | — | Entanglement & Geometry | 3 | 2026-05-24 |
-| 875 | Keisuke Nakashi | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-10-07 |
-| 876 | Keith A. Olive | — | String Theory | 3 | 2026-07-03 |
-| 877 | Ken-ji Hamada | — | Quantum Gravity | 3 | 2026-08-21 |
-| 878 | Kengo Maeda | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-11-05 |
-| 879 | Keun-Young Kim | — | AdS/CFT, CFT | 3 | 2026-09-19 |
-| 880 | Kevin Costello | — | AdS/CFT | 3 | 2026-10-01 |
-| 881 | Kevin Nguyen | — | AdS/CFT, Asymptotic Symmetries, CFT | 3 | 2026-10-02 |
-| 882 | Kilian Hersent | — | Quantum Gravity | 3 | 2026-06-19 |
-| 883 | Kiminad A. Mamo | — | AdS/CFT, String Theory | 3 | 2026-10-09 |
-| 884 | Kiran Adhikari | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-07-01 |
-| 885 | Kiyoon Eum | — | CFT, Geometric Gravity | 3 | 2026-08-23 |
-| 886 | Kohei Kawabata | — | CFT | 3 | 2026-06-18 |
-| 887 | Krishna Chand Maurya | — | AdS/CFT, CFT | 3 | 2026-06-11 |
-| 888 | Kristina Giesel | — | Quantum Gravity | 3 | 2026-10-01 |
-| 889 | Kuan-Nan Lin | — | Celestial Holography, Quantum Gravity | 3 | 2026-08-15 |
-| 890 | Kuo-Wei Huang | — | AdS/CFT, CFT | 3 | 2026-11-05 |
-| 891 | Kwan Yun | — | AdS/CFT, CFT | 3 | 2026-09-19 |
-| 892 | Lara Bohnenblust | — | Asymptotic Symmetries | 3 | 2026-10-22 |
-| 893 | Larus Thorlacius | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 3 | 2026-06-12 |
-| 894 | Laurentiu Rodina | — | Quantum Gravity | 3 | 2026-10-25 |
-| 895 | Lea Mele | — | Celestial Holography | 3 | 2026-07-26 |
-| 896 | Lecheng Ren | — | AdS/CFT, CFT, String Theory | 3 | 2026-07-26 |
-| 897 | Leila Shahkarami | — | AdS/CFT, String Theory | 3 | 2026-07-17 |
-| 898 | Leonard Schwarze | — | AdS/CFT, CFT | 3 | 2026-07-30 |
-| 899 | Leonardo Chataignier | — | Geometric Gravity | 3 | 2026-09-25 |
-| 900 | Lev Senchukov | — | Quantum Gravity, String Theory | 3 | 2026-07-03 |
-| 901 | Liang Li | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-08-30 |
-| 902 | Lijing Shao | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-06-07 |
-| 903 | Ling-Long Gao | — | AdS/CFT | 3 | 2026-09-24 |
-| 904 | Lini Devassy | — | AdS/CFT, Geometric Gravity | 3 | 2026-09-05 |
-| 905 | Liping Li | — | AdS/CFT | 3 | 2026-10-22 |
-| 906 | Liu Ye | — | Entanglement & Geometry | 3 | 2026-10-11 |
-| 907 | Ljubica D. Davidović | — | String Theory | 3 | 2026-06-12 |
-| 908 | Lorenzo Herres | — | AdS/CFT, Geometric Gravity | 3 | 2026-06-25 |
-| 909 | Lorenzo M. Procopio | — | Geometric Gravity, Quantum Gravity | 3 | 2026-07-04 |
-| 910 | Lorenzo Magnea | — | Asymptotic Symmetries, CFT | 3 | 2026-10-04 |
-| 911 | Lorenzo Orlando | — | AdS/CFT, Geometric Gravity | 3 | 2026-06-25 |
-| 912 | Loïc Marsot | — | CFT, Celestial Holography | 3 | 2026-06-25 |
-| 913 | Lu Wei | — | Entanglement & Geometry | 3 | 2026-06-19 |
-| 914 | Luca Martucci | — | Entanglement & Geometry | 3 | 2026-06-27 |
-| 915 | Luca Romano | — | Celestial Holography, String Theory | 3 | 2026-07-09 |
-| 916 | Ludovic Varrin | — | Entanglement & Geometry, Geometric Gravity, Quantum Gravity | 3 | 2026-10-30 |
-| 917 | Luiz Carlos Garcia de Andrade | — | Quantum Gravity | 3 | 2026-08-13 |
-| 918 | Lukas Varnhorst | — | Entanglement & Geometry | 3 | 2026-09-20 |
-| 919 | Léa Malacher | — | Quantum Gravity | 3 | 2026-06-07 |
-| 920 | M. A. Jaraba | — | AdS/CFT | 3 | 2026-08-20 |
-| 921 | M. A. Rajabpour | — | CFT | 3 | 2026-09-26 |
-| 922 | M. C. Baldiotti | — | AdS/CFT | 3 | 2026-08-20 |
-| 923 | M. M. Daryaei Goki | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-10-16 |
-| 924 | M. Mangut | — | Geometric Gravity | 3 | 2026-09-05 |
-| 925 | Machiko Hatsuda | — | String Theory | 3 | 2026-08-02 |
-| 926 | Madhumita Saha | — | Entanglement & Geometry, Quantum Gravity | 3 | 2026-10-24 |
-| 927 | Madhusudhan Raman | — | AdS/CFT, String Theory | 3 | 2026-06-19 |
-| 928 | Mahdis Ghodrati | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity +1 | 3 | 2026-08-10 |
-| 929 | Manan Bhatia | — | Quantum Gravity | 3 | 2026-06-12 |
-| 930 | Manas Kulkarni | — | Entanglement & Geometry, Quantum Gravity | 3 | 2026-10-24 |
-| 931 | Manghang Limbu | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-07-01 |
-| 932 | Manthos Karydas | — | Quantum Gravity | 3 | 2026-11-01 |
-| 933 | Manuel Reichert | — | Quantum Gravity | 3 | 2026-06-20 |
-| 934 | Manuel de León | — | Geometric Gravity | 3 | 2026-08-09 |
-| 935 | Marc Schneider | — | Quantum Gravity | 3 | 2026-09-27 |
-| 936 | Marcelo Oyarzo | — | AdS/CFT, String Theory | 3 | 2026-07-30 |
-| 937 | Marco Calzà | — | Quantum Gravity | 3 | 2026-06-07 |
-| 938 | Marco Calzá | — | Entanglement & Geometry, Quantum Gravity | 3 | 2026-06-07 |
-| 939 | Marek Liška | — | Geometric Gravity | 3 | 2026-11-12 |
-| 940 | Marhabo Beymamatova | — | AdS/CFT | 3 | 2026-07-18 |
-| 941 | Maria Nocchi | — | AdS/CFT, String Theory | 3 | 2026-06-11 |
-| 942 | Maria Santana | — | Asymptotic Symmetries | 3 | 2026-09-12 |
-| 943 | Mariano Cadoni | — | AdS/CFT, Geometric Gravity | 3 | 2026-06-25 |
-| 944 | Mariano Quiros | — | AdS/CFT, CFT, String Theory | 3 | 2026-08-20 |
-| 945 | Mario Flory | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-08-13 |
-| 946 | Marios Christodoulou | — | Quantum Gravity | 3 | 2026-08-20 |
-| 947 | Mark Sukaiti | — | Entanglement & Geometry | 3 | 2026-11-12 |
-| 948 | Martin B. Plenio | — | Quantum Gravity | 3 | 2026-07-03 |
-| 949 | Martin Beneke | — | Asymptotic Symmetries | 3 | 2026-09-12 |
-| 950 | Martin Zeiß | — | Quantum Gravity | 3 | 2026-09-03 |
-| 951 | Masamichi Miyaji | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 3 | 2026-11-05 |
-| 952 | Masato Nozawa | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-10-27 |
-| 953 | Masaya Yata | — | String Theory | 3 | 2026-08-02 |
-| 954 | Masoud Ataei | — | CFT | 3 | 2026-07-30 |
-| 955 | Matheus D. de Oliveira | — | Entanglement & Geometry | 3 | 2026-09-11 |
-| 956 | Matteo Selle | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-09-03 |
-| 957 | Matteo Tuveri | — | Quantum Gravity | 3 | 2026-06-14 |
-| 958 | Matthias Heinrich | — | AdS/CFT, CFT | 3 | 2026-06-11 |
-| 959 | Mattia Serrani | — | CFT, Celestial Holography | 3 | 2026-08-02 |
-| 960 | Max Ehrhardt | — | AdS/CFT, CFT | 3 | 2026-06-11 |
-| 961 | Max Jackson | — | AdS/CFT, CFT, String Theory | 3 | 2026-07-26 |
-| 962 | Maxwell R. Siebersma | — | Quantum Gravity | 3 | 2026-06-07 |
-| 963 | Md Sabir Ali | — | AdS/CFT, Geometric Gravity | 3 | 2026-11-01 |
-| 964 | Mehdi Assanioussi | — | Quantum Gravity | 3 | 2026-09-03 |
-| 965 | Mehmet Ozkan | — | AdS/CFT, CFT, String Theory | 3 | 2026-11-14 |
-| 966 | Mei-Hui Xiao | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-07-17 |
-| 967 | Meilin Liu | — | Quantum Gravity | 3 | 2026-07-19 |
-| 968 | Meng-Long Song | — | Entanglement & Geometry | 3 | 2026-10-11 |
-| 969 | Mengxuan Wu | — | AdS/CFT | 3 | 2026-07-19 |
-| 970 | Michael Gutperle | — | AdS/CFT, CFT, String Theory | 3 | 2026-10-01 |
-| 971 | Michael Imseis | — | Celestial Holography | 3 | 2026-10-24 |
-| 972 | Michael Lublinsky | — | AdS/CFT | 3 | 2026-06-12 |
-| 973 | Michael M. Wolf | — | Quantum Gravity | 3 | 2026-10-04 |
-| 974 | Michael R. R. Good | — | Celestial Holography, Quantum Gravity | 3 | 2026-08-15 |
-| 975 | Michel Rausch de Traubenberg | — | String Theory | 3 | 2026-07-04 |
-| 976 | Michel Stillger | — | Asymptotic Symmetries | 3 | 2026-09-12 |
-| 977 | Michele Fossati | — | CFT, Entanglement & Geometry | 3 | 2026-07-24 |
-| 978 | Michele Giorgi | — | AdS/CFT, CFT, String Theory | 3 | 2026-09-20 |
-| 979 | Michitaka Kohara | — | AdS/CFT, CFT, Quantum Gravity | 3 | 2026-08-06 |
-| 980 | Miguel Correia | — | AdS/CFT, CFT | 3 | 2026-10-02 |
-| 981 | Miguel Hernandez-Segura | — | String Theory | 3 | 2026-09-27 |
-| 982 | Mikel López-Escondrillas | — | Geometric Gravity | 3 | 2026-09-25 |
-| 983 | Mikhail Alfimov | — | CFT | 3 | 2026-10-22 |
-| 984 | Mikhail Bershtein | — | CFT | 3 | 2026-07-23 |
-| 985 | Milena D. Davidović | — | String Theory | 3 | 2026-06-12 |
-| 986 | Miloš D. Davidović | — | String Theory | 3 | 2026-06-12 |
-| 987 | Min-xin Huang | — | String Theory | 3 | 2026-10-03 |
-| 988 | Ming Zhang | — | AdS/CFT | 3 | 2026-09-27 |
-| 989 | Minghui Yu | — | Entanglement & Geometry, Quantum Gravity | 3 | 2026-10-09 |
-| 990 | Mingshuai Xu | — | AdS/CFT | 3 | 2026-10-11 |
-| 991 | Mingxuan Liu | — | AdS/CFT, CFT, Quantum Gravity | 3 | 2026-11-05 |
-| 992 | Minkyoo Kim | — | AdS/CFT, CFT | 3 | 2026-08-26 |
-| 993 | Mir Faizal | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-08-15 |
-| 994 | Mirko Pitzalis | — | AdS/CFT, Geometric Gravity | 3 | 2026-06-25 |
-| 995 | Miroslava Mosso Rojas | — | AdS/CFT, CFT, String Theory | 3 | 2026-10-16 |
-| 996 | Misao Sasaki | — | Quantum Gravity | 3 | 2026-06-11 |
-| 997 | Mo Dick Wong | — | Quantum Gravity | 3 | 2026-10-01 |
-| 998 | Mohammad Reza Khansari | — | AdS/CFT, CFT | 3 | 2026-06-20 |
-| 999 | Moisés Bravo-Gaete | — | AdS/CFT | 3 | 2026-10-04 |
-| 1000 | Mojtaba Najafizade | — | CFT, Celestial Holography | 3 | 2026-06-20 |
-| 1001 | Monireh Emami | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-09-18 |
-| 1002 | Morris Ang | — | Quantum Gravity | 3 | 2026-11-01 |
-| 1003 | Muhammad Fitrah Alfian Rangga Sakti | — | AdS/CFT, CFT | 3 | 2026-08-06 |
-| 1004 | Muhammad Israr Aslam | — | Entanglement & Geometry | 3 | 2026-10-23 |
-| 1005 | Muneto Nitta | — | CFT, String Theory | 3 | 2026-10-03 |
-| 1006 | Murat Kologlu | — | Quantum Gravity | 3 | 2026-11-01 |
-| 1007 | N. C. Tsamis | — | Quantum Gravity | 3 | 2026-11-04 |
-| 1008 | Na Wang | — | Quantum Gravity | 3 | 2026-08-13 |
-| 1009 | Najibullokhon Shukurullokhon | — | Quantum Gravity | 3 | 2026-06-19 |
-| 1010 | Naman Agarwal | — | String Theory | 3 | 2026-08-01 |
-| 1011 | Naman Kumar | — | Celestial Holography, Entanglement & Geometry, Quantum Gravity | 3 | 2026-05-17 |
-| 1012 | Naoki Tsukamoto | — | Entanglement & Geometry | 3 | 2026-08-27 |
-| 1013 | Naoto Kan | — | String Theory | 3 | 2026-08-20 |
-| 1014 | Nat Levine | — | CFT | 3 | 2026-11-09 |
-| 1015 | Natalie M. Paquette | — | String Theory | 3 | 2026-11-15 |
-| 1016 | Nathan McStay | — | AdS/CFT, String Theory | 3 | 2026-11-07 |
-| 1017 | Nathanaël Berestycki | — | Quantum Gravity | 3 | 2026-06-28 |
-| 1018 | Nathaniel Craig | — | Quantum Gravity | 3 | 2026-06-18 |
-| 1019 | Nayun Jia | — | AdS/CFT | 3 | 2026-09-05 |
-| 1020 | Neha | — | Entanglement & Geometry | 3 | 2026-09-06 |
-| 1021 | Neil Lambert | — | String Theory | 3 | 2026-08-22 |
-| 1022 | Nele Callebaut | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-09-03 |
-| 1023 | Nicolò Primi | — | AdS/CFT, String Theory | 3 | 2026-07-18 |
-| 1024 | Nikita M. Shirokov | — | Entanglement & Geometry | 3 | 2026-10-24 |
-| 1025 | Nikita Sopenko | — | Entanglement & Geometry | 3 | 2026-11-06 |
-| 1026 | Niko Jokela | — | Entanglement & Geometry | 3 | 2026-07-10 |
-| 1027 | Nikolaos Angelinos | — | Entanglement & Geometry | 3 | 2026-07-16 |
-| 1028 | Nikolay S. Akintsov | — | Quantum Gravity | 3 | 2026-07-18 |
-| 1029 | Nina Holden | — | Quantum Gravity | 3 | 2026-10-10 |
-| 1030 | Nirmalya Kajuri | — | AdS/CFT, Celestial Holography, Quantum Gravity | 3 | 2026-06-11 |
-| 1031 | Nitesh K. Dubey | — | AdS/CFT | 3 | 2026-06-12 |
-| 1032 | Ofek Bengyat | — | Quantum Gravity | 3 | 2026-08-20 |
-| 1033 | Olga Papadoulaki | — | CFT | 3 | 2026-11-06 |
-| 1034 | Olivera Miskovic | — | Asymptotic Symmetries, Celestial Holography | 3 | 2026-08-02 |
-| 1035 | Olmos Tursunboyev | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-07-16 |
-| 1036 | Oscar Varela | — | AdS/CFT, CFT, String Theory | 3 | 2026-07-31 |
-| 1037 | P. B. Krishna | — | AdS/CFT, Geometric Gravity | 3 | 2026-09-05 |
-| 1038 | Pablo Basteiro | — | AdS/CFT, CFT | 3 | 2026-06-11 |
-| 1039 | Pablo Tejerina-Pérez | — | AdS/CFT | 3 | 2026-07-02 |
-| 1040 | Panagiotis Dorlis | — | Quantum Gravity | 3 | 2026-05-17 |
-| 1041 | Paola Meza | — | Entanglement & Geometry | 3 | 2026-08-20 |
-| 1042 | Parham Radpay | — | Quantum Gravity | 3 | 2026-09-26 |
-| 1043 | Partha Paul | — | AdS/CFT, CFT, Celestial Holography | 3 | 2026-08-30 |
-| 1044 | Parthasarathi Majumdar | — | Entanglement & Geometry, Geometric Gravity, Quantum Gravity | 3 | 2026-07-31 |
-| 1045 | Patharadanai Nuchino | — | AdS/CFT, String Theory | 3 | 2026-08-16 |
-| 1046 | Patricio Salgado | — | Entanglement & Geometry | 3 | 2026-08-20 |
-| 1047 | Patrick Jefferson | — | Quantum Gravity, String Theory | 3 | 2026-07-09 |
-| 1048 | Pau Solé-Vilaró | — | AdS/CFT | 3 | 2026-07-02 |
-| 1049 | Paul Ghiringhelli | — | CFT | 3 | 2026-11-06 |
-| 1050 | Paulo José Porfírio | — | Entanglement & Geometry | 3 | 2026-10-08 |
-| 1051 | Pavel Kovtun | — | AdS/CFT, CFT, String Theory | 3 | 2026-10-23 |
-| 1052 | Pavlos Protopapas | — | AdS/CFT | 3 | 2026-07-02 |
-| 1053 | Pedro Meert | — | Quantum Gravity | 3 | 2026-08-15 |
-| 1054 | Pedro Tarancón-Álvarez | — | AdS/CFT | 3 | 2026-07-02 |
-| 1055 | Pei-Ming Ho | — | Quantum Gravity | 3 | 2026-06-21 |
-| 1056 | Pelayo V. Calzada | — | Geometric Gravity | 3 | 2026-08-02 |
-| 1057 | Pengfei Zhu | — | CFT, String Theory | 3 | 2026-10-25 |
-| 1058 | Per Kraus | — | Celestial Holography, Quantum Gravity | 3 | 2026-07-17 |
-| 1059 | Petarpa Boonserm | — | AdS/CFT, Geometric Gravity | 3 | 2026-08-23 |
-| 1060 | Petr M. Lavrov | — | Quantum Gravity | 3 | 2026-08-13 |
-| 1061 | Philipp Hauke | — | AdS/CFT, Quantum Gravity | 3 | 2026-11-06 |
-| 1062 | Piero Beretta | — | CFT | 3 | 2026-11-05 |
-| 1063 | Pietro Benetti Genolini | — | AdS/CFT, String Theory | 3 | 2026-07-11 |
-| 1064 | Pietro Fre | — | Geometric Gravity | 3 | 2026-07-30 |
-| 1065 | Pisin Chen | — | Celestial Holography, Quantum Gravity | 3 | 2026-08-15 |
-| 1066 | Piyabut Burikham | — | AdS/CFT, CFT | 3 | 2026-08-06 |
-| 1067 | Po-Yao Chang | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 3 | 2026-06-19 |
-| 1068 | Prajit Baruah | — | CFT | 3 | 2026-09-12 |
-| 1069 | Prakriti Singh | — | AdS/CFT, CFT | 3 | 2026-09-12 |
-| 1070 | Pramod Kamal Kharel | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-07-01 |
-| 1071 | Prasant Samantray | — | CFT | 3 | 2026-08-01 |
-| 1072 | Prasanta K. Tripathy | — | CFT | 3 | 2026-09-20 |
-| 1073 | Prateek Agrawal | — | AdS/CFT | 3 | 2026-08-16 |
-| 1074 | Prateksh Dhivakar | — | AdS/CFT, CFT, Celestial Holography | 3 | 2026-08-30 |
-| 1075 | Preslav Asenov | — | AdS/CFT | 3 | 2026-08-01 |
-| 1076 | Prokopii Anempodistov | — | Quantum Gravity, String Theory | 3 | 2026-07-03 |
-| 1077 | Puxun Wu | — | Quantum Gravity | 3 | 2026-07-30 |
-| 1078 | Q. -L. Zhao | — | Asymptotic Symmetries | 3 | 2026-10-03 |
-| 1079 | Qicheng Tang | — | CFT | 3 | 2026-07-03 |
-| 1080 | Qing-Hua Qin | — | Quantum Gravity | 3 | 2026-07-18 |
-| 1081 | Qiyu Liu | — | CFT | 3 | 2026-09-12 |
-| 1082 | Qiyuan Pan | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-08-21 |
-| 1083 | Quentin Bonnefoy | — | String Theory | 3 | 2026-07-04 |
-| 1084 | R. P. Woodard | — | Quantum Gravity | 3 | 2026-11-04 |
-| 1085 | R. ~C. ~Rashkov | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-10-22 |
-| 1086 | Rabia Saleem | — | Entanglement & Geometry | 3 | 2026-10-23 |
-| 1087 | Radoslav C. Rashkov | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-09-18 |
-| 1088 | Rafael A. Costa-Silva | — | AdS/CFT | 3 | 2026-11-12 |
-| 1089 | Rajesh Kumar Gupta | — | CFT | 3 | 2026-06-20 |
-| 1090 | Rakesh K Jha | — | CFT | 3 | 2026-08-01 |
-| 1091 | Ramires Nascimento da Silva | — | Entanglement & Geometry | 3 | 2026-10-08 |
-| 1092 | Ramon Torres | — | Quantum Gravity | 3 | 2026-09-24 |
-| 1093 | Rana Muhammad Zulqarnain | — | Entanglement & Geometry | 3 | 2026-08-15 |
-| 1094 | Rathindra Nath Das | — | AdS/CFT, CFT | 3 | 2026-06-11 |
-| 1095 | Ratul Mahanta | — | String Theory | 3 | 2026-08-01 |
-| 1096 | Raul Aguero-Santacruz | — | Geometric Gravity, Quantum Gravity | 3 | 2026-07-04 |
-| 1097 | Raul Jimenez | — | AdS/CFT | 3 | 2026-07-02 |
-| 1098 | Remo Garattini | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 3 | 2026-09-01 |
-| 1099 | Ricardo Perez-Martinez | — | String Theory | 3 | 2026-09-27 |
-| 1100 | Riccardo Gandolfo | — | Quantum Gravity | 3 | 2026-06-18 |
-| 1101 | Riccardo Salto | — | AdS/CFT, String Theory | 3 | 2026-10-02 |
-| 1102 | Riccardo Sturani | — | Asymptotic Symmetries | 3 | 2026-09-27 |
-| 1103 | Riccardo Travaglino | — | Entanglement & Geometry | 3 | 2026-06-21 |
-| 1104 | Richard R. Allen | — | Entanglement & Geometry | 3 | 2026-09-06 |
-| 1105 | Richard Van Dongen | — | AdS/CFT, CFT | 3 | 2026-06-27 |
-| 1106 | Rinkesh Panigrahi | — | AdS/CFT, Celestial Holography, Quantum Gravity | 3 | 2026-06-11 |
-| 1107 | Ritabrata Bhattacharya | — | AdS/CFT, CFT, String Theory | 3 | 2026-07-31 |
-| 1108 | Robert Mann | — | AdS/CFT, CFT | 3 | 2026-08-06 |
-| 1109 | Roberto Casadio | — | Quantum Gravity | 3 | 2026-08-15 |
-| 1110 | Robi Peschanski | — | Entanglement & Geometry | 3 | 2026-11-07 |
-| 1111 | Robie A. Hennigar | — | AdS/CFT | 3 | 2026-09-20 |
-| 1112 | Rodolfo Russo | — | CFT | 3 | 2026-06-21 |
-| 1113 | Rodrigo Schmidt Pitombo | — | AdS/CFT, String Theory | 3 | 2026-06-11 |
-| 1114 | Roldao da Rocha | — | AdS/CFT, Geometric Gravity | 3 | 2026-11-07 |
-| 1115 | Romain Ruzziconi | — | AdS/CFT, CFT, Celestial Holography, String Theory | 3 | 2026-09-26 |
-| 1116 | Romain Usciati | — | CFT | 3 | 2026-08-06 |
-| 1117 | Romuald A. Janik | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-11-07 |
-| 1118 | Ronald Reid-Edwards | — | AdS/CFT, String Theory | 3 | 2026-11-07 |
-| 1119 | Roukaya Dekhil | — | Quantum Gravity | 3 | 2026-08-15 |
-| 1120 | Ruben Minasian | — | String Theory | 3 | 2026-09-12 |
-| 1121 | Rustam Ibadov | — | Quantum Gravity | 3 | 2026-06-19 |
-| 1122 | Ryan A. Lanzetta | — | CFT | 3 | 2026-09-06 |
-| 1123 | S. Lacroix | — | CFT | 3 | 2026-10-25 |
-| 1124 | S. M. Rupf | — | Quantum Gravity | 3 | 2026-11-13 |
-| 1125 | Sabahat | — | AdS/CFT, Geometric Gravity | 3 | 2026-07-25 |
-| 1126 | Saheb Soroushfar | — | AdS/CFT | 3 | 2026-10-23 |
-| 1127 | Sahil Devdutt | — | Geometric Gravity | 3 | 2026-08-29 |
-| 1128 | Salah Eddine Ennadifi | — | String Theory | 3 | 2026-08-15 |
-| 1129 | Samim Akhtar | — | Asymptotic Symmetries | 3 | 2026-09-27 |
-| 1130 | Samuel Shuman | — | Quantum Gravity | 3 | 2026-06-07 |
-| 1131 | Sanjaye Ramgoolam | — | String Theory | 3 | 2026-07-31 |
-| 1132 | Sanved Kolekar | — | AdS/CFT | 3 | 2026-06-12 |
-| 1133 | Saptaswa Ghosh | — | AdS/CFT, CFT, Celestial Holography | 3 | 2026-08-20 |
-| 1134 | Sara Zeko | — | Celestial Holography, String Theory | 3 | 2026-07-09 |
-| 1135 | Sarah Hoback | — | AdS/CFT, CFT | 3 | 2026-07-03 |
-| 1136 | Sarben Sarkar | — | Quantum Gravity | 3 | 2026-05-17 |
-| 1137 | Sarbinaz Bazarbaeva | — | AdS/CFT | 3 | 2026-07-18 |
-| 1138 | Sardor Murodov | — | Asymptotic Symmetries, Entanglement & Geometry | 3 | 2026-09-19 |
-| 1139 | Sarunas Verner | — | String Theory | 3 | 2026-07-03 |
-| 1140 | Sashideep Gutti | — | CFT | 3 | 2026-08-01 |
-| 1141 | Satimbay Palvanov | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-07-16 |
-| 1142 | Saul Ramos-Sanchez | — | String Theory | 3 | 2026-09-27 |
-| 1143 | Savdeep Sethi | — | AdS/CFT, String Theory | 3 | 2026-10-11 |
-| 1144 | Sayan Chakrabarti | — | Entanglement & Geometry | 3 | 2026-11-13 |
-| 1145 | Saúl Pilatowsky-Cameo | — | Entanglement & Geometry | 3 | 2026-09-06 |
-| 1146 | Scott Collier | — | CFT, String Theory | 3 | 2026-10-04 |
-| 1147 | Sean Seet | — | AdS/CFT, String Theory | 3 | 2026-11-07 |
-| 1148 | Sebastian Dreizler | — | CFT | 3 | 2026-09-12 |
-| 1149 | Seolhwa Kim | — | Celestial Holography, Quantum Gravity | 3 | 2026-07-17 |
-| 1150 | Sepideh Bakhoda | — | AdS/CFT, Quantum Gravity | 3 | 2026-06-14 |
-| 1151 | Sepideh Forouzi | — | CFT | 3 | 2026-07-30 |
-| 1152 | Sergei Nechaev | — | Quantum Gravity | 3 | 2026-10-04 |
-| 1153 | Sergey N. Solodukhin | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-10-11 |
-| 1154 | Sergio Cacciatori | — | AdS/CFT | 3 | 2026-10-23 |
-| 1155 | Sergio Cerezo-Roquebrún | — | CFT, Entanglement & Geometry | 3 | 2026-07-12 |
-| 1156 | Sergio Sanjurjo | — | AdS/CFT, String Theory | 3 | 2026-11-15 |
-| 1157 | Seyed Naseh Sajadi | — | AdS/CFT, Geometric Gravity | 3 | 2026-08-23 |
-| 1158 | Shai M. Chester | — | AdS/CFT, CFT, String Theory | 3 | 2026-09-28 |
-| 1159 | Shao-Chen Ho | — | Entanglement & Geometry | 3 | 2026-05-24 |
-| 1160 | Shao-Feng Wu | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-08-20 |
-| 1161 | Shauvik Biswas | — | Entanglement & Geometry | 3 | 2026-11-13 |
-| 1162 | Shiki Yoshikawa | — | AdS/CFT, CFT | 3 | 2026-05-28 |
-| 1163 | Shin Sasaki | — | String Theory | 3 | 2026-08-02 |
-| 1164 | Shinsei Ryu | — | CFT, Quantum Gravity | 3 | 2026-11-15 |
-| 1165 | Shirshendu Ganguly | — | Quantum Gravity | 3 | 2026-10-11 |
-| 1166 | Shiyang Chen | — | AdS/CFT, CFT | 3 | 2026-09-24 |
-| 1167 | Shokhzod Jumaniyozov | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-07-16 |
-| 1168 | Shokir Tursunov | — | AdS/CFT | 3 | 2026-07-18 |
-| 1169 | Shota Saito | — | String Theory | 3 | 2026-09-03 |
-| 1170 | Shotaro Kawanago | — | String Theory | 3 | 2026-09-03 |
-| 1171 | Shreyas Punacha | — | AdS/CFT | 3 | 2026-10-22 |
-| 1172 | Shu-Heng Shao | — | Entanglement & Geometry | 3 | 2026-11-06 |
-| 1173 | Shubhashis Mallik | — | Entanglement & Geometry | 3 | 2026-09-06 |
-| 1174 | Shulan Li | — | AdS/CFT, Geometric Gravity | 3 | 2026-08-16 |
-| 1175 | Si-wen Li | — | AdS/CFT | 3 | 2026-06-27 |
-| 1176 | Sichun Sun | — | AdS/CFT, Geometric Gravity | 3 | 2026-07-25 |
-| 1177 | Sid Maibach | — | CFT | 3 | 2026-08-26 |
-| 1178 | Siddhant Tiwari | — | CFT | 3 | 2026-06-20 |
-| 1179 | Simon Beaudoin | — | String Theory | 3 | 2026-07-04 |
-| 1180 | Simone D'Onofrio | — | AdS/CFT, Geometric Gravity | 3 | 2026-10-11 |
-| 1181 | Simone Giombi | — | AdS/CFT, CFT | 3 | 2026-07-24 |
-| 1182 | Sinong Liu | — | String Theory | 3 | 2026-07-03 |
-| 1183 | Sobhan Kazempour | — | AdS/CFT, Geometric Gravity | 3 | 2026-07-25 |
-| 1184 | Sohail | — | Entanglement & Geometry | 3 | 2026-06-19 |
-| 1185 | Soham Sen | — | Quantum Gravity | 3 | 2026-06-11 |
-| 1186 | Soonwon Choi | — | Entanglement & Geometry | 3 | 2026-09-06 |
-| 1187 | Sophie Mutzel | — | Entanglement & Geometry | 3 | 2026-09-20 |
-| 1188 | Sotirios Mygdalas | — | Quantum Gravity, String Theory | 3 | 2026-10-10 |
-| 1189 | Sotirios-Neilos Vlachos | — | Quantum Gravity | 3 | 2026-05-17 |
-| 1190 | Soumen Pari | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 3 | 2026-07-16 |
-| 1191 | Sourav Bhattacharya | — | Quantum Gravity | 3 | 2026-06-18 |
-| 1192 | Sourav Roychowdhury | — | AdS/CFT, String Theory | 3 | 2026-11-13 |
-| 1193 | Souvik Ghose | — | Geometric Gravity | 3 | 2026-06-13 |
-| 1194 | Spencer Stubbs | — | CFT | 3 | 2026-09-24 |
-| 1195 | Sreeshma A | — | AdS/CFT, Geometric Gravity | 3 | 2026-11-01 |
-| 1196 | Sruthi A. Narayanan | — | CFT, Celestial Holography | 3 | 2026-07-04 |
-| 1197 | Stefan Hohenegger | — | Quantum Gravity | 3 | 2026-11-13 |
-| 1198 | Stefan Prohazka | — | Asymptotic Symmetries | 3 | 2026-09-03 |
-| 1199 | Stefano Carignano | — | CFT, Entanglement & Geometry | 3 | 2026-07-12 |
-| 1200 | Stefano Liberati | — | Quantum Gravity | 3 | 2026-08-15 |
-| 1201 | Stefano Lionetti | — | CFT | 3 | 2026-08-09 |
-| 1202 | Stefano Maurelli | — | AdS/CFT, String Theory | 3 | 2026-07-30 |
-| 1203 | Stefano Stocchetti | — | Quantum Gravity | 3 | 2026-07-19 |
-| 1204 | Stefanos R. Kousvos | — | CFT | 3 | 2026-11-05 |
-| 1205 | Stepan N. Andreev | — | Quantum Gravity | 3 | 2026-07-18 |
-| 1206 | Stephen D. H. Hsu | — | AdS/CFT, Quantum Gravity | 3 | 2026-08-22 |
-| 1207 | Subhroneel Chakrabarti | — | AdS/CFT, String Theory | 3 | 2026-06-19 |
-| 1208 | Suchetan Das | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 3 | 2026-06-13 |
-| 1209 | Suddhasattwa Brahma | — | Entanglement & Geometry | 3 | 2026-07-04 |
-| 1210 | Sudip Ghosh | — | AdS/CFT, CFT | 3 | 2026-06-19 |
-| 1211 | Sudipta Dutta | — | AdS/CFT, CFT, Celestial Holography | 3 | 2026-06-27 |
-| 1212 | Supakchai Ponglertsakul | — | AdS/CFT, Geometric Gravity | 3 | 2026-08-23 |
-| 1213 | Suresh Govindarajan | — | CFT | 3 | 2026-09-20 |
-| 1214 | Suresh Nampuri | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 3 | 2026-07-17 |
-| 1215 | Susana F. Huelga | — | Quantum Gravity | 3 | 2026-07-03 |
-| 1216 | Sushant G. Ghosh | — | Quantum Gravity | 3 | 2026-06-13 |
-| 1217 | Sven Höfling | — | AdS/CFT, CFT | 3 | 2026-06-11 |
-| 1218 | Sébastien Reymond | — | AdS/CFT, String Theory | 3 | 2026-06-28 |
-| 1219 | T. Banks | — | AdS/CFT, Quantum Gravity | 3 | 2026-08-15 |
-| 1220 | T. L. Campos | — | AdS/CFT | 3 | 2026-08-20 |
-| 1221 | T. P. Shestakova | — | Quantum Gravity | 3 | 2026-07-25 |
-| 1222 | T. Pedroni | — | CFT | 3 | 2026-10-25 |
-| 1223 | T. Thiemann | — | Quantum Gravity | 3 | 2026-06-26 |
-| 1224 | Takashi Okamura | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-11-05 |
-| 1225 | Tanay Pathak | — | Entanglement & Geometry | 3 | 2026-08-13 |
-| 1226 | Tanmoy Paul | — | AdS/CFT, Geometric Gravity | 3 | 2026-10-11 |
-| 1227 | Tanmoy Sengupta | — | CFT | 3 | 2026-11-06 |
-| 1228 | Tapas K. Das | — | Geometric Gravity | 3 | 2026-06-13 |
-| 1229 | Tatjana Vukašinac | — | Asymptotic Symmetries, Celestial Holography | 3 | 2026-08-02 |
-| 1230 | Themistocles Zikopoulos | — | AdS/CFT, String Theory | 3 | 2026-11-15 |
-| 1231 | Thomas M. Sangy | — | Quantum Gravity | 3 | 2026-08-13 |
-| 1232 | Thomas Tappeiner | — | Quantum Gravity | 3 | 2026-08-08 |
-| 1233 | Tian Lan | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-10-09 |
-| 1234 | Tian-Shun Chen | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-08-20 |
-| 1235 | Tianhao Wu | — | AdS/CFT, CFT, String Theory | 3 | 2026-08-16 |
-| 1236 | Tien Hsieh | — | Entanglement & Geometry | 3 | 2026-05-24 |
-| 1237 | Tim Eckert | — | Asymptotic Symmetries, Quantum Gravity | 3 | 2026-10-24 |
-| 1238 | Tim Schuhmann | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-08-13 |
-| 1239 | Titus K. Mathew | — | AdS/CFT, Geometric Gravity | 3 | 2026-09-05 |
-| 1240 | Tobias Huber-Loyola | — | AdS/CFT, CFT | 3 | 2026-06-11 |
-| 1241 | Tobias Rindlisbacher | — | Entanglement & Geometry | 3 | 2026-07-10 |
-| 1242 | Toby Cubitt | — | Quantum Gravity | 3 | 2026-10-04 |
-| 1243 | Tokiro Numasawa | — | Quantum Gravity, String Theory | 3 | 2026-07-09 |
-| 1244 | Tom A. W. Wolterink | — | AdS/CFT, CFT | 3 | 2026-06-11 |
-| 1245 | Tomaž Prosen | — | Entanglement & Geometry | 3 | 2026-08-13 |
-| 1246 | Tommaso Bambagiotti | — | Quantum Gravity | 3 | 2026-08-15 |
-| 1247 | Tommaso Canneti | — | AdS/CFT | 3 | 2026-08-28 |
-| 1248 | Torsten V. Zache | — | Quantum Gravity | 3 | 2026-11-07 |
-| 1249 | Trakshu Sharma | — | AdS/CFT, CFT | 3 | 2026-06-19 |
-| 1250 | Trinidad B. Lantaño | — | Quantum Gravity | 3 | 2026-07-03 |
-| 1251 | Tristan Hübsch | — | Quantum Gravity, String Theory | 3 | 2026-10-16 |
-| 1252 | Tsuyoshi Okubo | — | Entanglement & Geometry | 3 | 2026-11-13 |
-| 1253 | Tuhin Chatterjee | — | Quantum Gravity | 3 | 2026-06-11 |
-| 1254 | Tursunali Xamidov | — | AdS/CFT | 3 | 2026-11-01 |
-| 1255 | Tushar Waghmare | — | Quantum Gravity | 3 | 2026-09-20 |
-| 1256 | U. K. Khidirov | — | Entanglement & Geometry | 3 | 2026-08-23 |
-| 1257 | Ugo Moschella | — | AdS/CFT | 3 | 2026-10-23 |
-| 1258 | Ulf Leonhardt | — | Geometric Gravity, Quantum Gravity | 3 | 2026-07-04 |
-| 1259 | Umair Anwar | — | Quantum Gravity | 3 | 2026-08-20 |
-| 1260 | V. F. C. Belo | — | Quantum Gravity | 3 | 2026-11-13 |
-| 1261 | V. S. Khiteev | — | AdS/CFT, CFT | 3 | 2026-09-27 |
-| 1262 | Valery E. Lyubovitskij | — | AdS/CFT | 3 | 2026-10-02 |
-| 1263 | Valle Varo | — | Celestial Holography | 3 | 2026-06-28 |
-| 1264 | Vania Vellucci | — | Geometric Gravity | 3 | 2026-06-26 |
-| 1265 | Vasco Gonçalves | — | AdS/CFT, CFT | 3 | 2026-10-02 |
-| 1266 | Vazha Loladze | — | AdS/CFT | 3 | 2026-08-16 |
-| 1267 | Venkatesa Chandrasekaran | — | Quantum Gravity | 3 | 2026-06-07 |
-| 1268 | Victor Ginsburg | — | Quantum Gravity | 3 | 2026-10-11 |
-| 1269 | Victor Gorbenko | — | AdS/CFT, String Theory | 3 | 2026-11-01 |
-| 1270 | Victor Saulquin | — | String Theory | 3 | 2026-07-04 |
-| 1271 | Viktor Mirjanić | — | String Theory | 3 | 2026-06-28 |
-| 1272 | Vincent Lahoche | — | Quantum Gravity | 3 | 2026-09-26 |
-| 1273 | Vincenzo Branchina | — | Quantum Gravity | 3 | 2026-06-18 |
-| 1274 | Vishal Gayari | — | AdS/CFT, CFT, Quantum Gravity | 3 | 2026-07-26 |
-| 1275 | Vishnu Rajagopal | — | Quantum Gravity | 3 | 2026-07-30 |
-| 1276 | Vitalii Vertogradov | — | Entanglement & Geometry | 3 | 2026-09-12 |
-| 1277 | Vladimir Juričić | — | Entanglement & Geometry | 3 | 2026-08-15 |
-| 1278 | Vladimir Kazakov | — | Quantum Gravity, String Theory | 3 | 2026-07-03 |
-| 1279 | Vladimir Narovlansky | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-09-27 |
-| 1280 | Volodymyr Takhistov | — | Quantum Gravity | 3 | 2026-06-11 |
-| 1281 | Vyshnav Mohan | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 3 | 2026-06-12 |
-| 1282 | Waheed A. Dar | — | AdS/CFT, Celestial Holography, Quantum Gravity | 3 | 2026-06-11 |
-| 1283 | Wei-Hsiang Shao | — | Quantum Gravity | 3 | 2026-06-21 |
-| 1284 | Weike Deng | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-09-03 |
-| 1285 | Wen-Xiang Chen | — | Geometric Gravity | 3 | 2026-11-08 |
-| 1286 | Wen-Zheng Chen | — | AdS/CFT, Geometric Gravity | 3 | 2026-08-16 |
-| 1287 | Wendelin Werner | — | CFT, Quantum Gravity | 3 | 2026-10-25 |
-| 1288 | Wentao Cui | — | AdS/CFT, Quantum Gravity | 3 | 2026-07-18 |
-| 1289 | Wenxing Cheng | — | AdS/CFT | 3 | 2026-06-18 |
-| 1290 | Wijnand Steneker | — | Celestial Holography | 3 | 2026-07-02 |
-| 1291 | Wilfried Buchmuller | — | AdS/CFT, Quantum Gravity | 3 | 2026-10-11 |
-| 1292 | William Ballik | — | AdS/CFT, Geometric Gravity | 3 | 2026-07-02 |
-| 1293 | Wioletta Ruszel | — | CFT | 3 | 2026-09-12 |
-| 1294 | Xavier Calmet | — | AdS/CFT, Quantum Gravity | 3 | 2026-08-22 |
-| 1295 | Xi Yin | — | AdS/CFT, CFT, String Theory | 3 | 2026-11-09 |
-| 1296 | Xi-Yang Ran | — | AdS/CFT, CFT | 3 | 2026-06-11 |
-| 1297 | Xiancong Luo | — | Entanglement & Geometry | 3 | 2026-07-04 |
-| 1298 | Xiang-Gan Liu | — | String Theory | 3 | 2026-09-27 |
-| 1299 | Xiangwen Guan | — | AdS/CFT, String Theory | 3 | 2026-06-28 |
-| 1300 | Xiankai Pang | — | Quantum Gravity | 3 | 2026-10-16 |
-| 1301 | Xiao-Han Ma | — | Quantum Gravity | 3 | 2026-06-11 |
-| 1302 | Xiao-Kan Guo | — | Quantum Gravity | 3 | 2026-10-16 |
-| 1303 | Xiaowei Li | — | AdS/CFT | 3 | 2026-07-19 |
-| 1304 | Xin Zhang | — | AdS/CFT | 3 | 2026-09-05 |
-| 1305 | Xin Zhao | — | Entanglement & Geometry | 3 | 2026-07-09 |
-| 1306 | Xin-Chen He | — | Quantum Gravity | 3 | 2026-06-11 |
-| 1307 | Xin-Hao Zhou | — | CFT, Celestial Holography | 3 | 2026-06-07 |
-| 1308 | Xing-Kun Zhang | — | Entanglement & Geometry | 3 | 2026-07-09 |
-| 1309 | Xinwu Liu | — | AdS/CFT | 3 | 2026-10-22 |
-| 1310 | Xue-Ke Song | — | Entanglement & Geometry | 3 | 2026-10-11 |
-| 1311 | Xueda Wen | — | CFT | 3 | 2026-07-03 |
-| 1312 | Xuefeng Zhao | — | Geometric Gravity | 3 | 2026-08-09 |
-| 1313 | Y. Gomez-Leyton | — | Entanglement & Geometry | 3 | 2026-09-12 |
-| 1314 | Ya-Peng Hu | — | Entanglement & Geometry | 3 | 2026-07-09 |
-| 1315 | Yan Liu | — | AdS/CFT | 3 | 2026-09-24 |
-| 1316 | Yan-qing Zhao | — | AdS/CFT | 3 | 2026-06-27 |
-| 1317 | Yang Lei | — | Quantum Gravity | 3 | 2026-07-30 |
-| 1318 | Yang Wang | — | AdS/CFT, CFT | 3 | 2026-09-24 |
-| 1319 | Yang Zhao | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-08-13 |
-| 1320 | Yannick Mvondo-She | — | AdS/CFT, CFT | 3 | 2026-06-18 |
-| 1321 | Yassine Sekhmani | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-07-16 |
-| 1322 | Yasuaki Hikida | — | AdS/CFT, CFT, Quantum Gravity | 3 | 2026-10-25 |
-| 1323 | Yasusada Nambu | — | Celestial Holography, Quantum Gravity | 3 | 2026-08-15 |
-| 1324 | Yen Chin Ong | — | Entanglement & Geometry, Geometric Gravity, Quantum Gravity | 3 | 2026-11-03 |
-| 1325 | Yi Tian | — | Quantum Gravity | 3 | 2026-06-12 |
-| 1326 | Yi-An Yao | — | CFT | 3 | 2026-05-28 |
-| 1327 | Yi-Xiao Tao | — | AdS/CFT, String Theory | 3 | 2026-06-11 |
-| 1328 | Yidan Zhang | — | Entanglement & Geometry | 3 | 2026-06-28 |
-| 1329 | Yiming Chen | — | AdS/CFT | 3 | 2026-07-18 |
-| 1330 | Yiru Wang | — | AdS/CFT, CFT, Celestial Holography | 3 | 2026-10-31 |
-| 1331 | Yo-Chung Ko | — | Entanglement & Geometry | 3 | 2026-05-24 |
-| 1332 | Yoav Zigdon | — | AdS/CFT, CFT | 3 | 2026-10-24 |
-| 1333 | Yong Zhang | — | CFT, String Theory | 3 | 2026-10-25 |
-| 1334 | Yu Wang | — | Quantum Gravity | 3 | 2026-07-19 |
-| 1335 | Yu-Ping An | — | AdS/CFT | 3 | 2026-10-02 |
-| 1336 | Yu-Sen An | — | Entanglement & Geometry | 3 | 2026-07-09 |
-| 1337 | Yu-Xuan Wei | — | CFT, Celestial Holography | 3 | 2026-06-07 |
-| 1338 | Yu-tin Huang | — | Asymptotic Symmetries | 3 | 2026-09-12 |
-| 1339 | Yuan Zhong | — | AdS/CFT | 3 | 2026-07-18 |
-| 1340 | Yuber F. Perez-Gonzalez | — | Quantum Gravity | 3 | 2026-06-07 |
-| 1341 | Yun-Ze Li | — | CFT | 3 | 2026-08-09 |
-| 1342 | Yunfeng Jiang | — | CFT | 3 | 2026-06-21 |
-| 1343 | Yuntai Song | — | CFT, Entanglement & Geometry | 3 | 2026-08-09 |
-| 1344 | Yusuke Makita | — | Entanglement & Geometry | 3 | 2026-05-24 |
-| 1345 | Yutaka Yoshida | — | AdS/CFT, CFT | 3 | 2026-09-18 |
-| 1346 | Yuxiao Xie | — | CFT | 3 | 2026-10-18 |
-| 1347 | Zakariae Ennadifi | — | String Theory | 3 | 2026-08-15 |
-| 1348 | Zan Cao | — | Entanglement & Geometry | 3 | 2026-10-11 |
-| 1349 | Ze-Xuan Xiong | — | Asymptotic Symmetries | 3 | 2026-08-22 |
-| 1350 | Zejun Liu | — | CFT, Entanglement & Geometry | 3 | 2026-08-09 |
-| 1351 | Zhan-Feng Mai | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-06-07 |
-| 1352 | Zhang-Yu Nie | — | AdS/CFT | 3 | 2026-09-05 |
-| 1353 | Zhaoyu Wang | — | Entanglement & Geometry | 3 | 2026-06-28 |
-| 1354 | Zhehan Li | — | AdS/CFT, CFT | 3 | 2026-07-23 |
-| 1355 | Zhen-Tao He | — | AdS/CFT | 3 | 2026-07-18 |
-| 1356 | Zhenbin Yang | — | AdS/CFT | 3 | 2026-07-18 |
-| 1357 | Zhengcheng Gu | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-10-09 |
-| 1358 | Zhengping Gui | — | CFT | 3 | 2026-08-08 |
-| 1359 | Zhengwei Liu | — | AdS/CFT | 3 | 2026-09-26 |
-| 1360 | Zhengyan Darius Shi | — | CFT | 3 | 2026-08-30 |
-| 1361 | Zhengyuan Du | — | AdS/CFT | 3 | 2026-09-24 |
-| 1362 | Zhi-Fu Gao | — | Quantum Gravity | 3 | 2026-08-13 |
-| 1363 | Zhihan Liu | — | Asymptotic Symmetries, Celestial Holography | 3 | 2026-08-06 |
-| 1364 | Zhou-Jian Cao | — | Quantum Gravity | 3 | 2026-08-13 |
-| 1365 | Zi-Hao Li | — | AdS/CFT | 3 | 2026-09-18 |
-| 1366 | Zi-Qiang Zhao | — | AdS/CFT | 3 | 2026-09-05 |
-| 1367 | Zi-qiang Zhang | — | AdS/CFT | 3 | 2026-06-18 |
-| 1368 | Zijian Liu | — | CFT, Celestial Holography | 3 | 2026-06-21 |
-| 1369 | Zishuo Zhao | — | AdS/CFT | 3 | 2026-09-26 |
-| 1370 | Ziyi Li | — | AdS/CFT, String Theory | 3 | 2026-10-16 |
-| 1371 | Ziyu Dong | — | Quantum Gravity | 3 | 2026-11-13 |
-| 1372 | Zong-Zhe Du | — | AdS/CFT, CFT | 3 | 2026-10-09 |
-| 1373 | Éanna É. Flanagan | — | Asymptotic Symmetries, Celestial Holography | 3 | 2026-08-06 |
-| 1374 | Časlav Brukner | — | Quantum Gravity | 3 | 2026-08-20 |
-| 1375 | A. A. Araújo Filho | — | Geometric Gravity | 2 | 2026-07-02 |
-| 1376 | A. Alexandrov | — | CFT | 2 | 2026-08-12 |
-| 1377 | A. Bhadra | — | Quantum Gravity | 2 | 2026-07-01 |
-| 1378 | A. Chakraborty | — | Geometric Gravity | 2 | 2026-07-18 |
-| 1379 | A. Errehymy | — | Entanglement & Geometry | 2 | 2026-10-21 |
-| 1380 | A. Errehymy G. Yergaliyeva | — | Entanglement & Geometry | 2 | 2026-10-21 |
-| 1381 | A. Faraggi | — | AdS/CFT | 2 | 2026-07-18 |
-| 1382 | A. Khaleghi Ardabili | — | Quantum Gravity | 2 | 2026-07-31 |
-| 1383 | A. López-Hormazábal | — | Entanglement & Geometry | 2 | 2026-10-29 |
-| 1384 | A. Restuccia | — | String Theory | 2 | 2026-07-11 |
-| 1385 | A. Stratoudakis | — | AdS/CFT, CFT | 2 | 2026-07-02 |
-| 1386 | Aalok Misra | — | AdS/CFT, String Theory | 2 | 2026-08-29 |
-| 1387 | Aaron G. Markowitz | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1388 | Aashish A. Clerk | — | CFT | 2 | 2026-09-10 |
-| 1389 | Abdel Pérez-Lorenzana | — | Quantum Gravity | 2 | 2026-09-24 |
-| 1390 | Abdelmalek Bouzenada | — | Quantum Gravity | 2 | 2026-05-27 |
-| 1391 | Abhishek Rout | — | Quantum Gravity, String Theory | 2 | 2026-08-27 |
-| 1392 | Able Martinez | — | Asymptotic Symmetries | 2 | 2026-10-01 |
-| 1393 | Achilleas Gitsis | — | String Theory | 2 | 2026-07-09 |
-| 1394 | Achilleas Passias | — | AdS/CFT, String Theory | 2 | 2026-10-22 |
-| 1395 | Achilleas V. Koukas | — | AdS/CFT, Celestial Holography | 2 | 2026-10-24 |
-| 1396 | Adam Kmec | — | AdS/CFT, CFT | 2 | 2026-09-26 |
-| 1397 | Adar Sharon | — | AdS/CFT, CFT | 2 | 2026-11-12 |
-| 1398 | Adarsh Sudhakar | — | CFT | 2 | 2026-10-10 |
-| 1399 | Adi Armoni | — | AdS/CFT, String Theory | 2 | 2026-07-09 |
-| 1400 | Adithya A Rao | — | CFT | 2 | 2026-08-21 |
-| 1401 | Aditi V. Chandra | — | CFT, String Theory | 2 | 2026-07-18 |
-| 1402 | Aditya Sharma | — | Celestial Holography | 2 | 2026-08-08 |
-| 1403 | Adrian Kent | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1404 | Adrian Lupascu | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1405 | Adriano Chialastri | — | Entanglement & Geometry | 2 | 2026-05-28 |
-| 1406 | Agnaldo A. da Silva | — | String Theory | 2 | 2026-08-26 |
-| 1407 | Agus Purwanto | — | Entanglement & Geometry | 2 | 2026-05-28 |
-| 1408 | Agya Sewara Alam | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1409 | Ahmad Moradpouri | — | CFT, String Theory | 2 | 2026-07-01 |
-| 1410 | Ahmed Rakin Kamal | — | String Theory | 2 | 2026-06-27 |
-| 1411 | Ahmet Cem Erdoğan | — | Geometric Gravity | 2 | 2026-09-10 |
-| 1412 | Ai-chen Li | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-09-11 |
-| 1413 | Aidan Herderschee | — | CFT, String Theory | 2 | 2026-07-18 |
-| 1414 | Akashdeep Roy | — | AdS/CFT, CFT | 2 | 2026-09-30 |
-| 1415 | Alan Rios Fukelman | — | Entanglement & Geometry | 2 | 2026-11-12 |
-| 1416 | Alba Grassi | — | AdS/CFT, CFT | 2 | 2026-10-30 |
-| 1417 | Albert Roura | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1418 | Albert Schwarz | — | Geometric Gravity | 2 | 2026-07-22 |
-| 1419 | Alberto Zaffaroni | — | AdS/CFT, CFT | 2 | 2026-10-08 |
-| 1420 | Alejandro Rueda | — | Geometric Gravity | 2 | 2026-07-15 |
-| 1421 | Alessandra Gnecchi | — | CFT | 2 | 2026-09-03 |
-| 1422 | Alessandro Pesci | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1423 | Alessandro Tomasiello | — | AdS/CFT, String Theory | 2 | 2026-10-09 |
-| 1424 | Alessio Miscioscia | — | CFT | 2 | 2026-07-30 |
-| 1425 | Alex Goodenbour | — | AdS/CFT, CFT | 2 | 2026-09-26 |
-| 1426 | Alexander Frenkel | — | Entanglement & Geometry, Quantum Gravity, String Theory | 2 | 2026-10-01 |
-| 1427 | Alexander Jahn | — | Quantum Gravity | 2 | 2026-08-13 |
-| 1428 | Alexander Stewart | — | Quantum Gravity | 2 | 2026-07-25 |
-| 1429 | Alexander Zhiboedov | — | CFT, String Theory | 2 | 2026-08-29 |
-| 1430 | Alexandros Zarafonitis | — | AdS/CFT, String Theory | 2 | 2026-11-12 |
-| 1431 | Alexandru Lupsasca | — | AdS/CFT, Asymptotic Symmetries, String Theory | 2 | 2026-08-28 |
-| 1432 | Alfio M. Bonanno | — | Quantum Gravity | 2 | 2026-10-22 |
-| 1433 | Ali Mohammadpour | — | Quantum Gravity | 2 | 2026-06-13 |
-| 1434 | Alireza Maleki | — | Quantum Gravity | 2 | 2026-08-29 |
-| 1435 | Aliv Sahoo | — | Quantum Gravity | 2 | 2026-11-12 |
-| 1436 | Allan R. P. Moreira | — | Quantum Gravity | 2 | 2026-05-27 |
-| 1437 | Alonso Perez-Lona | — | AdS/CFT | 2 | 2026-06-06 |
-| 1438 | Alvaro Herráez | — | String Theory | 2 | 2026-09-03 |
-| 1439 | Amartya Saha | — | Celestial Holography | 2 | 2026-09-10 |
-| 1440 | Amaury Lhoste | — | CFT | 2 | 2026-09-24 |
-| 1441 | Ameya Kadhe | — | Asymptotic Symmetries | 2 | 2026-11-14 |
-| 1442 | Amilcar R. Queiroz | — | Geometric Gravity | 2 | 2026-07-02 |
-| 1443 | Amilson R. Fritsch | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-04 |
-| 1444 | Amit Giveon | — | AdS/CFT, CFT | 2 | 2026-09-12 |
-| 1445 | Amit Sever | — | String Theory | 2 | 2026-07-04 |
-| 1446 | Amit Vikram | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-18 |
-| 1447 | Ana-Maria Raclariu | — | Asymptotic Symmetries | 2 | 2026-10-29 |
-| 1448 | Anatoly Konechny | — | CFT | 2 | 2026-10-24 |
-| 1449 | Anders Wallberg | — | AdS/CFT, String Theory | 2 | 2026-10-23 |
-| 1450 | Andre Kornell | — | Quantum Gravity | 2 | 2026-09-04 |
-| 1451 | Andrea Bulgarelli | — | Entanglement & Geometry | 2 | 2026-05-28 |
-| 1452 | Andrea P. Sanna | — | Quantum Gravity | 2 | 2026-10-30 |
-| 1453 | Andrea Puhm | — | Asymptotic Symmetries | 2 | 2026-11-14 |
-| 1454 | Andreas Gleis | — | CFT | 2 | 2026-08-15 |
-| 1455 | Andreas Gustavsson | — | AdS/CFT, CFT | 2 | 2026-08-07 |
-| 1456 | Andreas Helset | — | Asymptotic Symmetries | 2 | 2026-08-01 |
-| 1457 | Andreas Karch | — | AdS/CFT, CFT | 2 | 2026-09-17 |
-| 1458 | Andreas Schachner | — | AdS/CFT, String Theory | 2 | 2026-09-17 |
-| 1459 | Andrei Katsevich | — | CFT | 2 | 2026-09-12 |
-| 1460 | Andrew Burbanks | — | Quantum Gravity | 2 | 2026-07-24 |
-| 1461 | Andrew Geraci | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1462 | Andrew Laeuger | — | Asymptotic Symmetries | 2 | 2026-09-19 |
-| 1463 | Andrew Lucas | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-18 |
-| 1464 | André G. Henriques | — | CFT | 2 | 2026-08-27 |
-| 1465 | Andrés Collinucci | — | String Theory | 2 | 2026-07-09 |
-| 1466 | Angelo Bassi | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1467 | Anik Rudra | — | AdS/CFT, CFT | 2 | 2026-08-26 |
-| 1468 | Aninda Sinha | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1469 | Anirban Roy Chowdhury | — | Quantum Gravity | 2 | 2026-07-08 |
-| 1470 | Anna Chiara Rescigno | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1471 | Anom Trenggana | — | Quantum Gravity | 2 | 2026-06-13 |
-| 1472 | Anouchah Latifi | — | AdS/CFT | 2 | 2026-07-10 |
-| 1473 | Anson Hook | — | String Theory | 2 | 2026-09-12 |
-| 1474 | Antal Jevicki | — | AdS/CFT | 2 | 2026-07-08 |
-| 1475 | Antoine Soulas | — | Quantum Gravity | 2 | 2026-09-05 |
-| 1476 | Antonino Flachi | — | Quantum Gravity | 2 | 2026-07-01 |
-| 1477 | Antonino Marcianò | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1478 | Antonio F. Rotundo | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-09-05 |
-| 1479 | Antonio M. García-García | — | Quantum Gravity | 2 | 2026-07-04 |
-| 1480 | Antony Wendels | — | String Theory | 2 | 2026-10-01 |
-| 1481 | Apriadi Salim Adam | — | Entanglement & Geometry | 2 | 2026-05-28 |
-| 1482 | Ar Rohim | — | Entanglement & Geometry | 2 | 2026-05-28 |
-| 1483 | Arash Alipour Shahmiri | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-09-10 |
-| 1484 | Archana Maji | — | Quantum Gravity, String Theory | 2 | 2026-10-16 |
-| 1485 | Arda Hasar | — | String Theory | 2 | 2026-08-21 |
-| 1486 | Arhum Ansari | — | AdS/CFT, Asymptotic Symmetries | 2 | 2026-06-06 |
-| 1487 | Arindam Bhattacharya | — | CFT | 2 | 2026-09-26 |
-| 1488 | Arista Romadani | — | Entanglement & Geometry | 2 | 2026-05-28 |
-| 1489 | Aritra Banerjee | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-06-06 |
-| 1490 | Arián Gorza | — | Entanglement & Geometry | 2 | 2026-07-31 |
-| 1491 | Armin Ghazi | — | CFT, String Theory | 2 | 2026-07-01 |
-| 1492 | Arnab Kundu | — | AdS/CFT, CFT | 2 | 2026-08-01 |
-| 1493 | Arnaud Delfante | — | AdS/CFT, Asymptotic Symmetries, Celestial Holography | 2 | 2026-10-01 |
-| 1494 | Arpita Jana | — | Geometric Gravity | 2 | 2026-09-03 |
-| 1495 | Arsam Najafian | — | AdS/CFT, String Theory | 2 | 2026-11-05 |
-| 1496 | Arthur Hebecker | — | AdS/CFT, String Theory | 2 | 2026-09-17 |
-| 1497 | Arvin Shahbazi-Moghaddam | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-09-12 |
-| 1498 | Arwa Alabbasi | — | String Theory | 2 | 2026-10-03 |
-| 1499 | Ashish Khanal | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-07-01 |
-| 1500 | Astha Kakkar | — | AdS/CFT, CFT | 2 | 2026-10-16 |
-| 1501 | Aswini Bala | — | CFT | 2 | 2026-08-21 |
-| 1502 | Athanasios G. Tzikas | — | Entanglement & Geometry | 2 | 2026-08-20 |
-| 1503 | Atul Sharma | — | AdS/CFT, String Theory | 2 | 2026-10-16 |
-| 1504 | Augustine Larweh Mahu | — | AdS/CFT, CFT | 2 | 2026-08-26 |
-| 1505 | Aurélien Dersy | — | CFT | 2 | 2026-09-26 |
-| 1506 | Avi Wadhwa | — | AdS/CFT, CFT | 2 | 2026-10-16 |
-| 1507 | Avinandan Mondal | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-08-01 |
-| 1508 | Ayush Bidlan | — | AdS/CFT, Asymptotic Symmetries, Geometric Gravity, Quantum Gravity | 2 | 2026-06-24 |
-| 1509 | B. Bose | — | Quantum Gravity | 2 | 2026-09-17 |
-| 1510 | B. Yesilyurt | — | Quantum Gravity | 2 | 2026-11-04 |
-| 1511 | Baijun Zeng | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-09-17 |
-| 1512 | Baptiste Royer | — | Entanglement & Geometry | 2 | 2026-05-30 |
-| 1513 | Barry C. Sanders | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1514 | Barton Zwiebach | — | CFT, String Theory | 2 | 2026-08-14 |
-| 1515 | Bas Hensen | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1516 | Bekir Can Lütfüoğlu | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-06-09 |
-| 1517 | Ben Heidenreich | — | String Theory | 2 | 2026-07-16 |
-| 1518 | Beni Yoshida | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-10-02 |
-| 1519 | Benjamin Moy | — | CFT | 2 | 2026-08-21 |
-| 1520 | Benjamin Withers | — | AdS/CFT, CFT | 2 | 2026-07-30 |
-| 1521 | Bercel Boldis | — | AdS/CFT, CFT | 2 | 2026-07-17 |
-| 1522 | Bernardo S. Vieira | — | String Theory | 2 | 2026-08-26 |
-| 1523 | Bianka Meçaj | — | CFT | 2 | 2026-08-22 |
-| 1524 | Biao Lian | — | Entanglement & Geometry | 2 | 2026-11-12 |
-| 1525 | Bikun Li | — | Entanglement & Geometry | 2 | 2026-09-03 |
-| 1526 | Bin Gui | — | CFT | 2 | 2026-07-02 |
-| 1527 | Binsong Xiong | — | Asymptotic Symmetries | 2 | 2026-10-29 |
-| 1528 | Bintoro Anang Subagyo | — | Entanglement & Geometry | 2 | 2026-05-28 |
-| 1529 | Bob Knighton | — | AdS/CFT, CFT | 2 | 2026-07-04 |
-| 1530 | Bobby Acharya | — | String Theory | 2 | 2026-08-13 |
-| 1531 | Bobby Ezhuthachan | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-06-18 |
-| 1532 | Borja Diez | — | AdS/CFT, CFT | 2 | 2026-11-06 |
-| 1533 | Bowei Liu | — | Entanglement & Geometry | 2 | 2026-11-12 |
-| 1534 | Bowen Chen | — | Quantum Gravity | 2 | 2026-08-07 |
-| 1535 | Bowen Ouyang | — | Quantum Gravity | 2 | 2026-07-04 |
-| 1536 | Boyu Yang | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-08-08 |
-| 1537 | Brahim Asfour | — | Entanglement & Geometry, Geometric Gravity, Quantum Gravity | 2 | 2026-08-06 |
-| 1538 | Brayden Hull | — | String Theory | 2 | 2026-07-25 |
-| 1539 | Brett Altschul | — | Quantum Gravity, String Theory | 2 | 2026-08-27 |
-| 1540 | Brian D'Urso | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1541 | Brian Swingle | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-10-16 |
-| 1542 | Brijesh Thakkar | — | AdS/CFT, Asymptotic Symmetries | 2 | 2026-06-06 |
-| 1543 | Buddhadeb Ghosh | — | String Theory | 2 | 2026-10-30 |
-| 1544 | Bum-Hoon Lee | — | AdS/CFT | 2 | 2026-11-04 |
-| 1545 | Burkhard Kleihaus | — | Entanglement & Geometry | 2 | 2026-10-31 |
-| 1546 | Byoungjoon Ahn | — | AdS/CFT | 2 | 2026-07-08 |
-| 1547 | C. F. S. Pereira | — | Geometric Gravity | 2 | 2026-07-02 |
-| 1548 | C. Papageorgakis | — | AdS/CFT, CFT | 2 | 2026-07-02 |
-| 1549 | C. R. Ordóñez | — | Geometric Gravity | 2 | 2026-07-18 |
-| 1550 | Cagatay Okyay | — | AdS/CFT, CFT, String Theory | 2 | 2026-11-14 |
-| 1551 | Caius Gordon-Bruno | — | String Theory | 2 | 2026-11-11 |
-| 1552 | Camilla Lavino | — | AdS/CFT, Geometric Gravity, String Theory | 2 | 2026-07-30 |
-| 1553 | Camille Eloy | — | AdS/CFT, Geometric Gravity, String Theory | 2 | 2026-07-30 |
-| 1554 | Cara Nel | — | Quantum Gravity | 2 | 2026-08-07 |
-| 1555 | Carlo Cepollaro | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1556 | Carlo Maccaferri | — | String Theory | 2 | 2026-07-04 |
-| 1557 | Carlos Pérez-Pardavila | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-10-24 |
-| 1558 | Carlos Sabín | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1559 | Carlos Vera | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-05-28 |
-| 1560 | Catalina Curceanu | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1561 | Catherine Notman | — | CFT, String Theory | 2 | 2026-10-08 |
-| 1562 | Cemal Berfu Senisik | — | AdS/CFT, CFT, String Theory | 2 | 2026-11-14 |
-| 1563 | Chandrasekhar Bhamidipati | — | AdS/CFT, CFT | 2 | 2026-06-06 |
-| 1564 | Chang-Han Chen | — | AdS/CFT, Celestial Holography, Entanglement & Geometry | 2 | 2026-09-04 |
-| 1565 | Chanyoung Joung | — | AdS/CFT, String Theory | 2 | 2026-09-05 |
-| 1566 | Chatchai Promsiri | — | AdS/CFT, CFT | 2 | 2026-06-24 |
-| 1567 | Chenan Wei | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1568 | Chenyuan Li | — | CFT, Entanglement & Geometry | 2 | 2026-08-07 |
-| 1569 | Chi-Ming Chang | — | AdS/CFT, String Theory | 2 | 2026-09-10 |
-| 1570 | Chiara Altavista | — | String Theory | 2 | 2026-07-04 |
-| 1571 | Chiara Marletto | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1572 | Chih-Hung Wu | — | AdS/CFT, Geometric Gravity, Quantum Gravity | 2 | 2026-09-25 |
-| 1573 | Chintan Patel | — | AdS/CFT, CFT, String Theory | 2 | 2026-11-07 |
-| 1574 | Chitrak Sarkar | — | String Theory | 2 | 2026-10-30 |
-| 1575 | Chong-Sun Chu | — | AdS/CFT, Quantum Gravity | 2 | 2026-09-17 |
-| 1576 | Chris Fields | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-11-11 |
-| 1577 | Chris Hull | — | CFT, String Theory | 2 | 2026-10-31 |
-| 1578 | Chris Stevens | — | Celestial Holography, String Theory | 2 | 2026-08-05 |
-| 1579 | Christian Ferko | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-08-28 |
-| 1580 | Christoph Chiaffrino | — | CFT, String Theory | 2 | 2026-08-14 |
-| 1581 | Christoph Minz | — | Entanglement & Geometry | 2 | 2026-05-28 |
-| 1582 | Christopher M. Hirata | — | Quantum Gravity | 2 | 2026-08-07 |
-| 1583 | Christopher Monroe | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
-| 1584 | Chrysoula Markou | — | AdS/CFT, Asymptotic Symmetries, Celestial Holography | 2 | 2026-10-01 |
-| 1585 | Chuanxin Cui | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-11-12 |
-| 1586 | Chuying Wang | — | String Theory | 2 | 2026-07-04 |
-| 1587 | Cisco Gooding | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1588 | Claudio Furtado | — | Entanglement & Geometry | 2 | 2026-11-14 |
-| 1589 | Colin Guillarmou | — | CFT | 2 | 2026-10-05 |
-| 1590 | Connor Behan | — | AdS/CFT | 2 | 2026-09-10 |
-| 1591 | Cristhiam Lopez-Arcos | — | AdS/CFT | 2 | 2026-06-25 |
-| 1592 | Cristian Joana | — | Geometric Gravity | 2 | 2026-11-06 |
-| 1593 | Cristoforo Iossa | — | AdS/CFT, CFT | 2 | 2026-07-30 |
-| 1594 | Crystal Noel | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
-| 1595 | Curtis T. Asplund | — | Quantum Gravity | 2 | 2026-09-26 |
-| 1596 | Cynthia Yan | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-09-17 |
-| 1597 | Cyuan-Han Chang | — | AdS/CFT, CFT, Celestial Holography | 2 | 2026-08-21 |
-| 1598 | Céline Zwikel | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-09-12 |
-| 1599 | César A. Agón | — | AdS/CFT | 2 | 2026-10-03 |
-| 1600 | César García-Pérez | — | CFT, Celestial Holography | 2 | 2026-07-11 |
-| 1601 | D. Arteaga | — | AdS/CFT | 2 | 2026-07-18 |
-| 1602 | Daisuke Yamamoto | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1603 | Daiwei Zhu | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
-| 1604 | Damian R. Musk | — | CFT | 2 | 2026-09-03 |
-| 1605 | Damiano Tietto | — | AdS/CFT | 2 | 2026-06-27 |
-| 1606 | Daniel Arean | — | AdS/CFT, CFT | 2 | 2026-07-18 |
-| 1607 | Daniel Braun | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1608 | Daniel Chemisana | — | Quantum Gravity | 2 | 2026-07-04 |
-| 1609 | Daniel Grumiller | — | AdS/CFT, Asymptotic Symmetries, CFT | 2 | 2026-09-10 |
-| 1610 | Daniel K. L. Oi | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1611 | Daniel McLoughlin | — | Quantum Gravity | 2 | 2026-10-30 |
-| 1612 | Daniel Robbins | — | AdS/CFT | 2 | 2026-06-06 |
-| 1613 | Daniel Vainshtein | — | AdS/CFT, CFT, Geometric Gravity, String Theory | 2 | 2026-06-27 |
-| 1614 | Daniel Waldram | — | Quantum Gravity, String Theory | 2 | 2026-05-28 |
-| 1615 | Daniele Pranzetti | — | AdS/CFT, CFT | 2 | 2026-10-30 |
-| 1616 | Dario L. Lorenzoni | — | Quantum Gravity, String Theory | 2 | 2026-08-01 |
-| 1617 | Dario Martelli | — | AdS/CFT, String Theory | 2 | 2026-08-14 |
-| 1618 | Dario Rosa | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-04 |
-| 1619 | David Garcia-Fariña | — | AdS/CFT, CFT | 2 | 2026-07-18 |
-| 1620 | David Groswasser | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1621 | David H. Wu | — | Quantum Gravity, String Theory | 2 | 2026-06-11 |
-| 1622 | David J. Bacon | — | Quantum Gravity | 2 | 2026-07-24 |
-| 1623 | David Kutasov | — | AdS/CFT, CFT | 2 | 2026-09-12 |
-| 1624 | Davide Bonomi | — | AdS/CFT, CFT | 2 | 2026-10-10 |
-| 1625 | Davide Cassani | — | AdS/CFT, CFT, String Theory | 2 | 2026-08-28 |
-| 1626 | Dawid Maskalaniec | — | String Theory | 2 | 2026-09-10 |
-| 1627 | Dazhuo Cheng | — | CFT, Entanglement & Geometry | 2 | 2026-11-11 |
-| 1628 | Debabrata Sahu | — | AdS/CFT, CFT | 2 | 2026-06-06 |
-| 1629 | Debapriyo Chowdhury | — | CFT, String Theory | 2 | 2026-10-22 |
-| 1630 | Debarshi Das | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1631 | Debopriyo Biswas | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
-| 1632 | Deniz N. Bozkurt | — | CFT | 2 | 2026-07-30 |
-| 1633 | Dennis Rätzel | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1634 | Dennis le Plat | — | AdS/CFT, CFT | 2 | 2026-07-17 |
-| 1635 | Diana Muñoz-Valencia | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
-| 1636 | Diandian Wang | — | AdS/CFT, Quantum Gravity | 2 | 2026-06-24 |
-| 1637 | Dibakar Roychowdhury | — | AdS/CFT, CFT, String Theory | 2 | 2026-08-06 |
-| 1638 | Diego Blas | — | Asymptotic Symmetries | 2 | 2026-08-28 |
-| 1639 | Diego H. Correa | — | AdS/CFT, String Theory | 2 | 2026-10-16 |
-| 1640 | Diego Liska | — | AdS/CFT, CFT | 2 | 2026-10-24 |
-| 1641 | Diego M. Hofman | — | AdS/CFT, Quantum Gravity | 2 | 2026-07-18 |
-| 1642 | Diego Perugini | — | String Theory | 2 | 2026-09-24 |
-| 1643 | Diego Rodriguez-Gomez | — | String Theory | 2 | 2026-10-08 |
-| 1644 | Diego Sáez-Chillón Gómez | — | Entanglement & Geometry | 2 | 2026-05-18 |
-| 1645 | Diego de Maria Almazan | — | AdS/CFT, CFT, String Theory | 2 | 2026-07-02 |
-| 1646 | Dima Fontaine | — | Asymptotic Symmetries | 2 | 2026-10-02 |
-| 1647 | Dimitrios Katsinis | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-08-07 |
-| 1648 | Dimitrios Zoakos | — | AdS/CFT, String Theory | 2 | 2026-05-17 |
-| 1649 | Dipankar Home | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1650 | Diptarka Das | — | AdS/CFT, CFT | 2 | 2026-08-01 |
-| 1651 | Djedai Ayang Kamo | — | Geometric Gravity, Quantum Gravity | 2 | 2026-08-19 |
-| 1652 | Djordje Minic | — | Quantum Gravity, String Theory | 2 | 2026-10-16 |
-| 1653 | Dmitry Noshchenko | — | String Theory | 2 | 2026-11-07 |
-| 1654 | Dmitry S. Ageev | — | AdS/CFT | 2 | 2026-11-12 |
-| 1655 | Domenico Seminara | — | Quantum Gravity | 2 | 2026-07-04 |
-| 1656 | Dominic O. Chang | — | AdS/CFT, String Theory | 2 | 2026-06-25 |
-| 1657 | Dongming He | — | AdS/CFT | 2 | 2026-09-11 |
-| 1658 | Dongze Sun | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-10-24 |
-| 1659 | E. Ferreira | — | Quantum Gravity | 2 | 2026-09-17 |
-| 1660 | Edilberto O. Silva | — | Quantum Gravity | 2 | 2026-09-03 |
-| 1661 | Edoardo Anastasi | — | String Theory | 2 | 2026-07-04 |
-| 1662 | Edoardo Colombo | — | AdS/CFT, String Theory | 2 | 2026-10-31 |
-| 1663 | Eduardo Casali | — | AdS/CFT, String Theory | 2 | 2026-07-04 |
-| 1664 | Eduardo Fradkin | — | CFT | 2 | 2026-08-21 |
-| 1665 | Edward Wilson-Ewing | — | Quantum Gravity | 2 | 2026-09-12 |
-| 1666 | Egor Im | — | AdS/CFT, CFT, String Theory | 2 | 2026-10-08 |
-| 1667 | Ekapong Hirunsirisawat | — | AdS/CFT, CFT | 2 | 2026-06-24 |
-| 1668 | Ekim Taylan Hanımeli | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1669 | Eleftherios Papantonopoulos | — | AdS/CFT, CFT | 2 | 2026-11-06 |
-| 1670 | Elena Gramellini | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-10-18 |
-| 1671 | Eliezer Rabinovici | — | String Theory | 2 | 2026-08-14 |
-| 1672 | Elif Büşra Güraksın | — | AdS/CFT, CFT | 2 | 2026-07-30 |
-| 1673 | Elisa Sabadini | — | Entanglement & Geometry | 2 | 2026-11-14 |
-| 1674 | Elisa Tabor | — | AdS/CFT, Celestial Holography, Entanglement & Geometry | 2 | 2026-09-04 |
-| 1675 | Elli Pomoni | — | CFT | 2 | 2026-07-30 |
-| 1676 | Ema Dimastrogiovanni | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1677 | Emil J. Martinec | — | AdS/CFT, Quantum Gravity | 2 | 2026-07-23 |
-| 1678 | Emily Koivu | — | Quantum Gravity | 2 | 2026-08-07 |
-| 1679 | Emily Nardoni | — | String Theory | 2 | 2026-11-11 |
-| 1680 | Enrico Cinti | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-08-29 |
-| 1681 | Enrico Marchetto | — | CFT | 2 | 2026-07-30 |
-| 1682 | Enrico Turetta | — | AdS/CFT, CFT, String Theory | 2 | 2026-08-28 |
-| 1683 | Enzo Boschilia Vita | — | String Theory | 2 | 2026-11-14 |
-| 1684 | Eric D'Hoker | — | AdS/CFT, String Theory | 2 | 2026-10-01 |
-| 1685 | Eric Lescano | — | Celestial Holography, String Theory | 2 | 2026-07-30 |
-| 1686 | Eric Sharpe | — | AdS/CFT | 2 | 2026-06-06 |
-| 1687 | Erick Pastén | — | Entanglement & Geometry | 2 | 2026-07-24 |
-| 1688 | Erol Aksoy | — | AdS/CFT, CFT, String Theory | 2 | 2026-11-14 |
-| 1689 | Ettore Bernardi | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1690 | Eugene Y. S. Chua | — | Quantum Gravity | 2 | 2026-05-27 |
-| 1691 | Eunwoo Lee | — | AdS/CFT, CFT, String Theory | 2 | 2026-11-07 |
-| 1692 | Eva Kilian-Rademacher | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1693 | Evgeny Epifanovsky | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
-| 1694 | F. Caro-Pérez | — | String Theory | 2 | 2026-07-11 |
-| 1695 | Fabian A. Portilla | — | String Theory | 2 | 2026-07-31 |
-| 1696 | Fabian Ruehle | — | String Theory | 2 | 2026-06-06 |
-| 1697 | Fabian Wagner | — | Quantum Gravity | 2 | 2026-11-07 |
-| 1698 | Fabiano F. Santos | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-08-13 |
-| 1699 | Fabiano Feleppa | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1700 | Fabio Mantegazza | — | AdS/CFT, CFT | 2 | 2026-07-16 |
-| 1701 | Fabián Caro-Pérez | — | String Theory | 2 | 2026-05-18 |
-| 1702 | Fabrizio Piacentini | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1703 | Facundo Arreyes | — | Entanglement & Geometry | 2 | 2026-07-31 |
-| 1704 | Fahimeh Bayeh | — | Quantum Gravity | 2 | 2026-09-04 |
-| 1705 | Faisal Javed | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-10-27 |
-| 1706 | Faisal Karimi | — | CFT | 2 | 2026-10-10 |
-| 1707 | Faizan Bhat | — | AdS/CFT, CFT | 2 | 2026-08-20 |
-| 1708 | Falk Hassler | — | String Theory | 2 | 2026-07-09 |
-| 1709 | Fatima Abbasi | — | Quantum Gravity | 2 | 2026-11-12 |
-| 1710 | Federico Capeccia | — | AdS/CFT, CFT | 2 | 2026-06-25 |
-| 1711 | Felipe Dilho Alves | — | Quantum Gravity | 2 | 2026-08-06 |
-| 1712 | Felipe F. Fanchini | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-04 |
-| 1713 | Fernando Quevedo | — | String Theory | 2 | 2026-10-03 |
-| 1714 | Filipp Chernikov | — | String Theory | 2 | 2026-07-04 |
-| 1715 | Florent Baume | — | AdS/CFT, CFT | 2 | 2026-07-16 |
-| 1716 | Florian Millo | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1717 | Francesco Bertucci | — | CFT | 2 | 2026-08-08 |
-| 1718 | Francesco Di Filippo | — | Quantum Gravity | 2 | 2026-09-11 |
-| 1719 | Francesco Mangialardi | — | AdS/CFT, CFT | 2 | 2026-06-18 |
-| 1720 | Francesco Russo | — | AdS/CFT, CFT | 2 | 2026-06-18 |
-| 1721 | Francisco G. Pedro | — | Quantum Gravity, String Theory | 2 | 2026-08-01 |
-| 1722 | Francisco Gil Pedro | — | String Theory | 2 | 2026-07-31 |
-| 1723 | Freddy P. Zen | — | Quantum Gravity | 2 | 2026-06-13 |
-| 1724 | Friederike Ihssen | — | Quantum Gravity | 2 | 2026-09-10 |
-| 1725 | G. Mustafa | — | Quantum Gravity | 2 | 2026-07-18 |
-| 1726 | G. Valdivia-Mera | — | Geometric Gravity | 2 | 2026-07-18 |
-| 1727 | G. Y. Tuleganova | — | Quantum Gravity | 2 | 2026-07-01 |
-| 1728 | G. Yu. Prokhorov | — | CFT, Entanglement & Geometry | 2 | 2026-05-24 |
-| 1729 | Gabriel Arenas-Henriquez | — | AdS/CFT, CFT | 2 | 2026-11-07 |
-| 1730 | Gabriel Cuomo | — | AdS/CFT, CFT | 2 | 2026-11-12 |
-| 1731 | Gabriel Vasquez | — | Quantum Gravity | 2 | 2026-08-07 |
-| 1732 | Gabriele Barbagallo | — | String Theory | 2 | 2026-10-10 |
-| 1733 | Gabriele Di Ubaldo | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-09-17 |
-| 1734 | Gaetano Lambiase | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1735 | Gaetano Maria Sifo | — | AdS/CFT, String Theory | 2 | 2026-09-17 |
-| 1736 | Gaston Giribet | — | AdS/CFT, CFT, String Theory | 2 | 2026-07-16 |
-| 1737 | Gauri Batra | — | AdS/CFT | 2 | 2026-06-19 |
-| 1738 | Gautam Satishchandran | — | AdS/CFT, Celestial Holography, Entanglement & Geometry | 2 | 2026-09-04 |
-| 1739 | Gavin Hull | — | Entanglement & Geometry | 2 | 2026-10-21 |
-| 1740 | Gavin W. Morley | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1741 | Geoff Penington | — | AdS/CFT, Celestial Holography, Entanglement & Geometry | 2 | 2026-09-04 |
-| 1742 | George Georgiou | — | AdS/CFT, String Theory | 2 | 2026-05-17 |
-| 1743 | George K. Leontaris | — | String Theory | 2 | 2026-08-13 |
-| 1744 | Georgios Pastras | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-08-07 |
-| 1745 | Gerben Oling | — | Celestial Holography | 2 | 2026-07-11 |
-| 1746 | Gero von Gersdorff | — | Quantum Gravity | 2 | 2026-07-02 |
-| 1747 | Gerui Chen | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-11-07 |
-| 1748 | Geum Lee | — | AdS/CFT, String Theory | 2 | 2026-09-05 |
-| 1749 | Giacomo Maggiorotti | — | String Theory | 2 | 2026-10-23 |
-| 1750 | Gianluca Calcagni | — | AdS/CFT, Quantum Gravity | 2 | 2026-10-31 |
-| 1751 | Giovanni Oglialoro | — | Quantum Gravity | 2 | 2026-07-10 |
-| 1752 | Gislaine Varão | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1753 | Giulia Gubitosi | — | Geometric Gravity, Quantum Gravity | 2 | 2026-08-27 |
-| 1754 | Giulio Codogni | — | CFT, Geometric Gravity | 2 | 2026-05-28 |
-| 1755 | Giulio Gasbarri | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1756 | Giulio Neri | — | Quantum Gravity | 2 | 2026-09-18 |
-| 1757 | Giuseppe Filiberto Vitale | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1758 | Giuseppe Policastro | — | AdS/CFT, CFT | 2 | 2026-10-02 |
-| 1759 | Gizem Şengör | — | AdS/CFT, CFT | 2 | 2026-07-30 |
-| 1760 | Gongrui Cheng | — | String Theory | 2 | 2026-11-14 |
-| 1761 | Gonzalo J. Olmo | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-09-24 |
-| 1762 | Gopal Yadav | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-10-18 |
-| 1763 | Gopinath Guin | — | Geometric Gravity | 2 | 2026-09-03 |
-| 1764 | Gordon Rogelberg | — | AdS/CFT, CFT | 2 | 2026-11-11 |
-| 1765 | Goro Ishiki | — | AdS/CFT, String Theory | 2 | 2026-07-30 |
-| 1766 | Grant N. Remmen | — | String Theory | 2 | 2026-06-11 |
-| 1767 | Grant Salton | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
-| 1768 | Gregory W. Moore | — | String Theory | 2 | 2026-08-14 |
-| 1769 | Guido Da Re | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-10-24 |
-| 1770 | Guilherme E. L. Pexe | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-04 |
-| 1771 | Guri K. Buza | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1772 | Gurudev Dutt | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1773 | Gérard M. T. Watts | — | CFT | 2 | 2026-10-24 |
-| 1774 | Géza Tóth | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1775 | H. E. Camblong | — | Geometric Gravity | 2 | 2026-07-18 |
-| 1776 | H. Wang | — | Geometric Gravity | 2 | 2026-07-18 |
-| 1777 | Hai-Feng Ding | — | AdS/CFT, Geometric Gravity | 2 | 2026-09-25 |
-| 1778 | Hai-Shan Liu | — | CFT | 2 | 2026-07-04 |
-| 1779 | Hajar Belmahi | — | AdS/CFT | 2 | 2026-11-14 |
-| 1780 | Hajime Furuta | — | CFT | 2 | 2026-11-07 |
-| 1781 | Hamed Pejhan | — | AdS/CFT | 2 | 2026-07-22 |
-| 1782 | Hannes Malcha | — | AdS/CFT, CFT, String Theory | 2 | 2026-10-08 |
-| 1783 | Hanzhi Jiang | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-11-07 |
-| 1784 | Hao Chen | — | Quantum Gravity | 2 | 2026-05-30 |
-| 1785 | Hao Geng | — | AdS/CFT, Quantum Gravity | 2 | 2026-10-10 |
-| 1786 | Hao Wu | — | CFT | 2 | 2026-10-08 |
-| 1787 | Haryanto M. Siahaan | — | String Theory | 2 | 2026-08-12 |
-| 1788 | Hassan Firouzjahi | — | Geometric Gravity, Quantum Gravity | 2 | 2026-10-18 |
-| 1789 | Hayata Yamasaki | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-02 |
-| 1790 | Helen M Sheehy | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1791 | Heliudson Bernardo | — | String Theory | 2 | 2026-07-25 |
-| 1792 | Hemwati Nandan | — | Quantum Gravity | 2 | 2026-07-18 |
-| 1793 | Hendrik Ulbricht | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1794 | Henning Samtleben | — | AdS/CFT, Geometric Gravity, String Theory | 2 | 2026-07-30 |
-| 1795 | Henri Scheppach | — | AdS/CFT, String Theory | 2 | 2026-08-22 |
-| 1796 | Henriette Elvang | — | CFT, String Theory | 2 | 2026-07-18 |
-| 1797 | Henrique N. Sá Earp | — | String Theory | 2 | 2026-08-26 |
-| 1798 | Herman Verlinde | — | AdS/CFT | 2 | 2026-06-27 |
-| 1799 | Hexuan Li | — | CFT, Entanglement & Geometry | 2 | 2026-11-11 |
-| 1800 | Hidde Stoffels | — | CFT | 2 | 2026-08-22 |
-| 1801 | Himanshu Buragohain | — | AdS/CFT | 2 | 2026-08-27 |
-| 1802 | Himanshu Chaudhary | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-10-24 |
-| 1803 | Himasri Pinapothu | — | AdS/CFT | 2 | 2026-06-27 |
-| 1804 | Hiromasa Tajima | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-06-06 |
-| 1805 | Hiroyasu Tajima | — | CFT | 2 | 2026-09-17 |
-| 1806 | Hisham Sati | — | String Theory | 2 | 2026-10-01 |
-| 1807 | Hishan Farfán-Bachiloglu | — | Entanglement & Geometry | 2 | 2026-10-29 |
-| 1808 | Hitoshi Murayama | — | Asymptotic Symmetries | 2 | 2026-08-28 |
-| 1809 | Hong Liu | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-08-06 |
-| 1810 | Hongguang Liu | — | AdS/CFT | 2 | 2026-05-28 |
-| 1811 | Hoseob Shin | — | AdS/CFT, String Theory | 2 | 2026-10-31 |
-| 1812 | Hrant Gharibyan | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
-| 1813 | Hu Zheng | — | AdS/CFT, Celestial Holography | 2 | 2026-06-06 |
-| 1814 | Hua Xing Zhu | — | CFT | 2 | 2026-09-18 |
-| 1815 | Huaxuan Zeng | — | AdS/CFT, Asymptotic Symmetries, CFT, Celestial Holography | 2 | 2026-07-10 |
-| 1816 | Hugo A. Morales | — | Quantum Gravity | 2 | 2026-05-23 |
-| 1817 | Hui Liu | — | AdS/CFT | 2 | 2026-10-08 |
-| 1818 | Hui Yang | — | AdS/CFT | 2 | 2026-07-08 |
-| 1819 | Humberto A. Borges | — | AdS/CFT, String Theory | 2 | 2026-10-02 |
-| 1820 | Humberto Gomez | — | AdS/CFT | 2 | 2026-06-25 |
-| 1821 | Hynek Paul | — | AdS/CFT, CFT, Quantum Gravity, String Theory | 2 | 2026-07-30 |
-| 1822 | Hyojoong Kim | — | AdS/CFT, String Theory | 2 | 2026-10-31 |
-| 1823 | Hyun-Cheol Kim | — | AdS/CFT | 2 | 2026-10-21 |
-| 1824 | Ian Vega | — | Entanglement & Geometry | 2 | 2026-07-01 |
-| 1825 | Iarley P. Lobo | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1826 | Igal Arav | — | AdS/CFT, CFT | 2 | 2026-10-02 |
-| 1827 | Ignacio Quiroz Vargas | — | AdS/CFT | 2 | 2026-09-26 |
-| 1828 | Igor Mol | — | Celestial Holography | 2 | 2026-05-27 |
-| 1829 | Igor Pikovski | — | Quantum Gravity | 2 | 2026-11-07 |
-| 1830 | Ingo Runkel | — | CFT | 2 | 2026-10-24 |
-| 1831 | Iva Lovrekovic | — | AdS/CFT, Asymptotic Symmetries, CFT | 2 | 2026-09-10 |
-| 1832 | Ivan Dneprov | — | AdS/CFT, CFT | 2 | 2026-07-01 |
-| 1833 | Ivan Pérez-Castro | — | Quantum Gravity | 2 | 2026-09-24 |
-| 1834 | Ivar Martin | — | CFT | 2 | 2026-09-10 |
-| 1835 | Iván Salvador-García | — | AdS/CFT, Quantum Gravity | 2 | 2026-10-31 |
-| 1836 | J. D. D. Martin | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1837 | J. R. Villanueva | — | AdS/CFT | 2 | 2026-10-22 |
-| 1838 | J. X. Lu | — | String Theory | 2 | 2026-08-12 |
-| 1839 | Jack Isen | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-07-24 |
-| 1840 | Jack Keable-Elliott | — | Quantum Gravity | 2 | 2026-07-24 |
-| 1841 | Jacob McNamara | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-04 |
-| 1842 | Jacopo Mazza | — | Entanglement & Geometry | 2 | 2026-08-06 |
-| 1843 | Jacques Distler | — | AdS/CFT, CFT | 2 | 2026-09-17 |
-| 1844 | Jae-Hyuk Oh | — | AdS/CFT | 2 | 2026-10-21 |
-| 1845 | Jaehyeok Choi | — | AdS/CFT, CFT | 2 | 2026-09-19 |
-| 1846 | Jaewoo Joo | — | Quantum Gravity | 2 | 2026-07-24 |
-| 1847 | Jailson Alcaniz | — | AdS/CFT, String Theory | 2 | 2026-10-02 |
-| 1848 | Jake McNaughton | — | Quantum Gravity | 2 | 2026-11-12 |
-| 1849 | Jakob Hollweck | — | CFT | 2 | 2026-06-19 |
-| 1850 | Jakub Vošmera | — | String Theory | 2 | 2026-07-04 |
-| 1851 | James Bonifacio | — | CFT | 2 | 2026-08-08 |
-| 1852 | James Buda | — | Asymptotic Symmetries | 2 | 2026-09-19 |
-| 1853 | James E. Tener | — | CFT | 2 | 2026-08-27 |
-| 1854 | James F. Glazebrook | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-11-11 |
-| 1855 | James Fullwood | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-08-08 |
-| 1856 | James Mangan | — | Asymptotic Symmetries | 2 | 2026-10-01 |
-| 1857 | Jan M. Pawlowski | — | Quantum Gravity | 2 | 2026-09-10 |
-| 1858 | Jan Schütte-Engel | — | Asymptotic Symmetries | 2 | 2026-08-28 |
-| 1859 | Janek Kozicki | — | Quantum Gravity | 2 | 2026-08-06 |
-| 1860 | Jani Kastikainen | — | AdS/CFT, String Theory | 2 | 2026-08-22 |
-| 1861 | Jann Zosso | — | Asymptotic Symmetries | 2 | 2026-08-28 |
-| 1862 | Jarosław K. Korbicz | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1863 | Jason D. Lotay | — | String Theory | 2 | 2026-08-13 |
-| 1864 | Jatin Narde | — | AdS/CFT, CFT | 2 | 2026-08-15 |
-| 1865 | Jaume Gomis | — | AdS/CFT, CFT, String Theory | 2 | 2026-07-10 |
-| 1866 | Javier Molina-Vilaplana | — | AdS/CFT | 2 | 2026-10-03 |
-| 1867 | Jean-Marie Stéphan | — | CFT | 2 | 2026-08-06 |
-| 1868 | Jean-Pierre Gazeau | — | AdS/CFT | 2 | 2026-07-22 |
-| 1869 | Jed Thompson-Fawcett | — | Celestial Holography, String Theory | 2 | 2026-08-05 |
-| 1870 | Jeffrey V. Backus | — | String Theory | 2 | 2026-09-26 |
-| 1871 | Jelle Hartong | — | Celestial Holography | 2 | 2026-07-11 |
-| 1872 | Jennifer Lin | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-07-02 |
-| 1873 | Jeong-Hyuck Park | — | AdS/CFT | 2 | 2026-10-21 |
-| 1874 | Jeremy van der Heijden | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity, Quantum Gravity | 2 | 2026-10-03 |
-| 1875 | Jeroen Monnee | — | String Theory | 2 | 2026-10-03 |
-| 1876 | Jerome P. Mecca | — | Entanglement & Geometry | 2 | 2026-07-01 |
-| 1877 | Jerzy Paczos | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1878 | Ji-Yang Wang | — | String Theory | 2 | 2026-10-22 |
-| 1879 | Jian-Peng Zhang | — | AdS/CFT, CFT | 2 | 2026-09-24 |
-| 1880 | Jiaxin Qiao | — | CFT | 2 | 2026-09-24 |
-| 1881 | Jiayin Gu | — | Entanglement & Geometry | 2 | 2026-10-10 |
-| 1882 | Jie Gu | — | CFT, String Theory | 2 | 2026-11-14 |
-| 1883 | Jie-ping Zheng | — | Quantum Gravity | 2 | 2026-07-04 |
-| 1884 | Jin-Yang Shen | — | CFT | 2 | 2026-07-04 |
-| 1885 | Jinwei Chu | — | AdS/CFT, CFT | 2 | 2026-09-12 |
-| 1886 | Jitendra Kumar | — | Entanglement & Geometry | 2 | 2026-11-04 |
-| 1887 | Jiyuan Fang | — | Entanglement & Geometry | 2 | 2026-09-02 |
-| 1888 | Joao A. A. S. Reis | — | Quantum Gravity | 2 | 2026-09-03 |
-| 1889 | Joao Caetano | — | AdS/CFT, String Theory | 2 | 2026-10-23 |
-| 1890 | Joaquin Masias | — | String Theory | 2 | 2026-09-03 |
-| 1891 | Johan Henriksson | — | CFT, String Theory | 2 | 2026-08-29 |
-| 1892 | John F. Dawson | — | Asymptotic Symmetries, CFT | 2 | 2026-10-23 |
-| 1893 | John Preskill | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
-| 1894 | Jonah Berean-Dutcher | — | Asymptotic Symmetries | 2 | 2026-08-12 |
-| 1895 | Jonathan Karl | — | AdS/CFT, String Theory | 2 | 2026-08-22 |
-| 1896 | Jonathan M. H. Gosling | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1897 | Jonathan Sorce | — | AdS/CFT, CFT | 2 | 2026-06-25 |
-| 1898 | Jonibek Khasanov | — | Quantum Gravity | 2 | 2026-10-15 |
-| 1899 | Jose Miguel Ladino | — | Geometric Gravity | 2 | 2026-10-03 |
-| 1900 | Joseph Thomas | — | Asymptotic Symmetries | 2 | 2026-10-01 |
-| 1901 | Joshua Foo | — | Quantum Gravity | 2 | 2026-10-08 |
-| 1902 | Joshua Yi | — | Entanglement & Geometry | 2 | 2026-11-12 |
-| 1903 | José Calderón-Infante | — | AdS/CFT, CFT, String Theory | 2 | 2026-07-16 |
-| 1904 | José Luis Jaramillo | — | Geometric Gravity | 2 | 2026-07-30 |
-| 1905 | José Matos | — | CFT, String Theory | 2 | 2026-07-03 |
-| 1906 | José Navarro-Salas | — | CFT, Celestial Holography | 2 | 2026-07-11 |
-| 1907 | José Padua-Argüelles | — | Geometric Gravity, Quantum Gravity | 2 | 2026-08-21 |
-| 1908 | Joydeep Naskar | — | AdS/CFT | 2 | 2026-05-28 |
-| 1909 | João Barata | — | CFT | 2 | 2026-09-18 |
-| 1910 | João Paulo Cavalcante | — | String Theory | 2 | 2026-11-14 |
-| 1911 | Juan A. Valiente Kroon | — | AdS/CFT, Celestial Holography | 2 | 2026-10-24 |
-| 1912 | Juan Carlos Del Águila | — | Quantum Gravity | 2 | 2026-05-23 |
-| 1913 | Juan Maldacena | — | AdS/CFT, Asymptotic Symmetries, String Theory | 2 | 2026-08-28 |
-| 1914 | Juan Sebastián Ardenghi | — | Entanglement & Geometry | 2 | 2026-07-31 |
-| 1915 | Julien Barrat | — | CFT | 2 | 2026-07-30 |
-| 1916 | Jun Liu | — | AdS/CFT | 2 | 2026-11-12 |
-| 1917 | Jun Maeda | — | CFT | 2 | 2026-10-31 |
-| 1918 | Jun Tao | — | CFT, Entanglement & Geometry | 2 | 2026-10-16 |
-| 1919 | Junding Chen | — | AdS/CFT, CFT, Quantum Gravity, String Theory | 2 | 2026-07-30 |
-| 1920 | Junwu Huang | — | String Theory | 2 | 2026-09-12 |
-| 1921 | Juri Dimaschko | — | Entanglement & Geometry | 2 | 2026-07-31 |
-| 1922 | Justin Berman | — | CFT, String Theory | 2 | 2026-07-18 |
-| 1923 | Jörg Frauendiener | — | Celestial Holography, String Theory | 2 | 2026-08-05 |
-| 1924 | Jörg Hennig | — | Celestial Holography, String Theory | 2 | 2026-08-05 |
-| 1925 | Júlio C. Fabris | — | Entanglement & Geometry | 2 | 2026-08-20 |
-| 1926 | K. B. Alkalaev | — | CFT | 2 | 2026-05-28 |
-| 1927 | K. Karimizadeh | — | Entanglement & Geometry | 2 | 2026-07-11 |
-| 1928 | Kai Lin | — | Entanglement & Geometry | 2 | 2026-07-01 |
-| 1929 | Kai-Peng Lu | — | AdS/CFT | 2 | 2026-10-29 |
-| 1930 | Kai-Yu Zhang | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-09-17 |
-| 1931 | Kaichi Mizohata | — | CFT | 2 | 2026-11-11 |
-| 1932 | Kamiko Kouemeni Jean Rodrigue | — | Geometric Gravity, Quantum Gravity | 2 | 2026-08-19 |
-| 1933 | Kanato Goto | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-02 |
-| 1934 | Kangning Liu | — | AdS/CFT, String Theory | 2 | 2026-09-10 |
-| 1935 | Kanhu Kishore Nanda | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-10-18 |
-| 1936 | Kashif Ammar Yasir | — | Quantum Gravity | 2 | 2026-11-04 |
-| 1937 | Kasia Budzik | — | AdS/CFT, String Theory | 2 | 2026-10-16 |
+| 869 | Kasia Budzik | — | AdS/CFT, String Theory | 3 | 2026-11-16 |
+| 870 | Kathrin Stoldt | — | Asymptotic Symmetries | 3 | 2026-10-22 |
+| 871 | Katja Klobas | — | Entanglement & Geometry | 3 | 2026-06-21 |
+| 872 | Ke Chen | — | AdS/CFT, Geometric Gravity | 3 | 2026-10-11 |
+| 873 | Keiichiro Furuya | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-07-20 |
+| 874 | Keiichiro Hattori | — | String Theory | 3 | 2026-06-26 |
+| 875 | Keisuke Izumi | — | Entanglement & Geometry | 3 | 2026-05-24 |
+| 876 | Keisuke Nakashi | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-10-07 |
+| 877 | Keith A. Olive | — | String Theory | 3 | 2026-07-03 |
+| 878 | Ken-ji Hamada | — | Quantum Gravity | 3 | 2026-08-21 |
+| 879 | Kengo Maeda | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-11-05 |
+| 880 | Keun-Young Kim | — | AdS/CFT, CFT | 3 | 2026-09-19 |
+| 881 | Kevin Costello | — | AdS/CFT | 3 | 2026-10-01 |
+| 882 | Kevin Nguyen | — | AdS/CFT, Asymptotic Symmetries, CFT | 3 | 2026-10-02 |
+| 883 | Kilian Hersent | — | Quantum Gravity | 3 | 2026-06-19 |
+| 884 | Kiminad A. Mamo | — | AdS/CFT, String Theory | 3 | 2026-10-09 |
+| 885 | Kiran Adhikari | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-07-01 |
+| 886 | Kiyoon Eum | — | CFT, Geometric Gravity | 3 | 2026-08-23 |
+| 887 | Kohei Kawabata | — | CFT | 3 | 2026-06-18 |
+| 888 | Krishna Chand Maurya | — | AdS/CFT, CFT | 3 | 2026-06-11 |
+| 889 | Kristina Giesel | — | Quantum Gravity | 3 | 2026-10-01 |
+| 890 | Kuan-Nan Lin | — | Celestial Holography, Quantum Gravity | 3 | 2026-08-15 |
+| 891 | Kuo-Wei Huang | — | AdS/CFT, CFT | 3 | 2026-11-05 |
+| 892 | Kwan Yun | — | AdS/CFT, CFT | 3 | 2026-09-19 |
+| 893 | Lara Bohnenblust | — | Asymptotic Symmetries | 3 | 2026-10-22 |
+| 894 | Larus Thorlacius | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 3 | 2026-06-12 |
+| 895 | Laurentiu Rodina | — | Quantum Gravity | 3 | 2026-10-25 |
+| 896 | Lea Mele | — | Celestial Holography | 3 | 2026-07-26 |
+| 897 | Lecheng Ren | — | AdS/CFT, CFT, String Theory | 3 | 2026-07-26 |
+| 898 | Leila Shahkarami | — | AdS/CFT, String Theory | 3 | 2026-07-17 |
+| 899 | Leonard Schwarze | — | AdS/CFT, CFT | 3 | 2026-07-30 |
+| 900 | Leonardo Chataignier | — | Geometric Gravity | 3 | 2026-09-25 |
+| 901 | Lev Senchukov | — | Quantum Gravity, String Theory | 3 | 2026-07-03 |
+| 902 | Liang Li | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-08-30 |
+| 903 | Lijing Shao | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-06-07 |
+| 904 | Ling-Long Gao | — | AdS/CFT | 3 | 2026-09-24 |
+| 905 | Lini Devassy | — | AdS/CFT, Geometric Gravity | 3 | 2026-09-05 |
+| 906 | Liping Li | — | AdS/CFT | 3 | 2026-10-22 |
+| 907 | Liu Ye | — | Entanglement & Geometry | 3 | 2026-10-11 |
+| 908 | Ljubica D. Davidović | — | String Theory | 3 | 2026-06-12 |
+| 909 | Lorenzo Herres | — | AdS/CFT, Geometric Gravity | 3 | 2026-06-25 |
+| 910 | Lorenzo M. Procopio | — | Geometric Gravity, Quantum Gravity | 3 | 2026-07-04 |
+| 911 | Lorenzo Magnea | — | Asymptotic Symmetries, CFT | 3 | 2026-10-04 |
+| 912 | Lorenzo Orlando | — | AdS/CFT, Geometric Gravity | 3 | 2026-06-25 |
+| 913 | Loïc Marsot | — | CFT, Celestial Holography | 3 | 2026-06-25 |
+| 914 | Lu Wei | — | Entanglement & Geometry | 3 | 2026-06-19 |
+| 915 | Luca Martucci | — | Entanglement & Geometry | 3 | 2026-06-27 |
+| 916 | Luca Romano | — | Celestial Holography, String Theory | 3 | 2026-07-09 |
+| 917 | Ludovic Varrin | — | Entanglement & Geometry, Geometric Gravity, Quantum Gravity | 3 | 2026-10-30 |
+| 918 | Luiz Carlos Garcia de Andrade | — | Quantum Gravity | 3 | 2026-08-13 |
+| 919 | Lukas Varnhorst | — | Entanglement & Geometry | 3 | 2026-09-20 |
+| 920 | Léa Malacher | — | Quantum Gravity | 3 | 2026-06-07 |
+| 921 | M. A. Jaraba | — | AdS/CFT | 3 | 2026-08-20 |
+| 922 | M. A. Rajabpour | — | CFT | 3 | 2026-09-26 |
+| 923 | M. C. Baldiotti | — | AdS/CFT | 3 | 2026-08-20 |
+| 924 | M. M. Daryaei Goki | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-10-16 |
+| 925 | M. Mangut | — | Geometric Gravity | 3 | 2026-09-05 |
+| 926 | Machiko Hatsuda | — | String Theory | 3 | 2026-08-02 |
+| 927 | Madhumita Saha | — | Entanglement & Geometry, Quantum Gravity | 3 | 2026-10-24 |
+| 928 | Madhusudhan Raman | — | AdS/CFT, String Theory | 3 | 2026-06-19 |
+| 929 | Mahdis Ghodrati | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity +1 | 3 | 2026-08-10 |
+| 930 | Manan Bhatia | — | Quantum Gravity | 3 | 2026-06-12 |
+| 931 | Manas Kulkarni | — | Entanglement & Geometry, Quantum Gravity | 3 | 2026-10-24 |
+| 932 | Manghang Limbu | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-07-01 |
+| 933 | Manthos Karydas | — | Quantum Gravity | 3 | 2026-11-01 |
+| 934 | Manuel Reichert | — | Quantum Gravity | 3 | 2026-06-20 |
+| 935 | Manuel de León | — | Geometric Gravity | 3 | 2026-08-09 |
+| 936 | Marc Schneider | — | Quantum Gravity | 3 | 2026-09-27 |
+| 937 | Marcelo Oyarzo | — | AdS/CFT, String Theory | 3 | 2026-07-30 |
+| 938 | Marco Calzà | — | Quantum Gravity | 3 | 2026-06-07 |
+| 939 | Marco Calzá | — | Entanglement & Geometry, Quantum Gravity | 3 | 2026-06-07 |
+| 940 | Marek Liška | — | Geometric Gravity | 3 | 2026-11-12 |
+| 941 | Marhabo Beymamatova | — | AdS/CFT | 3 | 2026-07-18 |
+| 942 | Maria Nocchi | — | AdS/CFT, String Theory | 3 | 2026-06-11 |
+| 943 | Maria Santana | — | Asymptotic Symmetries | 3 | 2026-09-12 |
+| 944 | Mariano Cadoni | — | AdS/CFT, Geometric Gravity | 3 | 2026-06-25 |
+| 945 | Mariano Quiros | — | AdS/CFT, CFT, String Theory | 3 | 2026-08-20 |
+| 946 | Mario Flory | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-08-13 |
+| 947 | Marios Christodoulou | — | Quantum Gravity | 3 | 2026-08-20 |
+| 948 | Mark Sukaiti | — | Entanglement & Geometry | 3 | 2026-11-12 |
+| 949 | Martin B. Plenio | — | Quantum Gravity | 3 | 2026-07-03 |
+| 950 | Martin Beneke | — | Asymptotic Symmetries | 3 | 2026-09-12 |
+| 951 | Martin Zeiß | — | Quantum Gravity | 3 | 2026-09-03 |
+| 952 | Masamichi Miyaji | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 3 | 2026-11-05 |
+| 953 | Masato Nozawa | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-10-27 |
+| 954 | Masaya Yata | — | String Theory | 3 | 2026-08-02 |
+| 955 | Masoud Ataei | — | CFT | 3 | 2026-07-30 |
+| 956 | Matheus D. de Oliveira | — | Entanglement & Geometry | 3 | 2026-09-11 |
+| 957 | Matteo Selle | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-09-03 |
+| 958 | Matteo Tuveri | — | Quantum Gravity | 3 | 2026-06-14 |
+| 959 | Matthias Heinrich | — | AdS/CFT, CFT | 3 | 2026-06-11 |
+| 960 | Mattia Serrani | — | CFT, Celestial Holography | 3 | 2026-08-02 |
+| 961 | Max Ehrhardt | — | AdS/CFT, CFT | 3 | 2026-06-11 |
+| 962 | Max Jackson | — | AdS/CFT, CFT, String Theory | 3 | 2026-07-26 |
+| 963 | Maxwell R. Siebersma | — | Quantum Gravity | 3 | 2026-06-07 |
+| 964 | Md Sabir Ali | — | AdS/CFT, Geometric Gravity | 3 | 2026-11-01 |
+| 965 | Mehdi Assanioussi | — | Quantum Gravity | 3 | 2026-09-03 |
+| 966 | Mehmet Ozkan | — | AdS/CFT, CFT, String Theory | 3 | 2026-11-14 |
+| 967 | Mei-Hui Xiao | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-07-17 |
+| 968 | Meilin Liu | — | Quantum Gravity | 3 | 2026-07-19 |
+| 969 | Meng-Long Song | — | Entanglement & Geometry | 3 | 2026-10-11 |
+| 970 | Mengxuan Wu | — | AdS/CFT | 3 | 2026-07-19 |
+| 971 | Michael Gutperle | — | AdS/CFT, CFT, String Theory | 3 | 2026-10-01 |
+| 972 | Michael Imseis | — | Celestial Holography | 3 | 2026-10-24 |
+| 973 | Michael Lublinsky | — | AdS/CFT | 3 | 2026-06-12 |
+| 974 | Michael M. Wolf | — | Quantum Gravity | 3 | 2026-10-04 |
+| 975 | Michael R. R. Good | — | Celestial Holography, Quantum Gravity | 3 | 2026-08-15 |
+| 976 | Michel Rausch de Traubenberg | — | String Theory | 3 | 2026-07-04 |
+| 977 | Michel Stillger | — | Asymptotic Symmetries | 3 | 2026-09-12 |
+| 978 | Michele Fossati | — | CFT, Entanglement & Geometry | 3 | 2026-07-24 |
+| 979 | Michele Giorgi | — | AdS/CFT, CFT, String Theory | 3 | 2026-09-20 |
+| 980 | Michitaka Kohara | — | AdS/CFT, CFT, Quantum Gravity | 3 | 2026-08-06 |
+| 981 | Miguel Correia | — | AdS/CFT, CFT | 3 | 2026-10-02 |
+| 982 | Miguel Hernandez-Segura | — | String Theory | 3 | 2026-09-27 |
+| 983 | Mikel López-Escondrillas | — | Geometric Gravity | 3 | 2026-09-25 |
+| 984 | Mikhail Alfimov | — | CFT | 3 | 2026-10-22 |
+| 985 | Mikhail Bershtein | — | CFT | 3 | 2026-07-23 |
+| 986 | Milena D. Davidović | — | String Theory | 3 | 2026-06-12 |
+| 987 | Miloš D. Davidović | — | String Theory | 3 | 2026-06-12 |
+| 988 | Min-xin Huang | — | String Theory | 3 | 2026-10-03 |
+| 989 | Ming Zhang | — | AdS/CFT | 3 | 2026-09-27 |
+| 990 | Minghui Yu | — | Entanglement & Geometry, Quantum Gravity | 3 | 2026-10-09 |
+| 991 | Mingshuai Xu | — | AdS/CFT | 3 | 2026-10-11 |
+| 992 | Mingxuan Liu | — | AdS/CFT, CFT, Quantum Gravity | 3 | 2026-11-05 |
+| 993 | Minkyoo Kim | — | AdS/CFT, CFT | 3 | 2026-08-26 |
+| 994 | Mir Faizal | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-08-15 |
+| 995 | Mirko Pitzalis | — | AdS/CFT, Geometric Gravity | 3 | 2026-06-25 |
+| 996 | Miroslava Mosso Rojas | — | AdS/CFT, CFT, String Theory | 3 | 2026-10-16 |
+| 997 | Misao Sasaki | — | Quantum Gravity | 3 | 2026-06-11 |
+| 998 | Mo Dick Wong | — | Quantum Gravity | 3 | 2026-10-01 |
+| 999 | Mohammad Reza Khansari | — | AdS/CFT, CFT | 3 | 2026-06-20 |
+| 1000 | Moisés Bravo-Gaete | — | AdS/CFT | 3 | 2026-10-04 |
+| 1001 | Mojtaba Najafizade | — | CFT, Celestial Holography | 3 | 2026-06-20 |
+| 1002 | Monireh Emami | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-09-18 |
+| 1003 | Morris Ang | — | Quantum Gravity | 3 | 2026-11-01 |
+| 1004 | Muhammad Fitrah Alfian Rangga Sakti | — | AdS/CFT, CFT | 3 | 2026-08-06 |
+| 1005 | Muhammad Israr Aslam | — | Entanglement & Geometry | 3 | 2026-10-23 |
+| 1006 | Muneto Nitta | — | CFT, String Theory | 3 | 2026-10-03 |
+| 1007 | Murat Kologlu | — | Quantum Gravity | 3 | 2026-11-01 |
+| 1008 | N. C. Tsamis | — | Quantum Gravity | 3 | 2026-11-04 |
+| 1009 | Na Wang | — | Quantum Gravity | 3 | 2026-08-13 |
+| 1010 | Najibullokhon Shukurullokhon | — | Quantum Gravity | 3 | 2026-06-19 |
+| 1011 | Naman Agarwal | — | String Theory | 3 | 2026-08-01 |
+| 1012 | Naman Kumar | — | Celestial Holography, Entanglement & Geometry, Quantum Gravity | 3 | 2026-05-17 |
+| 1013 | Naoki Tsukamoto | — | Entanglement & Geometry | 3 | 2026-08-27 |
+| 1014 | Naoto Kan | — | String Theory | 3 | 2026-08-20 |
+| 1015 | Nat Levine | — | CFT | 3 | 2026-11-09 |
+| 1016 | Natalie M. Paquette | — | String Theory | 3 | 2026-11-15 |
+| 1017 | Nathan McStay | — | AdS/CFT, String Theory | 3 | 2026-11-07 |
+| 1018 | Nathanaël Berestycki | — | Quantum Gravity | 3 | 2026-06-28 |
+| 1019 | Nathaniel Craig | — | Quantum Gravity | 3 | 2026-06-18 |
+| 1020 | Nayun Jia | — | AdS/CFT | 3 | 2026-09-05 |
+| 1021 | Neha | — | Entanglement & Geometry | 3 | 2026-09-06 |
+| 1022 | Neil Lambert | — | String Theory | 3 | 2026-08-22 |
+| 1023 | Nele Callebaut | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-09-03 |
+| 1024 | Nicolò Primi | — | AdS/CFT, String Theory | 3 | 2026-07-18 |
+| 1025 | Nikita M. Shirokov | — | Entanglement & Geometry | 3 | 2026-10-24 |
+| 1026 | Nikita Sopenko | — | Entanglement & Geometry | 3 | 2026-11-06 |
+| 1027 | Niko Jokela | — | Entanglement & Geometry | 3 | 2026-07-10 |
+| 1028 | Nikolaos Angelinos | — | Entanglement & Geometry | 3 | 2026-07-16 |
+| 1029 | Nikolay S. Akintsov | — | Quantum Gravity | 3 | 2026-07-18 |
+| 1030 | Nina Holden | — | Quantum Gravity | 3 | 2026-10-10 |
+| 1031 | Nirmalya Kajuri | — | AdS/CFT, Celestial Holography, Quantum Gravity | 3 | 2026-06-11 |
+| 1032 | Nitesh K. Dubey | — | AdS/CFT | 3 | 2026-06-12 |
+| 1033 | Ofek Bengyat | — | Quantum Gravity | 3 | 2026-08-20 |
+| 1034 | Olga Papadoulaki | — | CFT | 3 | 2026-11-06 |
+| 1035 | Olivera Miskovic | — | Asymptotic Symmetries, Celestial Holography | 3 | 2026-08-02 |
+| 1036 | Olmos Tursunboyev | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-07-16 |
+| 1037 | Oscar Varela | — | AdS/CFT, CFT, String Theory | 3 | 2026-07-31 |
+| 1038 | P. B. Krishna | — | AdS/CFT, Geometric Gravity | 3 | 2026-09-05 |
+| 1039 | Pablo Basteiro | — | AdS/CFT, CFT | 3 | 2026-06-11 |
+| 1040 | Pablo Tejerina-Pérez | — | AdS/CFT | 3 | 2026-07-02 |
+| 1041 | Panagiotis Dorlis | — | Quantum Gravity | 3 | 2026-05-17 |
+| 1042 | Paola Meza | — | Entanglement & Geometry | 3 | 2026-08-20 |
+| 1043 | Parham Radpay | — | Quantum Gravity | 3 | 2026-09-26 |
+| 1044 | Partha Paul | — | AdS/CFT, CFT, Celestial Holography | 3 | 2026-08-30 |
+| 1045 | Parthasarathi Majumdar | — | Entanglement & Geometry, Geometric Gravity, Quantum Gravity | 3 | 2026-07-31 |
+| 1046 | Patharadanai Nuchino | — | AdS/CFT, String Theory | 3 | 2026-08-16 |
+| 1047 | Patricio Salgado | — | Entanglement & Geometry | 3 | 2026-08-20 |
+| 1048 | Patrick Jefferson | — | Quantum Gravity, String Theory | 3 | 2026-07-09 |
+| 1049 | Pau Solé-Vilaró | — | AdS/CFT | 3 | 2026-07-02 |
+| 1050 | Paul Ghiringhelli | — | CFT | 3 | 2026-11-06 |
+| 1051 | Paulo José Porfírio | — | Entanglement & Geometry | 3 | 2026-10-08 |
+| 1052 | Pavel Kovtun | — | AdS/CFT, CFT, String Theory | 3 | 2026-10-23 |
+| 1053 | Pavlos Protopapas | — | AdS/CFT | 3 | 2026-07-02 |
+| 1054 | Pedro Meert | — | Quantum Gravity | 3 | 2026-08-15 |
+| 1055 | Pedro Tarancón-Álvarez | — | AdS/CFT | 3 | 2026-07-02 |
+| 1056 | Pei-Ming Ho | — | Quantum Gravity | 3 | 2026-06-21 |
+| 1057 | Pelayo V. Calzada | — | Geometric Gravity | 3 | 2026-08-02 |
+| 1058 | Pengfei Zhu | — | CFT, String Theory | 3 | 2026-10-25 |
+| 1059 | Per Kraus | — | Celestial Holography, Quantum Gravity | 3 | 2026-07-17 |
+| 1060 | Petarpa Boonserm | — | AdS/CFT, Geometric Gravity | 3 | 2026-08-23 |
+| 1061 | Petr M. Lavrov | — | Quantum Gravity | 3 | 2026-08-13 |
+| 1062 | Philipp Hauke | — | AdS/CFT, Quantum Gravity | 3 | 2026-11-06 |
+| 1063 | Piero Beretta | — | CFT | 3 | 2026-11-05 |
+| 1064 | Pietro Benetti Genolini | — | AdS/CFT, String Theory | 3 | 2026-07-11 |
+| 1065 | Pietro Fre | — | Geometric Gravity | 3 | 2026-07-30 |
+| 1066 | Pisin Chen | — | Celestial Holography, Quantum Gravity | 3 | 2026-08-15 |
+| 1067 | Piyabut Burikham | — | AdS/CFT, CFT | 3 | 2026-08-06 |
+| 1068 | Po-Yao Chang | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 3 | 2026-06-19 |
+| 1069 | Prajit Baruah | — | CFT | 3 | 2026-09-12 |
+| 1070 | Prakriti Singh | — | AdS/CFT, CFT | 3 | 2026-09-12 |
+| 1071 | Pramod Kamal Kharel | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-07-01 |
+| 1072 | Prasant Samantray | — | CFT | 3 | 2026-08-01 |
+| 1073 | Prasanta K. Tripathy | — | CFT | 3 | 2026-09-20 |
+| 1074 | Prateek Agrawal | — | AdS/CFT | 3 | 2026-08-16 |
+| 1075 | Prateksh Dhivakar | — | AdS/CFT, CFT, Celestial Holography | 3 | 2026-08-30 |
+| 1076 | Preslav Asenov | — | AdS/CFT | 3 | 2026-08-01 |
+| 1077 | Prokopii Anempodistov | — | Quantum Gravity, String Theory | 3 | 2026-07-03 |
+| 1078 | Puxun Wu | — | Quantum Gravity | 3 | 2026-07-30 |
+| 1079 | Q. -L. Zhao | — | Asymptotic Symmetries | 3 | 2026-10-03 |
+| 1080 | Qicheng Tang | — | CFT | 3 | 2026-07-03 |
+| 1081 | Qing-Hua Qin | — | Quantum Gravity | 3 | 2026-07-18 |
+| 1082 | Qiyu Liu | — | CFT | 3 | 2026-09-12 |
+| 1083 | Qiyuan Pan | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-08-21 |
+| 1084 | Quentin Bonnefoy | — | String Theory | 3 | 2026-07-04 |
+| 1085 | R. P. Woodard | — | Quantum Gravity | 3 | 2026-11-04 |
+| 1086 | R. ~C. ~Rashkov | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-10-22 |
+| 1087 | Rabia Saleem | — | Entanglement & Geometry | 3 | 2026-10-23 |
+| 1088 | Radoslav C. Rashkov | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-09-18 |
+| 1089 | Rafael A. Costa-Silva | — | AdS/CFT | 3 | 2026-11-12 |
+| 1090 | Rajesh Kumar Gupta | — | CFT | 3 | 2026-06-20 |
+| 1091 | Rakesh K Jha | — | CFT | 3 | 2026-08-01 |
+| 1092 | Ramires Nascimento da Silva | — | Entanglement & Geometry | 3 | 2026-10-08 |
+| 1093 | Ramon Torres | — | Quantum Gravity | 3 | 2026-09-24 |
+| 1094 | Rana Muhammad Zulqarnain | — | Entanglement & Geometry | 3 | 2026-08-15 |
+| 1095 | Rathindra Nath Das | — | AdS/CFT, CFT | 3 | 2026-06-11 |
+| 1096 | Ratul Mahanta | — | String Theory | 3 | 2026-08-01 |
+| 1097 | Raul Aguero-Santacruz | — | Geometric Gravity, Quantum Gravity | 3 | 2026-07-04 |
+| 1098 | Raul Jimenez | — | AdS/CFT | 3 | 2026-07-02 |
+| 1099 | Remo Garattini | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 3 | 2026-09-01 |
+| 1100 | Ricardo Perez-Martinez | — | String Theory | 3 | 2026-09-27 |
+| 1101 | Riccardo Gandolfo | — | Quantum Gravity | 3 | 2026-06-18 |
+| 1102 | Riccardo Salto | — | AdS/CFT, String Theory | 3 | 2026-10-02 |
+| 1103 | Riccardo Sturani | — | Asymptotic Symmetries | 3 | 2026-09-27 |
+| 1104 | Riccardo Travaglino | — | Entanglement & Geometry | 3 | 2026-06-21 |
+| 1105 | Richard R. Allen | — | Entanglement & Geometry | 3 | 2026-09-06 |
+| 1106 | Richard Van Dongen | — | AdS/CFT, CFT | 3 | 2026-06-27 |
+| 1107 | Rinkesh Panigrahi | — | AdS/CFT, Celestial Holography, Quantum Gravity | 3 | 2026-06-11 |
+| 1108 | Ritabrata Bhattacharya | — | AdS/CFT, CFT, String Theory | 3 | 2026-07-31 |
+| 1109 | Robert Mann | — | AdS/CFT, CFT | 3 | 2026-08-06 |
+| 1110 | Roberto Casadio | — | Quantum Gravity | 3 | 2026-08-15 |
+| 1111 | Robi Peschanski | — | Entanglement & Geometry | 3 | 2026-11-07 |
+| 1112 | Robie A. Hennigar | — | AdS/CFT | 3 | 2026-09-20 |
+| 1113 | Rodolfo Russo | — | CFT | 3 | 2026-06-21 |
+| 1114 | Rodrigo Schmidt Pitombo | — | AdS/CFT, String Theory | 3 | 2026-06-11 |
+| 1115 | Roldao da Rocha | — | AdS/CFT, Geometric Gravity | 3 | 2026-11-07 |
+| 1116 | Romain Ruzziconi | — | AdS/CFT, CFT, Celestial Holography, String Theory | 3 | 2026-09-26 |
+| 1117 | Romain Usciati | — | CFT | 3 | 2026-08-06 |
+| 1118 | Romuald A. Janik | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-11-07 |
+| 1119 | Ronald Reid-Edwards | — | AdS/CFT, String Theory | 3 | 2026-11-07 |
+| 1120 | Roukaya Dekhil | — | Quantum Gravity | 3 | 2026-08-15 |
+| 1121 | Ruben Minasian | — | String Theory | 3 | 2026-09-12 |
+| 1122 | Rustam Ibadov | — | Quantum Gravity | 3 | 2026-06-19 |
+| 1123 | Ryan A. Lanzetta | — | CFT | 3 | 2026-09-06 |
+| 1124 | S. Lacroix | — | CFT | 3 | 2026-10-25 |
+| 1125 | S. M. Rupf | — | Quantum Gravity | 3 | 2026-11-13 |
+| 1126 | Sabahat | — | AdS/CFT, Geometric Gravity | 3 | 2026-07-25 |
+| 1127 | Saheb Soroushfar | — | AdS/CFT | 3 | 2026-10-23 |
+| 1128 | Sahil Devdutt | — | Geometric Gravity | 3 | 2026-08-29 |
+| 1129 | Salah Eddine Ennadifi | — | String Theory | 3 | 2026-08-15 |
+| 1130 | Samim Akhtar | — | Asymptotic Symmetries | 3 | 2026-09-27 |
+| 1131 | Samuel Shuman | — | Quantum Gravity | 3 | 2026-06-07 |
+| 1132 | Sanjaye Ramgoolam | — | String Theory | 3 | 2026-07-31 |
+| 1133 | Sanved Kolekar | — | AdS/CFT | 3 | 2026-06-12 |
+| 1134 | Saptaswa Ghosh | — | AdS/CFT, CFT, Celestial Holography | 3 | 2026-08-20 |
+| 1135 | Sara Zeko | — | Celestial Holography, String Theory | 3 | 2026-07-09 |
+| 1136 | Sarah Hoback | — | AdS/CFT, CFT | 3 | 2026-07-03 |
+| 1137 | Sarben Sarkar | — | Quantum Gravity | 3 | 2026-05-17 |
+| 1138 | Sarbinaz Bazarbaeva | — | AdS/CFT | 3 | 2026-07-18 |
+| 1139 | Sardor Murodov | — | Asymptotic Symmetries, Entanglement & Geometry | 3 | 2026-09-19 |
+| 1140 | Sarunas Verner | — | String Theory | 3 | 2026-07-03 |
+| 1141 | Sashideep Gutti | — | CFT | 3 | 2026-08-01 |
+| 1142 | Satimbay Palvanov | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-07-16 |
+| 1143 | Saul Ramos-Sanchez | — | String Theory | 3 | 2026-09-27 |
+| 1144 | Savdeep Sethi | — | AdS/CFT, String Theory | 3 | 2026-10-11 |
+| 1145 | Sayan Chakrabarti | — | Entanglement & Geometry | 3 | 2026-11-13 |
+| 1146 | Saúl Pilatowsky-Cameo | — | Entanglement & Geometry | 3 | 2026-09-06 |
+| 1147 | Scott Collier | — | CFT, String Theory | 3 | 2026-10-04 |
+| 1148 | Sean Seet | — | AdS/CFT, String Theory | 3 | 2026-11-07 |
+| 1149 | Sebastian Dreizler | — | CFT | 3 | 2026-09-12 |
+| 1150 | Seolhwa Kim | — | Celestial Holography, Quantum Gravity | 3 | 2026-07-17 |
+| 1151 | Sepideh Bakhoda | — | AdS/CFT, Quantum Gravity | 3 | 2026-06-14 |
+| 1152 | Sepideh Forouzi | — | CFT | 3 | 2026-07-30 |
+| 1153 | Sergei Nechaev | — | Quantum Gravity | 3 | 2026-10-04 |
+| 1154 | Sergey N. Solodukhin | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-10-11 |
+| 1155 | Sergio Cacciatori | — | AdS/CFT | 3 | 2026-10-23 |
+| 1156 | Sergio Cerezo-Roquebrún | — | CFT, Entanglement & Geometry | 3 | 2026-07-12 |
+| 1157 | Sergio Sanjurjo | — | AdS/CFT, String Theory | 3 | 2026-11-15 |
+| 1158 | Seyed Naseh Sajadi | — | AdS/CFT, Geometric Gravity | 3 | 2026-08-23 |
+| 1159 | Shai M. Chester | — | AdS/CFT, CFT, String Theory | 3 | 2026-09-28 |
+| 1160 | Shao-Chen Ho | — | Entanglement & Geometry | 3 | 2026-05-24 |
+| 1161 | Shao-Feng Wu | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-08-20 |
+| 1162 | Shauvik Biswas | — | Entanglement & Geometry | 3 | 2026-11-13 |
+| 1163 | Shiki Yoshikawa | — | AdS/CFT, CFT | 3 | 2026-05-28 |
+| 1164 | Shin Sasaki | — | String Theory | 3 | 2026-08-02 |
+| 1165 | Shinsei Ryu | — | CFT, Quantum Gravity | 3 | 2026-11-15 |
+| 1166 | Shirshendu Ganguly | — | Quantum Gravity | 3 | 2026-10-11 |
+| 1167 | Shiyang Chen | — | AdS/CFT, CFT | 3 | 2026-09-24 |
+| 1168 | Shokhzod Jumaniyozov | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-07-16 |
+| 1169 | Shokir Tursunov | — | AdS/CFT | 3 | 2026-07-18 |
+| 1170 | Shota Saito | — | String Theory | 3 | 2026-09-03 |
+| 1171 | Shotaro Kawanago | — | String Theory | 3 | 2026-09-03 |
+| 1172 | Shreyas Punacha | — | AdS/CFT | 3 | 2026-10-22 |
+| 1173 | Shu-Heng Shao | — | Entanglement & Geometry | 3 | 2026-11-06 |
+| 1174 | Shubhashis Mallik | — | Entanglement & Geometry | 3 | 2026-09-06 |
+| 1175 | Shulan Li | — | AdS/CFT, Geometric Gravity | 3 | 2026-08-16 |
+| 1176 | Si-wen Li | — | AdS/CFT | 3 | 2026-06-27 |
+| 1177 | Sichun Sun | — | AdS/CFT, Geometric Gravity | 3 | 2026-07-25 |
+| 1178 | Sid Maibach | — | CFT | 3 | 2026-08-26 |
+| 1179 | Siddhant Tiwari | — | CFT | 3 | 2026-06-20 |
+| 1180 | Simon Beaudoin | — | String Theory | 3 | 2026-07-04 |
+| 1181 | Simone D'Onofrio | — | AdS/CFT, Geometric Gravity | 3 | 2026-10-11 |
+| 1182 | Simone Giombi | — | AdS/CFT, CFT | 3 | 2026-07-24 |
+| 1183 | Sinong Liu | — | String Theory | 3 | 2026-07-03 |
+| 1184 | Sobhan Kazempour | — | AdS/CFT, Geometric Gravity | 3 | 2026-07-25 |
+| 1185 | Sohail | — | Entanglement & Geometry | 3 | 2026-06-19 |
+| 1186 | Soham Sen | — | Quantum Gravity | 3 | 2026-06-11 |
+| 1187 | Soonwon Choi | — | Entanglement & Geometry | 3 | 2026-09-06 |
+| 1188 | Sophie Mutzel | — | Entanglement & Geometry | 3 | 2026-09-20 |
+| 1189 | Sotirios Mygdalas | — | Quantum Gravity, String Theory | 3 | 2026-10-10 |
+| 1190 | Sotirios-Neilos Vlachos | — | Quantum Gravity | 3 | 2026-05-17 |
+| 1191 | Soumen Pari | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 3 | 2026-07-16 |
+| 1192 | Sourav Bhattacharya | — | Quantum Gravity | 3 | 2026-06-18 |
+| 1193 | Sourav Roychowdhury | — | AdS/CFT, String Theory | 3 | 2026-11-13 |
+| 1194 | Souvik Ghose | — | Geometric Gravity | 3 | 2026-06-13 |
+| 1195 | Spencer Stubbs | — | CFT | 3 | 2026-09-24 |
+| 1196 | Sreeshma A | — | AdS/CFT, Geometric Gravity | 3 | 2026-11-01 |
+| 1197 | Sruthi A. Narayanan | — | CFT, Celestial Holography | 3 | 2026-07-04 |
+| 1198 | Stefan Hohenegger | — | Quantum Gravity | 3 | 2026-11-13 |
+| 1199 | Stefan Prohazka | — | Asymptotic Symmetries | 3 | 2026-09-03 |
+| 1200 | Stefano Carignano | — | CFT, Entanglement & Geometry | 3 | 2026-07-12 |
+| 1201 | Stefano Liberati | — | Quantum Gravity | 3 | 2026-08-15 |
+| 1202 | Stefano Lionetti | — | CFT | 3 | 2026-08-09 |
+| 1203 | Stefano Maurelli | — | AdS/CFT, String Theory | 3 | 2026-07-30 |
+| 1204 | Stefano Stocchetti | — | Quantum Gravity | 3 | 2026-07-19 |
+| 1205 | Stefanos R. Kousvos | — | CFT | 3 | 2026-11-05 |
+| 1206 | Stepan N. Andreev | — | Quantum Gravity | 3 | 2026-07-18 |
+| 1207 | Stephen D. H. Hsu | — | AdS/CFT, Quantum Gravity | 3 | 2026-08-22 |
+| 1208 | Subhroneel Chakrabarti | — | AdS/CFT, String Theory | 3 | 2026-06-19 |
+| 1209 | Suchetan Das | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 3 | 2026-06-13 |
+| 1210 | Suddhasattwa Brahma | — | Entanglement & Geometry | 3 | 2026-07-04 |
+| 1211 | Sudip Ghosh | — | AdS/CFT, CFT | 3 | 2026-06-19 |
+| 1212 | Sudipta Dutta | — | AdS/CFT, CFT, Celestial Holography | 3 | 2026-06-27 |
+| 1213 | Supakchai Ponglertsakul | — | AdS/CFT, Geometric Gravity | 3 | 2026-08-23 |
+| 1214 | Suresh Govindarajan | — | CFT | 3 | 2026-09-20 |
+| 1215 | Suresh Nampuri | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 3 | 2026-07-17 |
+| 1216 | Susana F. Huelga | — | Quantum Gravity | 3 | 2026-07-03 |
+| 1217 | Sushant G. Ghosh | — | Quantum Gravity | 3 | 2026-06-13 |
+| 1218 | Sven Höfling | — | AdS/CFT, CFT | 3 | 2026-06-11 |
+| 1219 | Sébastien Reymond | — | AdS/CFT, String Theory | 3 | 2026-06-28 |
+| 1220 | T. Banks | — | AdS/CFT, Quantum Gravity | 3 | 2026-08-15 |
+| 1221 | T. L. Campos | — | AdS/CFT | 3 | 2026-08-20 |
+| 1222 | T. P. Shestakova | — | Quantum Gravity | 3 | 2026-07-25 |
+| 1223 | T. Pedroni | — | CFT | 3 | 2026-10-25 |
+| 1224 | T. Thiemann | — | Quantum Gravity | 3 | 2026-06-26 |
+| 1225 | Takashi Okamura | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-11-05 |
+| 1226 | Tanay Pathak | — | Entanglement & Geometry | 3 | 2026-08-13 |
+| 1227 | Tanmoy Paul | — | AdS/CFT, Geometric Gravity | 3 | 2026-10-11 |
+| 1228 | Tanmoy Sengupta | — | CFT | 3 | 2026-11-06 |
+| 1229 | Tapas K. Das | — | Geometric Gravity | 3 | 2026-06-13 |
+| 1230 | Tatjana Vukašinac | — | Asymptotic Symmetries, Celestial Holography | 3 | 2026-08-02 |
+| 1231 | Themistocles Zikopoulos | — | AdS/CFT, String Theory | 3 | 2026-11-15 |
+| 1232 | Thomas M. Sangy | — | Quantum Gravity | 3 | 2026-08-13 |
+| 1233 | Thomas Tappeiner | — | Quantum Gravity | 3 | 2026-08-08 |
+| 1234 | Tian Lan | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-10-09 |
+| 1235 | Tian-Shun Chen | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-08-20 |
+| 1236 | Tianhao Wu | — | AdS/CFT, CFT, String Theory | 3 | 2026-08-16 |
+| 1237 | Tien Hsieh | — | Entanglement & Geometry | 3 | 2026-05-24 |
+| 1238 | Tim Eckert | — | Asymptotic Symmetries, Quantum Gravity | 3 | 2026-10-24 |
+| 1239 | Tim Schuhmann | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-08-13 |
+| 1240 | Titus K. Mathew | — | AdS/CFT, Geometric Gravity | 3 | 2026-09-05 |
+| 1241 | Tobias Huber-Loyola | — | AdS/CFT, CFT | 3 | 2026-06-11 |
+| 1242 | Tobias Rindlisbacher | — | Entanglement & Geometry | 3 | 2026-07-10 |
+| 1243 | Toby Cubitt | — | Quantum Gravity | 3 | 2026-10-04 |
+| 1244 | Tokiro Numasawa | — | Quantum Gravity, String Theory | 3 | 2026-07-09 |
+| 1245 | Tom A. W. Wolterink | — | AdS/CFT, CFT | 3 | 2026-06-11 |
+| 1246 | Tomaž Prosen | — | Entanglement & Geometry | 3 | 2026-08-13 |
+| 1247 | Tommaso Bambagiotti | — | Quantum Gravity | 3 | 2026-08-15 |
+| 1248 | Tommaso Canneti | — | AdS/CFT | 3 | 2026-08-28 |
+| 1249 | Torsten V. Zache | — | Quantum Gravity | 3 | 2026-11-07 |
+| 1250 | Trakshu Sharma | — | AdS/CFT, CFT | 3 | 2026-06-19 |
+| 1251 | Trinidad B. Lantaño | — | Quantum Gravity | 3 | 2026-07-03 |
+| 1252 | Tristan Hübsch | — | Quantum Gravity, String Theory | 3 | 2026-10-16 |
+| 1253 | Tsuyoshi Okubo | — | Entanglement & Geometry | 3 | 2026-11-13 |
+| 1254 | Tuhin Chatterjee | — | Quantum Gravity | 3 | 2026-06-11 |
+| 1255 | Tursunali Xamidov | — | AdS/CFT | 3 | 2026-11-01 |
+| 1256 | Tushar Waghmare | — | Quantum Gravity | 3 | 2026-09-20 |
+| 1257 | U. K. Khidirov | — | Entanglement & Geometry | 3 | 2026-08-23 |
+| 1258 | Ugo Moschella | — | AdS/CFT | 3 | 2026-10-23 |
+| 1259 | Ulf Leonhardt | — | Geometric Gravity, Quantum Gravity | 3 | 2026-07-04 |
+| 1260 | Umair Anwar | — | Quantum Gravity | 3 | 2026-08-20 |
+| 1261 | V. F. C. Belo | — | Quantum Gravity | 3 | 2026-11-13 |
+| 1262 | V. S. Khiteev | — | AdS/CFT, CFT | 3 | 2026-09-27 |
+| 1263 | Valery E. Lyubovitskij | — | AdS/CFT | 3 | 2026-10-02 |
+| 1264 | Valle Varo | — | Celestial Holography | 3 | 2026-06-28 |
+| 1265 | Vania Vellucci | — | Geometric Gravity | 3 | 2026-06-26 |
+| 1266 | Vasco Gonçalves | — | AdS/CFT, CFT | 3 | 2026-10-02 |
+| 1267 | Vazha Loladze | — | AdS/CFT | 3 | 2026-08-16 |
+| 1268 | Venkatesa Chandrasekaran | — | Quantum Gravity | 3 | 2026-06-07 |
+| 1269 | Victor Ginsburg | — | Quantum Gravity | 3 | 2026-10-11 |
+| 1270 | Victor Gorbenko | — | AdS/CFT, String Theory | 3 | 2026-11-01 |
+| 1271 | Victor Saulquin | — | String Theory | 3 | 2026-07-04 |
+| 1272 | Viktor Mirjanić | — | String Theory | 3 | 2026-06-28 |
+| 1273 | Vincent Lahoche | — | Quantum Gravity | 3 | 2026-09-26 |
+| 1274 | Vincenzo Branchina | — | Quantum Gravity | 3 | 2026-06-18 |
+| 1275 | Vishal Gayari | — | AdS/CFT, CFT, Quantum Gravity | 3 | 2026-07-26 |
+| 1276 | Vishnu Rajagopal | — | Quantum Gravity | 3 | 2026-07-30 |
+| 1277 | Vitalii Vertogradov | — | Entanglement & Geometry | 3 | 2026-09-12 |
+| 1278 | Vladimir Juričić | — | Entanglement & Geometry | 3 | 2026-08-15 |
+| 1279 | Vladimir Kazakov | — | Quantum Gravity, String Theory | 3 | 2026-07-03 |
+| 1280 | Vladimir Narovlansky | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-09-27 |
+| 1281 | Volodymyr Takhistov | — | Quantum Gravity | 3 | 2026-06-11 |
+| 1282 | Vyshnav Mohan | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 3 | 2026-06-12 |
+| 1283 | Waheed A. Dar | — | AdS/CFT, Celestial Holography, Quantum Gravity | 3 | 2026-06-11 |
+| 1284 | Wei-Hsiang Shao | — | Quantum Gravity | 3 | 2026-06-21 |
+| 1285 | Weike Deng | — | AdS/CFT, Entanglement & Geometry | 3 | 2026-09-03 |
+| 1286 | Wen-Xiang Chen | — | Geometric Gravity | 3 | 2026-11-08 |
+| 1287 | Wen-Zheng Chen | — | AdS/CFT, Geometric Gravity | 3 | 2026-08-16 |
+| 1288 | Wendelin Werner | — | CFT, Quantum Gravity | 3 | 2026-10-25 |
+| 1289 | Wentao Cui | — | AdS/CFT, Quantum Gravity | 3 | 2026-07-18 |
+| 1290 | Wenxing Cheng | — | AdS/CFT | 3 | 2026-06-18 |
+| 1291 | Wijnand Steneker | — | Celestial Holography | 3 | 2026-07-02 |
+| 1292 | Wilfried Buchmuller | — | AdS/CFT, Quantum Gravity | 3 | 2026-10-11 |
+| 1293 | William Ballik | — | AdS/CFT, Geometric Gravity | 3 | 2026-07-02 |
+| 1294 | Wioletta Ruszel | — | CFT | 3 | 2026-09-12 |
+| 1295 | Xavier Calmet | — | AdS/CFT, Quantum Gravity | 3 | 2026-08-22 |
+| 1296 | Xi Yin | — | AdS/CFT, CFT, String Theory | 3 | 2026-11-09 |
+| 1297 | Xi-Yang Ran | — | AdS/CFT, CFT | 3 | 2026-06-11 |
+| 1298 | Xiancong Luo | — | Entanglement & Geometry | 3 | 2026-07-04 |
+| 1299 | Xiang-Gan Liu | — | String Theory | 3 | 2026-09-27 |
+| 1300 | Xiangwen Guan | — | AdS/CFT, String Theory | 3 | 2026-06-28 |
+| 1301 | Xiankai Pang | — | Quantum Gravity | 3 | 2026-10-16 |
+| 1302 | Xiao-Han Ma | — | Quantum Gravity | 3 | 2026-06-11 |
+| 1303 | Xiao-Kan Guo | — | Quantum Gravity | 3 | 2026-10-16 |
+| 1304 | Xiaowei Li | — | AdS/CFT | 3 | 2026-07-19 |
+| 1305 | Xin Zhang | — | AdS/CFT | 3 | 2026-09-05 |
+| 1306 | Xin Zhao | — | Entanglement & Geometry | 3 | 2026-07-09 |
+| 1307 | Xin-Chen He | — | Quantum Gravity | 3 | 2026-06-11 |
+| 1308 | Xin-Hao Zhou | — | CFT, Celestial Holography | 3 | 2026-06-07 |
+| 1309 | Xing-Kun Zhang | — | Entanglement & Geometry | 3 | 2026-07-09 |
+| 1310 | Xinwu Liu | — | AdS/CFT | 3 | 2026-10-22 |
+| 1311 | Xue-Ke Song | — | Entanglement & Geometry | 3 | 2026-10-11 |
+| 1312 | Xueda Wen | — | CFT | 3 | 2026-07-03 |
+| 1313 | Xuefeng Zhao | — | Geometric Gravity | 3 | 2026-08-09 |
+| 1314 | Y. Gomez-Leyton | — | Entanglement & Geometry | 3 | 2026-09-12 |
+| 1315 | Ya-Peng Hu | — | Entanglement & Geometry | 3 | 2026-07-09 |
+| 1316 | Yan Liu | — | AdS/CFT | 3 | 2026-09-24 |
+| 1317 | Yan-qing Zhao | — | AdS/CFT | 3 | 2026-06-27 |
+| 1318 | Yang Lei | — | Quantum Gravity | 3 | 2026-07-30 |
+| 1319 | Yang Wang | — | AdS/CFT, CFT | 3 | 2026-09-24 |
+| 1320 | Yang Zhao | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-08-13 |
+| 1321 | Yannick Mvondo-She | — | AdS/CFT, CFT | 3 | 2026-06-18 |
+| 1322 | Yassine Sekhmani | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-07-16 |
+| 1323 | Yasuaki Hikida | — | AdS/CFT, CFT, Quantum Gravity | 3 | 2026-10-25 |
+| 1324 | Yasusada Nambu | — | Celestial Holography, Quantum Gravity | 3 | 2026-08-15 |
+| 1325 | Yen Chin Ong | — | Entanglement & Geometry, Geometric Gravity, Quantum Gravity | 3 | 2026-11-03 |
+| 1326 | Yi Tian | — | Quantum Gravity | 3 | 2026-06-12 |
+| 1327 | Yi-An Yao | — | CFT | 3 | 2026-05-28 |
+| 1328 | Yi-Xiao Tao | — | AdS/CFT, String Theory | 3 | 2026-06-11 |
+| 1329 | Yidan Zhang | — | Entanglement & Geometry | 3 | 2026-06-28 |
+| 1330 | Yiming Chen | — | AdS/CFT | 3 | 2026-07-18 |
+| 1331 | Yiru Wang | — | AdS/CFT, CFT, Celestial Holography | 3 | 2026-10-31 |
+| 1332 | Yo-Chung Ko | — | Entanglement & Geometry | 3 | 2026-05-24 |
+| 1333 | Yoav Zigdon | — | AdS/CFT, CFT | 3 | 2026-10-24 |
+| 1334 | Yong Zhang | — | CFT, String Theory | 3 | 2026-10-25 |
+| 1335 | Yu Wang | — | Quantum Gravity | 3 | 2026-07-19 |
+| 1336 | Yu-Ping An | — | AdS/CFT | 3 | 2026-10-02 |
+| 1337 | Yu-Sen An | — | Entanglement & Geometry | 3 | 2026-07-09 |
+| 1338 | Yu-Xuan Wei | — | CFT, Celestial Holography | 3 | 2026-06-07 |
+| 1339 | Yu-tin Huang | — | Asymptotic Symmetries | 3 | 2026-09-12 |
+| 1340 | Yuan Zhong | — | AdS/CFT | 3 | 2026-07-18 |
+| 1341 | Yuber F. Perez-Gonzalez | — | Quantum Gravity | 3 | 2026-06-07 |
+| 1342 | Yun-Ze Li | — | CFT | 3 | 2026-08-09 |
+| 1343 | Yunfeng Jiang | — | CFT | 3 | 2026-06-21 |
+| 1344 | Yuntai Song | — | CFT, Entanglement & Geometry | 3 | 2026-08-09 |
+| 1345 | Yusuke Makita | — | Entanglement & Geometry | 3 | 2026-05-24 |
+| 1346 | Yutaka Yoshida | — | AdS/CFT, CFT | 3 | 2026-09-18 |
+| 1347 | Yuxiao Xie | — | CFT | 3 | 2026-10-18 |
+| 1348 | Zakariae Ennadifi | — | String Theory | 3 | 2026-08-15 |
+| 1349 | Zan Cao | — | Entanglement & Geometry | 3 | 2026-10-11 |
+| 1350 | Ze-Xuan Xiong | — | Asymptotic Symmetries | 3 | 2026-08-22 |
+| 1351 | Zejun Liu | — | CFT, Entanglement & Geometry | 3 | 2026-08-09 |
+| 1352 | Zhan-Feng Mai | — | Entanglement & Geometry, Geometric Gravity | 3 | 2026-06-07 |
+| 1353 | Zhang-Yu Nie | — | AdS/CFT | 3 | 2026-09-05 |
+| 1354 | Zhaoyu Wang | — | Entanglement & Geometry | 3 | 2026-06-28 |
+| 1355 | Zhehan Li | — | AdS/CFT, CFT | 3 | 2026-07-23 |
+| 1356 | Zhen-Tao He | — | AdS/CFT | 3 | 2026-07-18 |
+| 1357 | Zhenbin Yang | — | AdS/CFT | 3 | 2026-07-18 |
+| 1358 | Zhengcheng Gu | — | AdS/CFT, CFT, Entanglement & Geometry | 3 | 2026-10-09 |
+| 1359 | Zhengping Gui | — | CFT | 3 | 2026-08-08 |
+| 1360 | Zhengwei Liu | — | AdS/CFT | 3 | 2026-09-26 |
+| 1361 | Zhengyan Darius Shi | — | CFT | 3 | 2026-08-30 |
+| 1362 | Zhengyuan Du | — | AdS/CFT | 3 | 2026-09-24 |
+| 1363 | Zhi-Fu Gao | — | Quantum Gravity | 3 | 2026-08-13 |
+| 1364 | Zhihan Liu | — | Asymptotic Symmetries, Celestial Holography | 3 | 2026-08-06 |
+| 1365 | Zhou-Jian Cao | — | Quantum Gravity | 3 | 2026-08-13 |
+| 1366 | Zi-Hao Li | — | AdS/CFT | 3 | 2026-09-18 |
+| 1367 | Zi-Qiang Zhao | — | AdS/CFT | 3 | 2026-09-05 |
+| 1368 | Zi-qiang Zhang | — | AdS/CFT | 3 | 2026-06-18 |
+| 1369 | Zijian Liu | — | CFT, Celestial Holography | 3 | 2026-06-21 |
+| 1370 | Zishuo Zhao | — | AdS/CFT | 3 | 2026-09-26 |
+| 1371 | Ziyi Li | — | AdS/CFT, String Theory | 3 | 2026-10-16 |
+| 1372 | Ziyu Dong | — | Quantum Gravity | 3 | 2026-11-13 |
+| 1373 | Zong-Zhe Du | — | AdS/CFT, CFT | 3 | 2026-10-09 |
+| 1374 | Éanna É. Flanagan | — | Asymptotic Symmetries, Celestial Holography | 3 | 2026-08-06 |
+| 1375 | Časlav Brukner | — | Quantum Gravity | 3 | 2026-08-20 |
+| 1376 | A. A. Araújo Filho | — | Geometric Gravity | 2 | 2026-07-02 |
+| 1377 | A. Alexandrov | — | CFT | 2 | 2026-08-12 |
+| 1378 | A. Bhadra | — | Quantum Gravity | 2 | 2026-07-01 |
+| 1379 | A. Chakraborty | — | Geometric Gravity | 2 | 2026-07-18 |
+| 1380 | A. Errehymy | — | Entanglement & Geometry | 2 | 2026-10-21 |
+| 1381 | A. Errehymy G. Yergaliyeva | — | Entanglement & Geometry | 2 | 2026-10-21 |
+| 1382 | A. Faraggi | — | AdS/CFT | 2 | 2026-07-18 |
+| 1383 | A. Khaleghi Ardabili | — | Quantum Gravity | 2 | 2026-07-31 |
+| 1384 | A. López-Hormazábal | — | Entanglement & Geometry | 2 | 2026-10-29 |
+| 1385 | A. Restuccia | — | String Theory | 2 | 2026-07-11 |
+| 1386 | A. Stratoudakis | — | AdS/CFT, CFT | 2 | 2026-07-02 |
+| 1387 | Aalok Misra | — | AdS/CFT, String Theory | 2 | 2026-08-29 |
+| 1388 | Aaron G. Markowitz | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1389 | Aashish A. Clerk | — | CFT | 2 | 2026-09-10 |
+| 1390 | Abdel Pérez-Lorenzana | — | Quantum Gravity | 2 | 2026-09-24 |
+| 1391 | Abdelmalek Bouzenada | — | Quantum Gravity | 2 | 2026-05-27 |
+| 1392 | Abhishek Rout | — | Quantum Gravity, String Theory | 2 | 2026-08-27 |
+| 1393 | Able Martinez | — | Asymptotic Symmetries | 2 | 2026-10-01 |
+| 1394 | Achilleas Gitsis | — | String Theory | 2 | 2026-07-09 |
+| 1395 | Achilleas Passias | — | AdS/CFT, String Theory | 2 | 2026-10-22 |
+| 1396 | Achilleas V. Koukas | — | AdS/CFT, Celestial Holography | 2 | 2026-10-24 |
+| 1397 | Adam Kmec | — | AdS/CFT, CFT | 2 | 2026-09-26 |
+| 1398 | Adar Sharon | — | AdS/CFT, CFT | 2 | 2026-11-12 |
+| 1399 | Adarsh Sudhakar | — | CFT | 2 | 2026-10-10 |
+| 1400 | Adi Armoni | — | AdS/CFT, String Theory | 2 | 2026-07-09 |
+| 1401 | Adithya A Rao | — | CFT | 2 | 2026-08-21 |
+| 1402 | Aditi V. Chandra | — | CFT, String Theory | 2 | 2026-07-18 |
+| 1403 | Aditya Sharma | — | Celestial Holography | 2 | 2026-08-08 |
+| 1404 | Adrian Kent | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1405 | Adrian Lupascu | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1406 | Adriano Chialastri | — | Entanglement & Geometry | 2 | 2026-05-28 |
+| 1407 | Agnaldo A. da Silva | — | String Theory | 2 | 2026-08-26 |
+| 1408 | Agus Purwanto | — | Entanglement & Geometry | 2 | 2026-05-28 |
+| 1409 | Agya Sewara Alam | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1410 | Ahmad Moradpouri | — | CFT, String Theory | 2 | 2026-07-01 |
+| 1411 | Ahmed Rakin Kamal | — | String Theory | 2 | 2026-06-27 |
+| 1412 | Ahmet Cem Erdoğan | — | Geometric Gravity | 2 | 2026-09-10 |
+| 1413 | Ai-chen Li | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-09-11 |
+| 1414 | Aidan Herderschee | — | CFT, String Theory | 2 | 2026-07-18 |
+| 1415 | Akashdeep Roy | — | AdS/CFT, CFT | 2 | 2026-09-30 |
+| 1416 | Alan Rios Fukelman | — | Entanglement & Geometry | 2 | 2026-11-12 |
+| 1417 | Alba Grassi | — | AdS/CFT, CFT | 2 | 2026-10-30 |
+| 1418 | Albert Roura | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1419 | Albert Schwarz | — | Geometric Gravity | 2 | 2026-07-22 |
+| 1420 | Alberto Zaffaroni | — | AdS/CFT, CFT | 2 | 2026-10-08 |
+| 1421 | Alejandro Rueda | — | Geometric Gravity | 2 | 2026-07-15 |
+| 1422 | Alessandra Gnecchi | — | CFT | 2 | 2026-09-03 |
+| 1423 | Alessandro Pesci | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1424 | Alessandro Tomasiello | — | AdS/CFT, String Theory | 2 | 2026-10-09 |
+| 1425 | Alessio Miscioscia | — | CFT | 2 | 2026-07-30 |
+| 1426 | Alex Goodenbour | — | AdS/CFT, CFT | 2 | 2026-09-26 |
+| 1427 | Alexander Frenkel | — | Entanglement & Geometry, Quantum Gravity, String Theory | 2 | 2026-10-01 |
+| 1428 | Alexander Jahn | — | Quantum Gravity | 2 | 2026-08-13 |
+| 1429 | Alexander Stewart | — | Quantum Gravity | 2 | 2026-07-25 |
+| 1430 | Alexander Zhiboedov | — | CFT, String Theory | 2 | 2026-08-29 |
+| 1431 | Alexandros Zarafonitis | — | AdS/CFT, String Theory | 2 | 2026-11-12 |
+| 1432 | Alexandru Lupsasca | — | AdS/CFT, Asymptotic Symmetries, String Theory | 2 | 2026-08-28 |
+| 1433 | Alfio M. Bonanno | — | Quantum Gravity | 2 | 2026-10-22 |
+| 1434 | Ali Mohammadpour | — | Quantum Gravity | 2 | 2026-06-13 |
+| 1435 | Alireza Maleki | — | Quantum Gravity | 2 | 2026-08-29 |
+| 1436 | Aliv Sahoo | — | Quantum Gravity | 2 | 2026-11-12 |
+| 1437 | Allan R. P. Moreira | — | Quantum Gravity | 2 | 2026-05-27 |
+| 1438 | Alonso Perez-Lona | — | AdS/CFT | 2 | 2026-06-06 |
+| 1439 | Alvaro Herráez | — | String Theory | 2 | 2026-09-03 |
+| 1440 | Amartya Saha | — | Celestial Holography | 2 | 2026-09-10 |
+| 1441 | Amaury Lhoste | — | CFT | 2 | 2026-09-24 |
+| 1442 | Ameya Kadhe | — | Asymptotic Symmetries | 2 | 2026-11-14 |
+| 1443 | Amilcar R. Queiroz | — | Geometric Gravity | 2 | 2026-07-02 |
+| 1444 | Amilson R. Fritsch | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-04 |
+| 1445 | Amit Giveon | — | AdS/CFT, CFT | 2 | 2026-09-12 |
+| 1446 | Amit Sever | — | String Theory | 2 | 2026-07-04 |
+| 1447 | Amit Vikram | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-18 |
+| 1448 | Ana-Maria Raclariu | — | Asymptotic Symmetries | 2 | 2026-10-29 |
+| 1449 | Anatoly Konechny | — | CFT | 2 | 2026-10-24 |
+| 1450 | Anders Wallberg | — | AdS/CFT, String Theory | 2 | 2026-10-23 |
+| 1451 | Andre Kornell | — | Quantum Gravity | 2 | 2026-09-04 |
+| 1452 | Andrea Bulgarelli | — | Entanglement & Geometry | 2 | 2026-05-28 |
+| 1453 | Andrea P. Sanna | — | Quantum Gravity | 2 | 2026-10-30 |
+| 1454 | Andrea Puhm | — | Asymptotic Symmetries | 2 | 2026-11-14 |
+| 1455 | Andreas Gleis | — | CFT | 2 | 2026-08-15 |
+| 1456 | Andreas Gustavsson | — | AdS/CFT, CFT | 2 | 2026-08-07 |
+| 1457 | Andreas Helset | — | Asymptotic Symmetries | 2 | 2026-08-01 |
+| 1458 | Andreas Karch | — | AdS/CFT, CFT | 2 | 2026-09-17 |
+| 1459 | Andreas Schachner | — | AdS/CFT, String Theory | 2 | 2026-09-17 |
+| 1460 | Andrei Katsevich | — | CFT | 2 | 2026-09-12 |
+| 1461 | Andrew Burbanks | — | Quantum Gravity | 2 | 2026-07-24 |
+| 1462 | Andrew Geraci | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1463 | Andrew Laeuger | — | Asymptotic Symmetries | 2 | 2026-09-19 |
+| 1464 | Andrew Lucas | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-18 |
+| 1465 | André G. Henriques | — | CFT | 2 | 2026-08-27 |
+| 1466 | Andrés Collinucci | — | String Theory | 2 | 2026-07-09 |
+| 1467 | Angelo Bassi | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1468 | Anik Rudra | — | AdS/CFT, CFT | 2 | 2026-08-26 |
+| 1469 | Aninda Sinha | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1470 | Anirban Roy Chowdhury | — | Quantum Gravity | 2 | 2026-07-08 |
+| 1471 | Anna Chiara Rescigno | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1472 | Anom Trenggana | — | Quantum Gravity | 2 | 2026-06-13 |
+| 1473 | Anouchah Latifi | — | AdS/CFT | 2 | 2026-07-10 |
+| 1474 | Anson Hook | — | String Theory | 2 | 2026-09-12 |
+| 1475 | Antal Jevicki | — | AdS/CFT | 2 | 2026-07-08 |
+| 1476 | Antoine Soulas | — | Quantum Gravity | 2 | 2026-09-05 |
+| 1477 | Antonino Flachi | — | Quantum Gravity | 2 | 2026-07-01 |
+| 1478 | Antonino Marcianò | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1479 | Antonio F. Rotundo | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-09-05 |
+| 1480 | Antonio M. García-García | — | Quantum Gravity | 2 | 2026-07-04 |
+| 1481 | Antony Wendels | — | String Theory | 2 | 2026-10-01 |
+| 1482 | Apriadi Salim Adam | — | Entanglement & Geometry | 2 | 2026-05-28 |
+| 1483 | Ar Rohim | — | Entanglement & Geometry | 2 | 2026-05-28 |
+| 1484 | Arash Alipour Shahmiri | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-09-10 |
+| 1485 | Archana Maji | — | Quantum Gravity, String Theory | 2 | 2026-10-16 |
+| 1486 | Arda Hasar | — | String Theory | 2 | 2026-08-21 |
+| 1487 | Arhum Ansari | — | AdS/CFT, Asymptotic Symmetries | 2 | 2026-06-06 |
+| 1488 | Arindam Bhattacharya | — | CFT | 2 | 2026-09-26 |
+| 1489 | Arista Romadani | — | Entanglement & Geometry | 2 | 2026-05-28 |
+| 1490 | Aritra Banerjee | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-06-06 |
+| 1491 | Arián Gorza | — | Entanglement & Geometry | 2 | 2026-07-31 |
+| 1492 | Armin Ghazi | — | CFT, String Theory | 2 | 2026-07-01 |
+| 1493 | Arnab Kundu | — | AdS/CFT, CFT | 2 | 2026-08-01 |
+| 1494 | Arnaud Delfante | — | AdS/CFT, Asymptotic Symmetries, Celestial Holography | 2 | 2026-10-01 |
+| 1495 | Arpita Jana | — | Geometric Gravity | 2 | 2026-09-03 |
+| 1496 | Arsam Najafian | — | AdS/CFT, String Theory | 2 | 2026-11-05 |
+| 1497 | Arthur Hebecker | — | AdS/CFT, String Theory | 2 | 2026-09-17 |
+| 1498 | Arvin Shahbazi-Moghaddam | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-09-12 |
+| 1499 | Arwa Alabbasi | — | String Theory | 2 | 2026-10-03 |
+| 1500 | Ashish Khanal | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-07-01 |
+| 1501 | Astha Kakkar | — | AdS/CFT, CFT | 2 | 2026-10-16 |
+| 1502 | Aswini Bala | — | CFT | 2 | 2026-08-21 |
+| 1503 | Athanasios G. Tzikas | — | Entanglement & Geometry | 2 | 2026-08-20 |
+| 1504 | Atul Sharma | — | AdS/CFT, String Theory | 2 | 2026-10-16 |
+| 1505 | Augustine Larweh Mahu | — | AdS/CFT, CFT | 2 | 2026-08-26 |
+| 1506 | Aurélien Dersy | — | CFT | 2 | 2026-09-26 |
+| 1507 | Avi Wadhwa | — | AdS/CFT, CFT | 2 | 2026-10-16 |
+| 1508 | Avinandan Mondal | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-08-01 |
+| 1509 | Ayush Bidlan | — | AdS/CFT, Asymptotic Symmetries, Geometric Gravity, Quantum Gravity | 2 | 2026-06-24 |
+| 1510 | B. Bose | — | Quantum Gravity | 2 | 2026-09-17 |
+| 1511 | B. Yesilyurt | — | Quantum Gravity | 2 | 2026-11-04 |
+| 1512 | Baijun Zeng | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-09-17 |
+| 1513 | Baptiste Royer | — | Entanglement & Geometry | 2 | 2026-05-30 |
+| 1514 | Barry C. Sanders | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1515 | Barton Zwiebach | — | CFT, String Theory | 2 | 2026-08-14 |
+| 1516 | Bas Hensen | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1517 | Bekir Can Lütfüoğlu | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-06-09 |
+| 1518 | Ben Heidenreich | — | String Theory | 2 | 2026-07-16 |
+| 1519 | Beni Yoshida | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-10-02 |
+| 1520 | Benjamin Moy | — | CFT | 2 | 2026-08-21 |
+| 1521 | Benjamin Withers | — | AdS/CFT, CFT | 2 | 2026-07-30 |
+| 1522 | Bercel Boldis | — | AdS/CFT, CFT | 2 | 2026-07-17 |
+| 1523 | Bernardo S. Vieira | — | String Theory | 2 | 2026-08-26 |
+| 1524 | Bianka Meçaj | — | CFT | 2 | 2026-08-22 |
+| 1525 | Biao Lian | — | Entanglement & Geometry | 2 | 2026-11-12 |
+| 1526 | Bikun Li | — | Entanglement & Geometry | 2 | 2026-09-03 |
+| 1527 | Bin Gui | — | CFT | 2 | 2026-07-02 |
+| 1528 | Binsong Xiong | — | Asymptotic Symmetries | 2 | 2026-10-29 |
+| 1529 | Bintoro Anang Subagyo | — | Entanglement & Geometry | 2 | 2026-05-28 |
+| 1530 | Bob Knighton | — | AdS/CFT, CFT | 2 | 2026-07-04 |
+| 1531 | Bobby Acharya | — | String Theory | 2 | 2026-08-13 |
+| 1532 | Bobby Ezhuthachan | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-06-18 |
+| 1533 | Borja Diez | — | AdS/CFT, CFT | 2 | 2026-11-06 |
+| 1534 | Bowei Liu | — | Entanglement & Geometry | 2 | 2026-11-12 |
+| 1535 | Bowen Chen | — | Quantum Gravity | 2 | 2026-08-07 |
+| 1536 | Bowen Ouyang | — | Quantum Gravity | 2 | 2026-07-04 |
+| 1537 | Boyu Yang | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-08-08 |
+| 1538 | Brahim Asfour | — | Entanglement & Geometry, Geometric Gravity, Quantum Gravity | 2 | 2026-08-06 |
+| 1539 | Brayden Hull | — | String Theory | 2 | 2026-07-25 |
+| 1540 | Brett Altschul | — | Quantum Gravity, String Theory | 2 | 2026-08-27 |
+| 1541 | Brian D'Urso | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1542 | Brian Swingle | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-10-16 |
+| 1543 | Brijesh Thakkar | — | AdS/CFT, Asymptotic Symmetries | 2 | 2026-06-06 |
+| 1544 | Buddhadeb Ghosh | — | String Theory | 2 | 2026-10-30 |
+| 1545 | Bum-Hoon Lee | — | AdS/CFT | 2 | 2026-11-04 |
+| 1546 | Burkhard Kleihaus | — | Entanglement & Geometry | 2 | 2026-10-31 |
+| 1547 | Byoungjoon Ahn | — | AdS/CFT | 2 | 2026-07-08 |
+| 1548 | C. F. S. Pereira | — | Geometric Gravity | 2 | 2026-07-02 |
+| 1549 | C. Papageorgakis | — | AdS/CFT, CFT | 2 | 2026-07-02 |
+| 1550 | C. R. Ordóñez | — | Geometric Gravity | 2 | 2026-07-18 |
+| 1551 | Cagatay Okyay | — | AdS/CFT, CFT, String Theory | 2 | 2026-11-14 |
+| 1552 | Caius Gordon-Bruno | — | String Theory | 2 | 2026-11-11 |
+| 1553 | Camilla Lavino | — | AdS/CFT, Geometric Gravity, String Theory | 2 | 2026-07-30 |
+| 1554 | Camille Eloy | — | AdS/CFT, Geometric Gravity, String Theory | 2 | 2026-07-30 |
+| 1555 | Cara Nel | — | Quantum Gravity | 2 | 2026-08-07 |
+| 1556 | Carlo Cepollaro | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1557 | Carlo Maccaferri | — | String Theory | 2 | 2026-07-04 |
+| 1558 | Carlos Pérez-Pardavila | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-10-24 |
+| 1559 | Carlos Sabín | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1560 | Carlos Vera | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-05-28 |
+| 1561 | Catalina Curceanu | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1562 | Catherine Notman | — | CFT, String Theory | 2 | 2026-10-08 |
+| 1563 | Cemal Berfu Senisik | — | AdS/CFT, CFT, String Theory | 2 | 2026-11-14 |
+| 1564 | Chandrasekhar Bhamidipati | — | AdS/CFT, CFT | 2 | 2026-06-06 |
+| 1565 | Chang-Han Chen | — | AdS/CFT, Celestial Holography, Entanglement & Geometry | 2 | 2026-09-04 |
+| 1566 | Chanyoung Joung | — | AdS/CFT, String Theory | 2 | 2026-09-05 |
+| 1567 | Chatchai Promsiri | — | AdS/CFT, CFT | 2 | 2026-06-24 |
+| 1568 | Chenan Wei | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1569 | Chenyuan Li | — | CFT, Entanglement & Geometry | 2 | 2026-08-07 |
+| 1570 | Chi-Ming Chang | — | AdS/CFT, String Theory | 2 | 2026-09-10 |
+| 1571 | Chiara Altavista | — | String Theory | 2 | 2026-07-04 |
+| 1572 | Chiara Marletto | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1573 | Chih-Hung Wu | — | AdS/CFT, Geometric Gravity, Quantum Gravity | 2 | 2026-09-25 |
+| 1574 | Chintan Patel | — | AdS/CFT, CFT, String Theory | 2 | 2026-11-07 |
+| 1575 | Chitrak Sarkar | — | String Theory | 2 | 2026-10-30 |
+| 1576 | Chong-Sun Chu | — | AdS/CFT, Quantum Gravity | 2 | 2026-09-17 |
+| 1577 | Chris Fields | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-11-11 |
+| 1578 | Chris Hull | — | CFT, String Theory | 2 | 2026-10-31 |
+| 1579 | Chris Stevens | — | Celestial Holography, String Theory | 2 | 2026-08-05 |
+| 1580 | Christian Ferko | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-08-28 |
+| 1581 | Christoph Chiaffrino | — | CFT, String Theory | 2 | 2026-08-14 |
+| 1582 | Christoph Minz | — | Entanglement & Geometry | 2 | 2026-05-28 |
+| 1583 | Christopher M. Hirata | — | Quantum Gravity | 2 | 2026-08-07 |
+| 1584 | Christopher Monroe | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
+| 1585 | Chrysoula Markou | — | AdS/CFT, Asymptotic Symmetries, Celestial Holography | 2 | 2026-10-01 |
+| 1586 | Chuanxin Cui | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-11-12 |
+| 1587 | Chuying Wang | — | String Theory | 2 | 2026-07-04 |
+| 1588 | Cisco Gooding | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1589 | Claudio Furtado | — | Entanglement & Geometry | 2 | 2026-11-14 |
+| 1590 | Colin Guillarmou | — | CFT | 2 | 2026-10-05 |
+| 1591 | Connor Behan | — | AdS/CFT | 2 | 2026-09-10 |
+| 1592 | Cristhiam Lopez-Arcos | — | AdS/CFT | 2 | 2026-06-25 |
+| 1593 | Cristian Joana | — | Geometric Gravity | 2 | 2026-11-06 |
+| 1594 | Cristoforo Iossa | — | AdS/CFT, CFT | 2 | 2026-07-30 |
+| 1595 | Crystal Noel | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
+| 1596 | Curtis T. Asplund | — | Quantum Gravity | 2 | 2026-09-26 |
+| 1597 | Cynthia Yan | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-09-17 |
+| 1598 | Cyuan-Han Chang | — | AdS/CFT, CFT, Celestial Holography | 2 | 2026-08-21 |
+| 1599 | Céline Zwikel | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-09-12 |
+| 1600 | César A. Agón | — | AdS/CFT | 2 | 2026-10-03 |
+| 1601 | César García-Pérez | — | CFT, Celestial Holography | 2 | 2026-07-11 |
+| 1602 | D. Arteaga | — | AdS/CFT | 2 | 2026-07-18 |
+| 1603 | Daisuke Yamamoto | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1604 | Daiwei Zhu | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
+| 1605 | Damian R. Musk | — | CFT | 2 | 2026-09-03 |
+| 1606 | Damiano Tietto | — | AdS/CFT | 2 | 2026-06-27 |
+| 1607 | Daniel Arean | — | AdS/CFT, CFT | 2 | 2026-07-18 |
+| 1608 | Daniel Braun | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1609 | Daniel Chemisana | — | Quantum Gravity | 2 | 2026-07-04 |
+| 1610 | Daniel Grumiller | — | AdS/CFT, Asymptotic Symmetries, CFT | 2 | 2026-09-10 |
+| 1611 | Daniel K. L. Oi | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1612 | Daniel McLoughlin | — | Quantum Gravity | 2 | 2026-10-30 |
+| 1613 | Daniel Robbins | — | AdS/CFT | 2 | 2026-06-06 |
+| 1614 | Daniel Vainshtein | — | AdS/CFT, CFT, Geometric Gravity, String Theory | 2 | 2026-06-27 |
+| 1615 | Daniel Waldram | — | Quantum Gravity, String Theory | 2 | 2026-05-28 |
+| 1616 | Daniele Pranzetti | — | AdS/CFT, CFT | 2 | 2026-10-30 |
+| 1617 | Dario L. Lorenzoni | — | Quantum Gravity, String Theory | 2 | 2026-08-01 |
+| 1618 | Dario Martelli | — | AdS/CFT, String Theory | 2 | 2026-08-14 |
+| 1619 | Dario Rosa | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-04 |
+| 1620 | David Garcia-Fariña | — | AdS/CFT, CFT | 2 | 2026-07-18 |
+| 1621 | David Groswasser | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1622 | David H. Wu | — | Quantum Gravity, String Theory | 2 | 2026-06-11 |
+| 1623 | David J. Bacon | — | Quantum Gravity | 2 | 2026-07-24 |
+| 1624 | David Kutasov | — | AdS/CFT, CFT | 2 | 2026-09-12 |
+| 1625 | Davide Bonomi | — | AdS/CFT, CFT | 2 | 2026-10-10 |
+| 1626 | Davide Cassani | — | AdS/CFT, CFT, String Theory | 2 | 2026-08-28 |
+| 1627 | Dawid Maskalaniec | — | String Theory | 2 | 2026-09-10 |
+| 1628 | Dazhuo Cheng | — | CFT, Entanglement & Geometry | 2 | 2026-11-11 |
+| 1629 | Debabrata Sahu | — | AdS/CFT, CFT | 2 | 2026-06-06 |
+| 1630 | Debapriyo Chowdhury | — | CFT, String Theory | 2 | 2026-10-22 |
+| 1631 | Debarshi Das | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1632 | Debopriyo Biswas | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
+| 1633 | Deniz N. Bozkurt | — | CFT | 2 | 2026-07-30 |
+| 1634 | Dennis Rätzel | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1635 | Dennis le Plat | — | AdS/CFT, CFT | 2 | 2026-07-17 |
+| 1636 | Diana Muñoz-Valencia | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
+| 1637 | Diandian Wang | — | AdS/CFT, Quantum Gravity | 2 | 2026-06-24 |
+| 1638 | Dibakar Roychowdhury | — | AdS/CFT, CFT, String Theory | 2 | 2026-08-06 |
+| 1639 | Diego Blas | — | Asymptotic Symmetries | 2 | 2026-08-28 |
+| 1640 | Diego H. Correa | — | AdS/CFT, String Theory | 2 | 2026-10-16 |
+| 1641 | Diego Liska | — | AdS/CFT, CFT | 2 | 2026-10-24 |
+| 1642 | Diego M. Hofman | — | AdS/CFT, Quantum Gravity | 2 | 2026-07-18 |
+| 1643 | Diego Perugini | — | String Theory | 2 | 2026-09-24 |
+| 1644 | Diego Rodriguez-Gomez | — | String Theory | 2 | 2026-10-08 |
+| 1645 | Diego Sáez-Chillón Gómez | — | Entanglement & Geometry | 2 | 2026-05-18 |
+| 1646 | Diego de Maria Almazan | — | AdS/CFT, CFT, String Theory | 2 | 2026-07-02 |
+| 1647 | Dima Fontaine | — | Asymptotic Symmetries | 2 | 2026-10-02 |
+| 1648 | Dimitrios Katsinis | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-08-07 |
+| 1649 | Dimitrios Zoakos | — | AdS/CFT, String Theory | 2 | 2026-05-17 |
+| 1650 | Dipankar Home | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1651 | Diptarka Das | — | AdS/CFT, CFT | 2 | 2026-08-01 |
+| 1652 | Djedai Ayang Kamo | — | Geometric Gravity, Quantum Gravity | 2 | 2026-08-19 |
+| 1653 | Djordje Minic | — | Quantum Gravity, String Theory | 2 | 2026-10-16 |
+| 1654 | Dmitry Noshchenko | — | String Theory | 2 | 2026-11-07 |
+| 1655 | Dmitry S. Ageev | — | AdS/CFT | 2 | 2026-11-12 |
+| 1656 | Domenico Seminara | — | Quantum Gravity | 2 | 2026-07-04 |
+| 1657 | Dominic O. Chang | — | AdS/CFT, String Theory | 2 | 2026-06-25 |
+| 1658 | Dongming He | — | AdS/CFT | 2 | 2026-09-11 |
+| 1659 | Dongze Sun | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-10-24 |
+| 1660 | E. Ferreira | — | Quantum Gravity | 2 | 2026-09-17 |
+| 1661 | Edilberto O. Silva | — | Quantum Gravity | 2 | 2026-09-03 |
+| 1662 | Edoardo Anastasi | — | String Theory | 2 | 2026-07-04 |
+| 1663 | Edoardo Colombo | — | AdS/CFT, String Theory | 2 | 2026-10-31 |
+| 1664 | Eduardo Casali | — | AdS/CFT, String Theory | 2 | 2026-07-04 |
+| 1665 | Eduardo Fradkin | — | CFT | 2 | 2026-08-21 |
+| 1666 | Edward Wilson-Ewing | — | Quantum Gravity | 2 | 2026-09-12 |
+| 1667 | Egor Im | — | AdS/CFT, CFT, String Theory | 2 | 2026-10-08 |
+| 1668 | Ekapong Hirunsirisawat | — | AdS/CFT, CFT | 2 | 2026-06-24 |
+| 1669 | Ekim Taylan Hanımeli | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1670 | Eleftherios Papantonopoulos | — | AdS/CFT, CFT | 2 | 2026-11-06 |
+| 1671 | Elena Gramellini | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-10-18 |
+| 1672 | Eliezer Rabinovici | — | String Theory | 2 | 2026-08-14 |
+| 1673 | Elif Büşra Güraksın | — | AdS/CFT, CFT | 2 | 2026-07-30 |
+| 1674 | Elisa Sabadini | — | Entanglement & Geometry | 2 | 2026-11-14 |
+| 1675 | Elisa Tabor | — | AdS/CFT, Celestial Holography, Entanglement & Geometry | 2 | 2026-09-04 |
+| 1676 | Elli Pomoni | — | CFT | 2 | 2026-07-30 |
+| 1677 | Ema Dimastrogiovanni | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1678 | Emil J. Martinec | — | AdS/CFT, Quantum Gravity | 2 | 2026-07-23 |
+| 1679 | Emily Koivu | — | Quantum Gravity | 2 | 2026-08-07 |
+| 1680 | Emily Nardoni | — | String Theory | 2 | 2026-11-11 |
+| 1681 | Enrico Cinti | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-08-29 |
+| 1682 | Enrico Marchetto | — | CFT | 2 | 2026-07-30 |
+| 1683 | Enrico Turetta | — | AdS/CFT, CFT, String Theory | 2 | 2026-08-28 |
+| 1684 | Enzo Boschilia Vita | — | String Theory | 2 | 2026-11-14 |
+| 1685 | Eric D'Hoker | — | AdS/CFT, String Theory | 2 | 2026-10-01 |
+| 1686 | Eric Lescano | — | Celestial Holography, String Theory | 2 | 2026-07-30 |
+| 1687 | Eric Sharpe | — | AdS/CFT | 2 | 2026-06-06 |
+| 1688 | Erick Pastén | — | Entanglement & Geometry | 2 | 2026-07-24 |
+| 1689 | Erol Aksoy | — | AdS/CFT, CFT, String Theory | 2 | 2026-11-14 |
+| 1690 | Ettore Bernardi | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1691 | Eugene Y. S. Chua | — | Quantum Gravity | 2 | 2026-05-27 |
+| 1692 | Eunwoo Lee | — | AdS/CFT, CFT, String Theory | 2 | 2026-11-07 |
+| 1693 | Eva Kilian-Rademacher | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1694 | Evgeny Epifanovsky | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
+| 1695 | F. Caro-Pérez | — | String Theory | 2 | 2026-07-11 |
+| 1696 | Fabian A. Portilla | — | String Theory | 2 | 2026-07-31 |
+| 1697 | Fabian Ruehle | — | String Theory | 2 | 2026-06-06 |
+| 1698 | Fabian Wagner | — | Quantum Gravity | 2 | 2026-11-07 |
+| 1699 | Fabiano F. Santos | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-08-13 |
+| 1700 | Fabiano Feleppa | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1701 | Fabio Mantegazza | — | AdS/CFT, CFT | 2 | 2026-07-16 |
+| 1702 | Fabián Caro-Pérez | — | String Theory | 2 | 2026-05-18 |
+| 1703 | Fabrizio Piacentini | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1704 | Facundo Arreyes | — | Entanglement & Geometry | 2 | 2026-07-31 |
+| 1705 | Fahimeh Bayeh | — | Quantum Gravity | 2 | 2026-09-04 |
+| 1706 | Faisal Javed | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-10-27 |
+| 1707 | Faisal Karimi | — | CFT | 2 | 2026-10-10 |
+| 1708 | Faizan Bhat | — | AdS/CFT, CFT | 2 | 2026-08-20 |
+| 1709 | Falk Hassler | — | String Theory | 2 | 2026-07-09 |
+| 1710 | Fatima Abbasi | — | Quantum Gravity | 2 | 2026-11-12 |
+| 1711 | Federico Capeccia | — | AdS/CFT, CFT | 2 | 2026-06-25 |
+| 1712 | Felipe Dilho Alves | — | Quantum Gravity | 2 | 2026-08-06 |
+| 1713 | Felipe F. Fanchini | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-04 |
+| 1714 | Fernando Quevedo | — | String Theory | 2 | 2026-10-03 |
+| 1715 | Filipp Chernikov | — | String Theory | 2 | 2026-07-04 |
+| 1716 | Florent Baume | — | AdS/CFT, CFT | 2 | 2026-07-16 |
+| 1717 | Florian Millo | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1718 | Francesco Bertucci | — | CFT | 2 | 2026-08-08 |
+| 1719 | Francesco Di Filippo | — | Quantum Gravity | 2 | 2026-09-11 |
+| 1720 | Francesco Mangialardi | — | AdS/CFT, CFT | 2 | 2026-06-18 |
+| 1721 | Francesco Russo | — | AdS/CFT, CFT | 2 | 2026-06-18 |
+| 1722 | Francisco G. Pedro | — | Quantum Gravity, String Theory | 2 | 2026-08-01 |
+| 1723 | Francisco Gil Pedro | — | String Theory | 2 | 2026-07-31 |
+| 1724 | Freddy P. Zen | — | Quantum Gravity | 2 | 2026-06-13 |
+| 1725 | Friederike Ihssen | — | Quantum Gravity | 2 | 2026-09-10 |
+| 1726 | G. Mustafa | — | Quantum Gravity | 2 | 2026-07-18 |
+| 1727 | G. Valdivia-Mera | — | Geometric Gravity | 2 | 2026-07-18 |
+| 1728 | G. Y. Tuleganova | — | Quantum Gravity | 2 | 2026-07-01 |
+| 1729 | G. Yu. Prokhorov | — | CFT, Entanglement & Geometry | 2 | 2026-05-24 |
+| 1730 | Gabriel Arenas-Henriquez | — | AdS/CFT, CFT | 2 | 2026-11-07 |
+| 1731 | Gabriel Cuomo | — | AdS/CFT, CFT | 2 | 2026-11-12 |
+| 1732 | Gabriel Vasquez | — | Quantum Gravity | 2 | 2026-08-07 |
+| 1733 | Gabriele Barbagallo | — | String Theory | 2 | 2026-10-10 |
+| 1734 | Gabriele Di Ubaldo | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-09-17 |
+| 1735 | Gaetano Lambiase | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1736 | Gaetano Maria Sifo | — | AdS/CFT, String Theory | 2 | 2026-09-17 |
+| 1737 | Gaston Giribet | — | AdS/CFT, CFT, String Theory | 2 | 2026-07-16 |
+| 1738 | Gauri Batra | — | AdS/CFT | 2 | 2026-06-19 |
+| 1739 | Gautam Satishchandran | — | AdS/CFT, Celestial Holography, Entanglement & Geometry | 2 | 2026-09-04 |
+| 1740 | Gavin Hull | — | Entanglement & Geometry | 2 | 2026-10-21 |
+| 1741 | Gavin W. Morley | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1742 | Geoff Penington | — | AdS/CFT, Celestial Holography, Entanglement & Geometry | 2 | 2026-09-04 |
+| 1743 | George Georgiou | — | AdS/CFT, String Theory | 2 | 2026-05-17 |
+| 1744 | George K. Leontaris | — | String Theory | 2 | 2026-08-13 |
+| 1745 | Georgios Pastras | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-08-07 |
+| 1746 | Gerben Oling | — | Celestial Holography | 2 | 2026-07-11 |
+| 1747 | Gero von Gersdorff | — | Quantum Gravity | 2 | 2026-07-02 |
+| 1748 | Gerui Chen | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-11-07 |
+| 1749 | Geum Lee | — | AdS/CFT, String Theory | 2 | 2026-09-05 |
+| 1750 | Giacomo Maggiorotti | — | String Theory | 2 | 2026-10-23 |
+| 1751 | Gianluca Calcagni | — | AdS/CFT, Quantum Gravity | 2 | 2026-10-31 |
+| 1752 | Giovanni Oglialoro | — | Quantum Gravity | 2 | 2026-07-10 |
+| 1753 | Gislaine Varão | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1754 | Giulia Gubitosi | — | Geometric Gravity, Quantum Gravity | 2 | 2026-08-27 |
+| 1755 | Giulio Codogni | — | CFT, Geometric Gravity | 2 | 2026-05-28 |
+| 1756 | Giulio Gasbarri | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1757 | Giulio Neri | — | Quantum Gravity | 2 | 2026-09-18 |
+| 1758 | Giuseppe Filiberto Vitale | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1759 | Giuseppe Policastro | — | AdS/CFT, CFT | 2 | 2026-10-02 |
+| 1760 | Gizem Şengör | — | AdS/CFT, CFT | 2 | 2026-07-30 |
+| 1761 | Gongrui Cheng | — | String Theory | 2 | 2026-11-14 |
+| 1762 | Gonzalo J. Olmo | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-09-24 |
+| 1763 | Gopal Yadav | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-10-18 |
+| 1764 | Gopinath Guin | — | Geometric Gravity | 2 | 2026-09-03 |
+| 1765 | Gordon Rogelberg | — | AdS/CFT, CFT | 2 | 2026-11-11 |
+| 1766 | Goro Ishiki | — | AdS/CFT, String Theory | 2 | 2026-07-30 |
+| 1767 | Grant N. Remmen | — | String Theory | 2 | 2026-06-11 |
+| 1768 | Grant Salton | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
+| 1769 | Gregory W. Moore | — | String Theory | 2 | 2026-08-14 |
+| 1770 | Guido Da Re | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-10-24 |
+| 1771 | Guilherme E. L. Pexe | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-04 |
+| 1772 | Guri K. Buza | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1773 | Gurudev Dutt | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1774 | Gérard M. T. Watts | — | CFT | 2 | 2026-10-24 |
+| 1775 | Géza Tóth | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1776 | H. E. Camblong | — | Geometric Gravity | 2 | 2026-07-18 |
+| 1777 | H. Wang | — | Geometric Gravity | 2 | 2026-07-18 |
+| 1778 | Hai-Feng Ding | — | AdS/CFT, Geometric Gravity | 2 | 2026-09-25 |
+| 1779 | Hai-Shan Liu | — | CFT | 2 | 2026-07-04 |
+| 1780 | Hajar Belmahi | — | AdS/CFT | 2 | 2026-11-14 |
+| 1781 | Hajime Furuta | — | CFT | 2 | 2026-11-07 |
+| 1782 | Hamed Pejhan | — | AdS/CFT | 2 | 2026-07-22 |
+| 1783 | Hannes Malcha | — | AdS/CFT, CFT, String Theory | 2 | 2026-10-08 |
+| 1784 | Hanzhi Jiang | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-11-07 |
+| 1785 | Hao Chen | — | Quantum Gravity | 2 | 2026-05-30 |
+| 1786 | Hao Geng | — | AdS/CFT, Quantum Gravity | 2 | 2026-10-10 |
+| 1787 | Hao Wu | — | CFT | 2 | 2026-10-08 |
+| 1788 | Haryanto M. Siahaan | — | String Theory | 2 | 2026-08-12 |
+| 1789 | Hassan Firouzjahi | — | Geometric Gravity, Quantum Gravity | 2 | 2026-10-18 |
+| 1790 | Hayata Yamasaki | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-02 |
+| 1791 | Helen M Sheehy | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1792 | Heliudson Bernardo | — | String Theory | 2 | 2026-07-25 |
+| 1793 | Hemwati Nandan | — | Quantum Gravity | 2 | 2026-07-18 |
+| 1794 | Hendrik Ulbricht | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1795 | Henning Samtleben | — | AdS/CFT, Geometric Gravity, String Theory | 2 | 2026-07-30 |
+| 1796 | Henri Scheppach | — | AdS/CFT, String Theory | 2 | 2026-08-22 |
+| 1797 | Henriette Elvang | — | CFT, String Theory | 2 | 2026-07-18 |
+| 1798 | Henrique N. Sá Earp | — | String Theory | 2 | 2026-08-26 |
+| 1799 | Herman Verlinde | — | AdS/CFT | 2 | 2026-06-27 |
+| 1800 | Hexuan Li | — | CFT, Entanglement & Geometry | 2 | 2026-11-11 |
+| 1801 | Hidde Stoffels | — | CFT | 2 | 2026-08-22 |
+| 1802 | Himanshu Buragohain | — | AdS/CFT | 2 | 2026-08-27 |
+| 1803 | Himanshu Chaudhary | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-10-24 |
+| 1804 | Himasri Pinapothu | — | AdS/CFT | 2 | 2026-06-27 |
+| 1805 | Hiromasa Tajima | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-06-06 |
+| 1806 | Hiroyasu Tajima | — | CFT | 2 | 2026-09-17 |
+| 1807 | Hisham Sati | — | String Theory | 2 | 2026-10-01 |
+| 1808 | Hishan Farfán-Bachiloglu | — | Entanglement & Geometry | 2 | 2026-10-29 |
+| 1809 | Hitoshi Murayama | — | Asymptotic Symmetries | 2 | 2026-08-28 |
+| 1810 | Hong Liu | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-08-06 |
+| 1811 | Hongguang Liu | — | AdS/CFT | 2 | 2026-05-28 |
+| 1812 | Hoseob Shin | — | AdS/CFT, String Theory | 2 | 2026-10-31 |
+| 1813 | Hrant Gharibyan | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
+| 1814 | Hu Zheng | — | AdS/CFT, Celestial Holography | 2 | 2026-06-06 |
+| 1815 | Hua Xing Zhu | — | CFT | 2 | 2026-09-18 |
+| 1816 | Huaxuan Zeng | — | AdS/CFT, Asymptotic Symmetries, CFT, Celestial Holography | 2 | 2026-07-10 |
+| 1817 | Hugo A. Morales | — | Quantum Gravity | 2 | 2026-05-23 |
+| 1818 | Hui Liu | — | AdS/CFT | 2 | 2026-10-08 |
+| 1819 | Hui Yang | — | AdS/CFT | 2 | 2026-07-08 |
+| 1820 | Humberto A. Borges | — | AdS/CFT, String Theory | 2 | 2026-10-02 |
+| 1821 | Humberto Gomez | — | AdS/CFT | 2 | 2026-06-25 |
+| 1822 | Hynek Paul | — | AdS/CFT, CFT, Quantum Gravity, String Theory | 2 | 2026-07-30 |
+| 1823 | Hyojoong Kim | — | AdS/CFT, String Theory | 2 | 2026-10-31 |
+| 1824 | Hyun-Cheol Kim | — | AdS/CFT | 2 | 2026-10-21 |
+| 1825 | Ian Vega | — | Entanglement & Geometry | 2 | 2026-07-01 |
+| 1826 | Iarley P. Lobo | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1827 | Igal Arav | — | AdS/CFT, CFT | 2 | 2026-10-02 |
+| 1828 | Ignacio Quiroz Vargas | — | AdS/CFT | 2 | 2026-09-26 |
+| 1829 | Igor Mol | — | Celestial Holography | 2 | 2026-05-27 |
+| 1830 | Igor Pikovski | — | Quantum Gravity | 2 | 2026-11-07 |
+| 1831 | Ingo Runkel | — | CFT | 2 | 2026-10-24 |
+| 1832 | Iva Lovrekovic | — | AdS/CFT, Asymptotic Symmetries, CFT | 2 | 2026-09-10 |
+| 1833 | Ivan Dneprov | — | AdS/CFT, CFT | 2 | 2026-07-01 |
+| 1834 | Ivan Pérez-Castro | — | Quantum Gravity | 2 | 2026-09-24 |
+| 1835 | Ivar Martin | — | CFT | 2 | 2026-09-10 |
+| 1836 | Iván Salvador-García | — | AdS/CFT, Quantum Gravity | 2 | 2026-10-31 |
+| 1837 | J. D. D. Martin | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1838 | J. R. Villanueva | — | AdS/CFT | 2 | 2026-10-22 |
+| 1839 | J. X. Lu | — | String Theory | 2 | 2026-08-12 |
+| 1840 | Jack Isen | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-07-24 |
+| 1841 | Jack Keable-Elliott | — | Quantum Gravity | 2 | 2026-07-24 |
+| 1842 | Jacob McNamara | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-04 |
+| 1843 | Jacopo Mazza | — | Entanglement & Geometry | 2 | 2026-08-06 |
+| 1844 | Jacques Distler | — | AdS/CFT, CFT | 2 | 2026-09-17 |
+| 1845 | Jae-Hyuk Oh | — | AdS/CFT | 2 | 2026-10-21 |
+| 1846 | Jaehyeok Choi | — | AdS/CFT, CFT | 2 | 2026-09-19 |
+| 1847 | Jaewoo Joo | — | Quantum Gravity | 2 | 2026-07-24 |
+| 1848 | Jailson Alcaniz | — | AdS/CFT, String Theory | 2 | 2026-10-02 |
+| 1849 | Jake McNaughton | — | Quantum Gravity | 2 | 2026-11-12 |
+| 1850 | Jakob Hollweck | — | CFT | 2 | 2026-06-19 |
+| 1851 | Jakub Vošmera | — | String Theory | 2 | 2026-07-04 |
+| 1852 | James Bonifacio | — | CFT | 2 | 2026-08-08 |
+| 1853 | James Buda | — | Asymptotic Symmetries | 2 | 2026-09-19 |
+| 1854 | James E. Tener | — | CFT | 2 | 2026-08-27 |
+| 1855 | James F. Glazebrook | — | AdS/CFT, Entanglement & Geometry | 2 | 2026-11-11 |
+| 1856 | James Fullwood | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-08-08 |
+| 1857 | James Mangan | — | Asymptotic Symmetries | 2 | 2026-10-01 |
+| 1858 | Jan M. Pawlowski | — | Quantum Gravity | 2 | 2026-09-10 |
+| 1859 | Jan Schütte-Engel | — | Asymptotic Symmetries | 2 | 2026-08-28 |
+| 1860 | Janek Kozicki | — | Quantum Gravity | 2 | 2026-08-06 |
+| 1861 | Jani Kastikainen | — | AdS/CFT, String Theory | 2 | 2026-08-22 |
+| 1862 | Jann Zosso | — | Asymptotic Symmetries | 2 | 2026-08-28 |
+| 1863 | Jarosław K. Korbicz | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1864 | Jason D. Lotay | — | String Theory | 2 | 2026-08-13 |
+| 1865 | Jatin Narde | — | AdS/CFT, CFT | 2 | 2026-08-15 |
+| 1866 | Jaume Gomis | — | AdS/CFT, CFT, String Theory | 2 | 2026-07-10 |
+| 1867 | Javier Molina-Vilaplana | — | AdS/CFT | 2 | 2026-10-03 |
+| 1868 | Jean-Marie Stéphan | — | CFT | 2 | 2026-08-06 |
+| 1869 | Jean-Pierre Gazeau | — | AdS/CFT | 2 | 2026-07-22 |
+| 1870 | Jed Thompson-Fawcett | — | Celestial Holography, String Theory | 2 | 2026-08-05 |
+| 1871 | Jeffrey V. Backus | — | String Theory | 2 | 2026-09-26 |
+| 1872 | Jelle Hartong | — | Celestial Holography | 2 | 2026-07-11 |
+| 1873 | Jennifer Lin | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-07-02 |
+| 1874 | Jeong-Hyuck Park | — | AdS/CFT | 2 | 2026-10-21 |
+| 1875 | Jeremy van der Heijden | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity, Quantum Gravity | 2 | 2026-10-03 |
+| 1876 | Jeroen Monnee | — | String Theory | 2 | 2026-10-03 |
+| 1877 | Jerome P. Mecca | — | Entanglement & Geometry | 2 | 2026-07-01 |
+| 1878 | Jerzy Paczos | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1879 | Ji-Yang Wang | — | String Theory | 2 | 2026-10-22 |
+| 1880 | Jian-Peng Zhang | — | AdS/CFT, CFT | 2 | 2026-09-24 |
+| 1881 | Jiaxin Qiao | — | CFT | 2 | 2026-09-24 |
+| 1882 | Jiayin Gu | — | Entanglement & Geometry | 2 | 2026-10-10 |
+| 1883 | Jie Gu | — | CFT, String Theory | 2 | 2026-11-14 |
+| 1884 | Jie-ping Zheng | — | Quantum Gravity | 2 | 2026-07-04 |
+| 1885 | Jin-Yang Shen | — | CFT | 2 | 2026-07-04 |
+| 1886 | Jinwei Chu | — | AdS/CFT, CFT | 2 | 2026-09-12 |
+| 1887 | Jitendra Kumar | — | Entanglement & Geometry | 2 | 2026-11-04 |
+| 1888 | Jiyuan Fang | — | Entanglement & Geometry | 2 | 2026-09-02 |
+| 1889 | Joao A. A. S. Reis | — | Quantum Gravity | 2 | 2026-09-03 |
+| 1890 | Joao Caetano | — | AdS/CFT, String Theory | 2 | 2026-10-23 |
+| 1891 | Joaquin Masias | — | String Theory | 2 | 2026-09-03 |
+| 1892 | Johan Henriksson | — | CFT, String Theory | 2 | 2026-08-29 |
+| 1893 | John F. Dawson | — | Asymptotic Symmetries, CFT | 2 | 2026-10-23 |
+| 1894 | John Preskill | — | AdS/CFT, CFT, Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-16 |
+| 1895 | Jonah Berean-Dutcher | — | Asymptotic Symmetries | 2 | 2026-08-12 |
+| 1896 | Jonathan Karl | — | AdS/CFT, String Theory | 2 | 2026-08-22 |
+| 1897 | Jonathan M. H. Gosling | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1898 | Jonathan Sorce | — | AdS/CFT, CFT | 2 | 2026-06-25 |
+| 1899 | Jonibek Khasanov | — | Quantum Gravity | 2 | 2026-10-15 |
+| 1900 | Jose Miguel Ladino | — | Geometric Gravity | 2 | 2026-10-03 |
+| 1901 | Joseph Thomas | — | Asymptotic Symmetries | 2 | 2026-10-01 |
+| 1902 | Joshua Foo | — | Quantum Gravity | 2 | 2026-10-08 |
+| 1903 | Joshua Yi | — | Entanglement & Geometry | 2 | 2026-11-12 |
+| 1904 | José Calderón-Infante | — | AdS/CFT, CFT, String Theory | 2 | 2026-07-16 |
+| 1905 | José Luis Jaramillo | — | Geometric Gravity | 2 | 2026-07-30 |
+| 1906 | José Matos | — | CFT, String Theory | 2 | 2026-07-03 |
+| 1907 | José Navarro-Salas | — | CFT, Celestial Holography | 2 | 2026-07-11 |
+| 1908 | José Padua-Argüelles | — | Geometric Gravity, Quantum Gravity | 2 | 2026-08-21 |
+| 1909 | Joydeep Naskar | — | AdS/CFT | 2 | 2026-05-28 |
+| 1910 | João Barata | — | CFT | 2 | 2026-09-18 |
+| 1911 | João Paulo Cavalcante | — | String Theory | 2 | 2026-11-14 |
+| 1912 | Juan A. Valiente Kroon | — | AdS/CFT, Celestial Holography | 2 | 2026-10-24 |
+| 1913 | Juan Carlos Del Águila | — | Quantum Gravity | 2 | 2026-05-23 |
+| 1914 | Juan Maldacena | — | AdS/CFT, Asymptotic Symmetries, String Theory | 2 | 2026-08-28 |
+| 1915 | Juan Sebastián Ardenghi | — | Entanglement & Geometry | 2 | 2026-07-31 |
+| 1916 | Julien Barrat | — | CFT | 2 | 2026-07-30 |
+| 1917 | Jun Liu | — | AdS/CFT | 2 | 2026-11-12 |
+| 1918 | Jun Maeda | — | CFT | 2 | 2026-10-31 |
+| 1919 | Jun Tao | — | CFT, Entanglement & Geometry | 2 | 2026-10-16 |
+| 1920 | Junding Chen | — | AdS/CFT, CFT, Quantum Gravity, String Theory | 2 | 2026-07-30 |
+| 1921 | Junwu Huang | — | String Theory | 2 | 2026-09-12 |
+| 1922 | Juri Dimaschko | — | Entanglement & Geometry | 2 | 2026-07-31 |
+| 1923 | Justin Berman | — | CFT, String Theory | 2 | 2026-07-18 |
+| 1924 | Jörg Frauendiener | — | Celestial Holography, String Theory | 2 | 2026-08-05 |
+| 1925 | Jörg Hennig | — | Celestial Holography, String Theory | 2 | 2026-08-05 |
+| 1926 | Júlio C. Fabris | — | Entanglement & Geometry | 2 | 2026-08-20 |
+| 1927 | K. B. Alkalaev | — | CFT | 2 | 2026-05-28 |
+| 1928 | K. Karimizadeh | — | Entanglement & Geometry | 2 | 2026-07-11 |
+| 1929 | Kai Lin | — | Entanglement & Geometry | 2 | 2026-07-01 |
+| 1930 | Kai-Peng Lu | — | AdS/CFT | 2 | 2026-10-29 |
+| 1931 | Kai-Yu Zhang | — | Asymptotic Symmetries, Celestial Holography | 2 | 2026-09-17 |
+| 1932 | Kaichi Mizohata | — | CFT | 2 | 2026-11-11 |
+| 1933 | Kamiko Kouemeni Jean Rodrigue | — | Geometric Gravity, Quantum Gravity | 2 | 2026-08-19 |
+| 1934 | Kanato Goto | — | Entanglement & Geometry, Quantum Gravity | 2 | 2026-07-02 |
+| 1935 | Kangning Liu | — | AdS/CFT, String Theory | 2 | 2026-09-10 |
+| 1936 | Kanhu Kishore Nanda | — | AdS/CFT, CFT, Entanglement & Geometry | 2 | 2026-10-18 |
+| 1937 | Kashif Ammar Yasir | — | Quantum Gravity | 2 | 2026-11-04 |
 | 1938 | Kathryn M. Zurek | — | Asymptotic Symmetries | 2 | 2026-06-13 |
 | 1939 | Kaustubh Singhi | — | AdS/CFT, CFT | 2 | 2026-11-06 |
 | 1940 | Kazuhiro Sakai | — | String Theory | 2 | 2026-09-12 |
@@ -2626,314 +2626,322 @@ _Updated 2026-11-15 &middot; 2933 researchers tracked_
 | 2620 | David J. E. Marsh | — | String Theory | 1 | 2026-06-15 |
 | 2621 | David Maibach | — | Asymptotic Symmetries, Celestial Holography | 1 | 2026-08-17 |
 | 2622 | David Ridout | — | CFT | 1 | 2026-05-22 |
-| 2623 | Dayue Qin | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2624 | Deepak Kumar Kar | — | AdS/CFT | 1 | 2026-10-12 |
-| 2625 | Defu Hou | — | AdS/CFT | 1 | 2026-08-04 |
-| 2626 | Dhruva K. S | — | AdS/CFT, CFT, String Theory | 1 | 2026-08-17 |
-| 2627 | Diego H. Gugliotta | — | Quantum Gravity | 1 | 2026-09-28 |
-| 2628 | Dmitry Chelkak | — | CFT | 1 | 2026-10-12 |
-| 2629 | Domenico Frattulillo | — | Quantum Gravity | 1 | 2026-05-25 |
-| 2630 | Domingo Gallegos | — | AdS/CFT, CFT | 1 | 2026-09-22 |
-| 2631 | Donato Bini | — | Geometric Gravity | 1 | 2026-06-02 |
-| 2632 | Dongsu Bak | — | Quantum Gravity | 1 | 2026-10-12 |
-| 2633 | Duarte Fragoso | — | CFT | 1 | 2026-09-07 |
-| 2634 | Edward J. Shaya | — | Geometric Gravity | 1 | 2026-06-16 |
-| 2635 | Emanuel Gallo | — | Celestial Holography | 1 | 2026-10-19 |
-| 2636 | Emine Şeyma Kutluk | — | AdS/CFT, Asymptotic Symmetries | 1 | 2026-06-23 |
-| 2637 | Ethan Fursman | — | CFT | 1 | 2026-05-22 |
-| 2638 | Euihun Joung | — | AdS/CFT, String Theory | 1 | 2026-05-28 |
-| 2639 | F. Foucart | — | Asymptotic Symmetries | 1 | 2026-09-29 |
-| 2640 | Fabio Scardigli | — | Quantum Gravity | 1 | 2026-07-14 |
-| 2641 | Farkhod Botirov | — | Entanglement & Geometry | 1 | 2026-09-16 |
-| 2642 | Felix Ringer | — | Entanglement & Geometry | 1 | 2026-09-21 |
-| 2643 | Feng Qu | — | AdS/CFT, CFT | 1 | 2026-08-11 |
-| 2644 | Fien Apers | — | AdS/CFT, String Theory | 1 | 2026-10-12 |
-| 2645 | Filip Herček | — | CFT | 1 | 2026-11-09 |
-| 2646 | Florian Hechenberger | — | Entanglement & Geometry | 1 | 2026-09-21 |
-| 2647 | Francisco Bento Lustosa | — | Asymptotic Symmetries, Entanglement & Geometry | 1 | 2026-06-16 |
-| 2648 | G. Barbagallo | — | String Theory | 1 | 2026-10-08 |
-| 2649 | G. G. L. Nashed | — | Entanglement & Geometry | 1 | 2026-06-02 |
-| 2650 | G. Yergaliyeva | — | Entanglement & Geometry | 1 | 2026-10-21 |
-| 2651 | Gabriel Fenati | — | AdS/CFT, CFT | 1 | 2026-08-31 |
-| 2652 | Gabriele Tartaglino-Mazzucchelli | — | AdS/CFT, String Theory | 1 | 2026-05-19 |
-| 2653 | Giampiero Esposito | — | Geometric Gravity | 1 | 2026-06-02 |
-| 2654 | Giandomenico Palumbo | — | AdS/CFT, Geometric Gravity | 1 | 2026-10-06 |
-| 2655 | Gianmassimo Tasinato | — | Quantum Gravity | 1 | 2026-10-12 |
-| 2656 | Giuseppe Fabiano | — | Quantum Gravity | 1 | 2026-05-25 |
-| 2657 | Giuseppe Meluccio | — | Quantum Gravity | 1 | 2026-09-11 |
-| 2658 | Giuseppe Sudano | — | AdS/CFT, String Theory | 1 | 2026-06-15 |
-| 2659 | Guglielmo Grimaldi | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-10-27 |
-| 2660 | Guillaume Baverez | — | CFT | 1 | 2026-10-05 |
-| 2661 | Guillermo R. Zemba | — | Entanglement & Geometry | 1 | 2026-10-06 |
-| 2662 | Gulzoda Rakhimova | — | Entanglement & Geometry | 1 | 2026-09-16 |
-| 2663 | Gurbir Arora | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-05-25 |
-| 2664 | H. Inchauspé | — | Asymptotic Symmetries | 1 | 2026-09-29 |
-| 2665 | H. Samtleben | — | AdS/CFT, String Theory | 1 | 2026-10-05 |
-| 2666 | Hafiza Bushra Mujahid | — | AdS/CFT | 1 | 2026-10-27 |
-| 2667 | Hai-Cang Ren | — | AdS/CFT | 1 | 2026-08-04 |
-| 2668 | Hanyu Fang | — | AdS/CFT | 1 | 2026-11-13 |
-| 2669 | Haocheng Zhong | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-09-21 |
-| 2670 | Harold Erbin | — | CFT, String Theory | 1 | 2026-11-13 |
-| 2671 | Harshal Kulkarni | — | AdS/CFT, CFT, Celestial Holography, String Theory | 1 | 2026-09-07 |
-| 2672 | Hasmik Poghosyan | — | CFT | 1 | 2026-07-13 |
-| 2673 | Hendrik J. R. Van Zyl | — | Entanglement & Geometry | 1 | 2026-08-10 |
-| 2674 | Hessel Posthuma | — | CFT | 1 | 2026-09-07 |
-| 2675 | Hikmet Ozsahin | — | AdS/CFT, CFT | 1 | 2026-09-29 |
-| 2676 | Himanshu Chourasiya | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-10-12 |
-| 2677 | Himanshu Parihar | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-10-19 |
-| 2678 | Hong Y. Ling | — | Entanglement & Geometry | 1 | 2026-10-26 |
-| 2679 | Houri-Christina Tarazi | — | Quantum Gravity | 1 | 2026-08-04 |
-| 2680 | I. Rasulian | — | Celestial Holography, String Theory | 1 | 2026-11-09 |
-| 2681 | Ignacio J. Araya | — | AdS/CFT, CFT | 1 | 2026-10-20 |
-| 2682 | Igor V. Ovchinnikov | — | AdS/CFT, CFT | 1 | 2026-08-18 |
-| 2683 | Ion Nechita | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-06-05 |
-| 2684 | Iñaki Garay | — | Quantum Gravity | 1 | 2026-09-28 |
-| 2685 | J. Casado-Díaz | — | Asymptotic Symmetries | 1 | 2026-10-19 |
-| 2686 | J. van Muiden | — | AdS/CFT | 1 | 2026-09-16 |
-| 2687 | Jack Lewis | — | Asymptotic Symmetries | 1 | 2026-09-09 |
-| 2688 | Jakob J. Minar | — | Entanglement & Geometry | 1 | 2026-10-16 |
-| 2689 | James Halverson | — | String Theory | 1 | 2026-06-15 |
-| 2690 | Jana Menšíková | — | AdS/CFT, CFT | 1 | 2026-11-03 |
-| 2691 | Jaroslav Scheinpflug | — | AdS/CFT | 1 | 2026-11-09 |
-| 2692 | Jasper Nongmaithem | — | AdS/CFT | 1 | 2026-10-12 |
-| 2693 | Jaswant | — | Entanglement & Geometry | 1 | 2026-07-28 |
-| 2694 | Javier Cancino | — | Geometric Gravity | 1 | 2026-10-14 |
-| 2695 | Jay Prakash Singh | — | Entanglement & Geometry | 1 | 2026-07-28 |
-| 2696 | Jaydeep Goswami | — | Entanglement & Geometry | 1 | 2026-08-18 |
-| 2697 | Jayden Tan | — | Quantum Gravity | 1 | 2026-06-05 |
-| 2698 | Jeremy A. Mann | — | Asymptotic Symmetries | 1 | 2026-07-20 |
-| 2699 | Jessica Trespalacios | — | Asymptotic Symmetries | 1 | 2026-11-09 |
-| 2700 | Jessica Yeh | — | String Theory | 1 | 2026-10-26 |
-| 2701 | Jianhui Lin | — | AdS/CFT, Geometric Gravity | 1 | 2026-06-09 |
-| 2702 | Jie-Yu Zhang | — | AdS/CFT | 1 | 2026-06-05 |
-| 2703 | Jinzhao Sun | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2704 | Joakim Flinckman | — | AdS/CFT | 1 | 2026-10-16 |
-| 2705 | Jorge Ovalle | — | Geometric Gravity | 1 | 2026-11-03 |
-| 2706 | Jorrit Bosma | — | Asymptotic Symmetries | 1 | 2026-07-20 |
-| 2707 | Jose M. Begines | — | AdS/CFT, Entanglement & Geometry, String Theory | 1 | 2026-05-18 |
-| 2708 | Josef Seitz | — | CFT, String Theory | 1 | 2026-10-29 |
-| 2709 | Joseph Delmar | — | CFT | 1 | 2026-05-31 |
-| 2710 | José de J. Pérez Lona | — | String Theory | 1 | 2026-10-06 |
-| 2711 | Juan Manuel Diaz | — | Quantum Gravity | 1 | 2026-05-19 |
-| 2712 | Jue Xu | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2713 | Julian Lang | — | AdS/CFT, CFT | 1 | 2026-09-01 |
-| 2714 | Jun-Xia Chen | — | AdS/CFT | 1 | 2026-08-04 |
-| 2715 | Junxiang Huang | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2716 | Justine Fasquel | — | CFT | 1 | 2026-05-22 |
-| 2717 | Jyotirmoy Roy | — | AdS/CFT, CFT | 1 | 2026-11-03 |
-| 2718 | Jørgen Ellegaard Andersen | — | CFT | 1 | 2026-05-22 |
-| 2719 | K. P. Athulya | — | Quantum Gravity | 1 | 2026-06-02 |
-| 2720 | Kai Yan | — | AdS/CFT | 1 | 2026-11-13 |
-| 2721 | Kalle Kytölä | — | CFT | 1 | 2026-10-12 |
-| 2722 | Katrin Becker | — | String Theory | 1 | 2026-05-19 |
-| 2723 | Kazuyoshi Yano | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-10-12 |
-| 2724 | Kevin Cunningham | — | Asymptotic Symmetries | 1 | 2026-09-09 |
-| 2725 | Ki-Seok Kim | — | AdS/CFT, Geometric Gravity | 1 | 2026-05-19 |
-| 2726 | Kirill Zatrimaylov | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-09-01 |
-| 2727 | Klaas Landsman | — | Entanglement & Geometry, Geometric Gravity | 1 | 2026-08-17 |
-| 2728 | Konstantin Izyurov | — | CFT | 1 | 2026-10-12 |
-| 2729 | Krzysztof Cichy | — | CFT | 1 | 2026-05-31 |
-| 2730 | Kymani Armstrong-Williams | — | AdS/CFT | 1 | 2026-10-19 |
-| 2731 | Leo Veissiere | — | String Theory | 1 | 2026-10-29 |
-| 2732 | Leonhard Schmotzer | — | Entanglement & Geometry | 1 | 2026-10-16 |
-| 2733 | Leonid Pastur | — | Entanglement & Geometry | 1 | 2026-11-02 |
-| 2734 | Li-Jie Xin | — | AdS/CFT | 1 | 2026-06-05 |
-| 2735 | Liam McAllister | — | String Theory | 1 | 2026-06-15 |
-| 2736 | Liangyu Chen | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-09-01 |
-| 2737 | Lorenzo Küchler | — | Asymptotic Symmetries | 1 | 2026-09-09 |
-| 2738 | Luis Camargo-Carlos | — | AdS/CFT, CFT | 1 | 2026-08-11 |
-| 2739 | Luis Guajardo | — | AdS/CFT, CFT | 1 | 2026-09-29 |
-| 2740 | Luis J. Garay | — | Quantum Gravity | 1 | 2026-09-28 |
-| 2741 | Lukas Schoug | — | CFT | 1 | 2026-06-23 |
-| 2742 | M. A. Khan | — | Entanglement & Geometry | 1 | 2026-06-11 |
-| 2743 | M. Beccaria | — | AdS/CFT | 1 | 2026-09-16 |
-| 2744 | M. Bulla | — | Asymptotic Symmetries | 1 | 2026-09-29 |
-| 2745 | M. Farasat Shamir | — | Entanglement & Geometry | 1 | 2026-08-17 |
-| 2746 | M. Oyarzo | — | AdS/CFT, String Theory | 1 | 2026-10-05 |
-| 2747 | M. Pillas | — | Asymptotic Symmetries | 1 | 2026-09-29 |
-| 2748 | M. Rizwan | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-07-28 |
-| 2749 | M. Trigiante | — | AdS/CFT, String Theory | 1 | 2026-10-05 |
-| 2750 | Maharshi Sarma | — | Geometric Gravity | 1 | 2026-05-22 |
-| 2751 | Mahdi Sedighi Jafari | — | Celestial Holography | 1 | 2026-11-13 |
-| 2752 | Makoto Natsuume | — | AdS/CFT, CFT | 1 | 2026-05-22 |
-| 2753 | Makoto Tusbota | — | AdS/CFT | 1 | 2026-09-30 |
-| 2754 | Man-Li Tian | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-05-19 |
-| 2755 | Man-Man Sun | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-05-19 |
-| 2756 | Manish Ramchander | — | AdS/CFT, CFT | 1 | 2026-08-03 |
-| 2757 | Marc Casals | — | Asymptotic Symmetries | 1 | 2026-09-09 |
-| 2758 | Marcela Cárdenas | — | Asymptotic Symmetries | 1 | 2026-11-09 |
-| 2759 | Marcos Skowronek | — | Quantum Gravity, String Theory | 1 | 2026-09-01 |
-| 2760 | Margherita Putti | — | String Theory | 1 | 2026-10-29 |
-| 2761 | Marios Petropoulos | — | Asymptotic Symmetries | 1 | 2026-07-20 |
-| 2762 | Marten Reehorst | — | CFT | 1 | 2026-10-16 |
-| 2763 | Martha Constantinou | — | CFT | 1 | 2026-05-31 |
-| 2764 | Masahiro Morikawa | — | Asymptotic Symmetries | 1 | 2026-07-07 |
-| 2765 | Matteo Sacchi | — | String Theory | 1 | 2026-08-24 |
-| 2766 | Matthew J. Blacker | — | AdS/CFT | 1 | 2026-10-30 |
-| 2767 | Matthias R. Gaberdiel | — | AdS/CFT, CFT, String Theory | 1 | 2026-10-16 |
-| 2768 | Max Niedermaier | — | Celestial Holography | 1 | 2026-11-13 |
-| 2769 | Maxim Zelenko | — | Quantum Gravity | 1 | 2026-10-27 |
-| 2770 | Md Khalid Hossain | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-08-03 |
-| 2771 | Mehdi Ameri | — | String Theory | 1 | 2026-08-25 |
-| 2772 | Mehdi Sadeghi | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-07-13 |
-| 2773 | Miao Hu | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-06-05 |
-| 2774 | Micha Berkooz | — | CFT, String Theory | 1 | 2026-10-29 |
-| 2775 | Michele Galli | — | AdS/CFT, String Theory | 1 | 2026-05-19 |
-| 2776 | Miguel-Angel Sanchis-Lozano | — | String Theory | 1 | 2026-05-22 |
-| 2777 | Mikhail Belakovskiy | — | AdS/CFT, CFT | 1 | 2026-07-13 |
-| 2778 | Mikhail S. Volkov | — | Entanglement & Geometry | 1 | 2026-05-28 |
-| 2779 | Mikiya M. Takahashi | — | Entanglement & Geometry | 1 | 2026-06-02 |
-| 2780 | Minkyeu Cho | — | AdS/CFT, String Theory | 1 | 2026-05-28 |
-| 2781 | Minwoo Lim | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-10-19 |
-| 2782 | Mira Shamis | — | Entanglement & Geometry | 1 | 2026-11-02 |
-| 2783 | Mohammad Ali S. Afshar | — | AdS/CFT | 1 | 2026-11-04 |
-| 2784 | Mohammad Reza Alipour | — | AdS/CFT | 1 | 2026-11-04 |
-| 2785 | Mohammed Daoud | — | CFT, Entanglement & Geometry | 1 | 2026-10-05 |
-| 2786 | Moslem Shafiee | — | Geometric Gravity, Quantum Gravity | 1 | 2026-05-26 |
-| 2787 | Muhammad Yasir | — | AdS/CFT | 1 | 2026-10-27 |
-| 2788 | Mushtaq Ahmad | — | Entanglement & Geometry | 1 | 2026-08-17 |
-| 2789 | Nana Geraldine Cabo Bizet | — | String Theory | 1 | 2026-10-06 |
-| 2790 | Nate MacFadden | — | String Theory | 1 | 2026-05-28 |
-| 2791 | Nathan Moynihan | — | Asymptotic Symmetries | 1 | 2026-08-24 |
-| 2792 | Ngo Phuc Duc Loc | — | Quantum Gravity | 1 | 2026-10-19 |
-| 2793 | Nuriddin Kurbonov | — | Quantum Gravity | 1 | 2026-05-30 |
-| 2794 | O. Mustafa | — | AdS/CFT | 1 | 2026-11-10 |
-| 2795 | Ohad Mamroud | — | CFT, String Theory | 1 | 2026-10-29 |
-| 2796 | Oscar Lewis | — | String Theory | 1 | 2026-08-24 |
-| 2797 | Osvaldo Chandia | — | String Theory | 1 | 2026-06-09 |
-| 2798 | P. H. O. Silva | — | AdS/CFT | 1 | 2026-11-10 |
-| 2799 | Pablo Carlos López Vázquez | — | Geometric Gravity | 1 | 2026-10-14 |
-| 2800 | Pablo Páez-Velasco | — | Entanglement & Geometry | 1 | 2026-06-15 |
-| 2801 | Pablo Rodríguez | — | Entanglement & Geometry | 1 | 2026-10-12 |
-| 2802 | Pan Zhang | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2803 | Parth Raina | — | AdS/CFT, String Theory | 1 | 2026-05-19 |
-| 2804 | Patrick Bourg | — | Asymptotic Symmetries | 1 | 2026-09-09 |
-| 2805 | Paul Heslop | — | AdS/CFT, CFT, Celestial Holography, String Theory | 1 | 2026-09-07 |
-| 2806 | Paul Pfeiffer | — | Entanglement & Geometry | 1 | 2026-07-13 |
-| 2807 | Paulo Vargas Moniz | — | Entanglement & Geometry | 1 | 2026-10-06 |
-| 2808 | Pavel Meshcheriakov | — | String Theory | 1 | 2026-10-26 |
-| 2809 | Pei Zeng | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2810 | Peng Ye | — | AdS/CFT | 1 | 2026-06-05 |
-| 2811 | Perla Medina | — | Entanglement & Geometry | 1 | 2026-10-12 |
-| 2812 | Prayush Kumar | — | Celestial Holography, String Theory | 1 | 2026-06-02 |
-| 2813 | Qi You | — | String Theory | 1 | 2026-05-19 |
-| 2814 | Qi Zhao | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2815 | R. Noris | — | AdS/CFT, String Theory | 1 | 2026-10-05 |
-| 2816 | Radouane Gannouji | — | Celestial Holography | 1 | 2026-10-19 |
-| 2817 | Raihaneh Moti | — | Asymptotic Symmetries | 1 | 2026-08-24 |
-| 2818 | Rajdeep Mitra | — | AdS/CFT, CFT | 1 | 2026-08-17 |
-| 2819 | Raül Vera | — | Quantum Gravity | 1 | 2026-09-28 |
-| 2820 | Rikpratik Sengupta | — | Entanglement & Geometry | 1 | 2026-10-06 |
-| 2821 | Roberto A. Sussman | — | Geometric Gravity | 1 | 2026-05-22 |
-| 2822 | Roberto Auzzi | — | AdS/CFT, CFT | 1 | 2026-05-19 |
-| 2823 | Roberto Santos-Silva | — | Geometric Gravity | 1 | 2026-10-14 |
-| 2824 | Rodrigo Panosso Macedo | — | Asymptotic Symmetries | 1 | 2026-09-09 |
-| 2825 | Rohit Bhattarai | — | Entanglement & Geometry | 1 | 2026-06-16 |
-| 2826 | Roi Klein | — | AdS/CFT, CFT | 1 | 2026-09-22 |
-| 2827 | Ronak M Soni | — | AdS/CFT, CFT | 1 | 2026-08-03 |
-| 2828 | S. A. Kurlyand | — | AdS/CFT | 1 | 2026-09-16 |
-| 2829 | S. Gurtas Dogan | — | AdS/CFT | 1 | 2026-11-10 |
-| 2830 | S. I. Aadharsh Raj | — | AdS/CFT, Celestial Holography | 1 | 2026-06-05 |
-| 2831 | S. Maurelli | — | AdS/CFT, String Theory | 1 | 2026-10-05 |
-| 2832 | S. P. Miao | — | Quantum Gravity | 1 | 2026-10-19 |
-| 2833 | S. Shamari | — | Entanglement & Geometry, Geometric Gravity | 1 | 2026-07-23 |
-| 2834 | S. Usanov | — | Entanglement & Geometry | 1 | 2026-06-11 |
-| 2835 | Saidmuhammad Ahmedov | — | Quantum Gravity | 1 | 2026-05-30 |
-| 2836 | Sakura Schafer-Nameki | — | String Theory | 1 | 2026-08-24 |
-| 2837 | Salvatore Santoro | — | AdS/CFT, CFT | 1 | 2026-05-19 |
-| 2838 | Sameer Murthy | — | AdS/CFT, CFT, String Theory | 1 | 2026-10-16 |
-| 2839 | Samprity Das | — | AdS/CFT | 1 | 2026-05-22 |
-| 2840 | Sang-Heon Yi | — | Quantum Gravity | 1 | 2026-10-12 |
-| 2841 | Sanhita Parihar | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-08-03 |
-| 2842 | Sebastian Vander Ploeg Fallon | — | String Theory | 1 | 2026-06-15 |
-| 2843 | Sebastián Nájera | — | Geometric Gravity | 1 | 2026-05-22 |
-| 2844 | Semra Gurtas Dogan | — | AdS/CFT, Geometric Gravity | 1 | 2026-07-20 |
-| 2845 | Sergio E. Aguilar-Gutierrez | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-10-16 |
-| 2846 | Sergio Rodríguez-González | — | Quantum Gravity | 1 | 2026-09-28 |
-| 2847 | Shahid Qaisar | — | AdS/CFT | 1 | 2026-10-27 |
-| 2848 | Shalabh Gautam | — | Celestial Holography, String Theory | 1 | 2026-06-02 |
-| 2849 | Shi Gu | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-09-21 |
-| 2850 | Shokoufe Faraji | — | Quantum Gravity, String Theory | 1 | 2026-05-22 |
-| 2851 | Shono Shibuya | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-10-12 |
-| 2852 | Shreeya Rajesh Parab | — | AdS/CFT | 1 | 2026-10-12 |
-| 2853 | Shreyas Sadugol | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2854 | Shruti Paranjape | — | Quantum Gravity, String Theory | 1 | 2026-09-01 |
-| 2855 | Shubho R. Roy | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-08-03 |
-| 2856 | Shudi Jiang | — | AdS/CFT, Geometric Gravity | 1 | 2026-06-09 |
-| 2857 | Shun Jiang | — | Entanglement & Geometry | 1 | 2026-06-02 |
-| 2858 | Shuo Zhou | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2859 | Simon Lin | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-06-05 |
-| 2860 | Siwei Zhong | — | String Theory | 1 | 2026-05-23 |
-| 2861 | Sofie Ried | — | Quantum Gravity | 1 | 2026-10-05 |
-| 2862 | Soufiane Karmoudi | — | CFT, Entanglement & Geometry | 1 | 2026-10-05 |
-| 2863 | Sourav Chatterjee | — | Quantum Gravity | 1 | 2026-05-30 |
-| 2864 | Sreenath K. Manikandan | — | Quantum Gravity | 1 | 2026-06-02 |
-| 2865 | Stefano Bolognesi | — | AdS/CFT, CFT | 1 | 2026-05-19 |
-| 2866 | Stefano Trezzi | — | Quantum Gravity | 1 | 2026-05-25 |
-| 2867 | Steven L. Liebling | — | Celestial Holography | 1 | 2026-10-19 |
-| 2868 | Subhash Mahapatra | — | AdS/CFT | 1 | 2026-10-12 |
-| 2869 | Subrat Parida | — | Entanglement & Geometry | 1 | 2026-08-14 |
-| 2870 | Suraj S. Hegde | — | AdS/CFT, Geometric Gravity | 1 | 2026-10-06 |
-| 2871 | Surajit Chattopadhyay | — | AdS/CFT | 1 | 2026-05-22 |
-| 2872 | Sylvain Ribault | — | CFT | 1 | 2026-09-28 |
-| 2873 | Sébastien Clesse | — | Quantum Gravity | 1 | 2026-05-30 |
-| 2874 | T. Brabant | — | Asymptotic Symmetries | 1 | 2026-09-29 |
-| 2875 | T. Ortín | — | String Theory | 1 | 2026-10-08 |
-| 2876 | Taehwan Oh | — | AdS/CFT, String Theory | 1 | 2026-05-28 |
-| 2877 | Tatsuhiro Misumi | — | Entanglement & Geometry | 1 | 2026-06-15 |
-| 2878 | Tetiana Obikhod | — | AdS/CFT, CFT | 1 | 2026-07-07 |
-| 2879 | Thomas Mädler | — | Celestial Holography | 1 | 2026-10-19 |
-| 2880 | Thomas Thiemann | — | Quantum Gravity | 1 | 2026-06-30 |
-| 2881 | Tianfeng Feng | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2882 | Tim Henke | — | CFT | 1 | 2026-05-22 |
-| 2883 | Tommaso Rainaldi | — | Entanglement & Geometry | 1 | 2026-09-21 |
-| 2884 | Tongyang Li | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2885 | Trivko Kukolj | — | CFT, String Theory | 1 | 2026-10-29 |
-| 2886 | Tung Tran | — | AdS/CFT, String Theory | 1 | 2026-05-28 |
-| 2887 | Umananda Dev Goswami | — | Entanglement & Geometry | 1 | 2026-08-18 |
-| 2888 | Utku Zorba | — | AdS/CFT, String Theory | 1 | 2026-11-02 |
-| 2889 | V. -M. Mandric | — | Quantum Gravity | 1 | 2026-06-09 |
-| 2890 | Valérie Bettaque | — | Entanglement & Geometry, Quantum Gravity | 1 | 2026-10-16 |
-| 2891 | Victor Franken | — | Geometric Gravity, Quantum Gravity | 1 | 2026-09-07 |
-| 2892 | Vittorio D'Esposito | — | Quantum Gravity | 1 | 2026-05-25 |
-| 2893 | Vladimir Belavin | — | AdS/CFT, CFT | 1 | 2026-07-13 |
-| 2894 | Waleed El Hanafy | — | Entanglement & Geometry | 1 | 2026-06-02 |
-| 2895 | Wenjun Yu | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2896 | Wenliang Li | — | CFT | 1 | 2026-05-18 |
-| 2897 | Wenzheng Dong | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2898 | Wolfgang Spitzer | — | Entanglement & Geometry | 1 | 2026-07-13 |
-| 2899 | Xavier Bekaert | — | AdS/CFT, Celestial Holography | 1 | 2026-06-05 |
-| 2900 | Xiao Yuan | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2901 | Xiao-Long Liu | — | AdS/CFT, String Theory | 1 | 2026-10-30 |
-| 2902 | Xiao-Ming Zhang | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2903 | Xin-Li Sheng | — | AdS/CFT | 1 | 2026-08-04 |
-| 2904 | Xing Huang | — | CFT, Entanglement & Geometry | 1 | 2026-06-30 |
-| 2905 | Xinzhao Wang | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2906 | Xiongfeng Ma | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2907 | Yantao Wu | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2908 | Yasha Neiman | — | AdS/CFT, CFT | 1 | 2026-09-01 |
-| 2909 | Yen-Kheng Lim | — | AdS/CFT | 1 | 2026-07-14 |
-| 2910 | Yifan He | — | Quantum Gravity | 1 | 2026-10-01 |
-| 2911 | Yiming Huang | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2912 | Ying Li | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2913 | Yiwei Zhong | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-09-21 |
-| 2914 | Yong Zhao | — | CFT | 1 | 2026-05-31 |
-| 2915 | You Zhou | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2916 | Yu-Tao Hu | — | AdS/CFT | 1 | 2026-06-05 |
-| 2917 | Yuan Yao | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2918 | Yuezhang Tang | — | AdS/CFT, String Theory | 1 | 2026-10-30 |
-| 2919 | Yun-Ten Chin | — | AdS/CFT | 1 | 2026-07-14 |
-| 2920 | Yuntian Gu | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2921 | Z. Avezmuratova | — | Entanglement & Geometry | 1 | 2026-06-11 |
-| 2922 | Z. Lin | — | Asymptotic Symmetries | 1 | 2026-09-29 |
-| 2923 | Z. Yasakov | — | Entanglement & Geometry | 1 | 2026-06-11 |
-| 2924 | Z. Yousaf | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-07-28 |
-| 2925 | Zheng Miao | — | AdS/CFT, String Theory | 1 | 2026-10-30 |
-| 2926 | Zhenyu Du | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2927 | Zhou You | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2928 | Zhou-Run Zhu | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-05-19 |
-| 2929 | Zijian Shi | — | AdS/CFT, Quantum Gravity | 1 | 2026-09-22 |
-| 2930 | Zili Mou | — | Geometric Gravity | 1 | 2026-10-06 |
-| 2931 | Ziruo Wang | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2932 | Zixu Zhang | — | Entanglement & Geometry | 1 | 2026-07-20 |
-| 2933 | Álvaro Arboleya | — | AdS/CFT, String Theory | 1 | 2026-06-15 |
+| 2623 | Davide Gaiotto | — | AdS/CFT, String Theory | 1 | 2026-11-16 |
+| 2624 | Dayue Qin | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2625 | Deepak Kumar Kar | — | AdS/CFT | 1 | 2026-10-12 |
+| 2626 | Defu Hou | — | AdS/CFT | 1 | 2026-08-04 |
+| 2627 | Dhruva K. S | — | AdS/CFT, CFT, String Theory | 1 | 2026-08-17 |
+| 2628 | Diego H. Gugliotta | — | Quantum Gravity | 1 | 2026-09-28 |
+| 2629 | Dmitry Chelkak | — | CFT | 1 | 2026-10-12 |
+| 2630 | Domenico Frattulillo | — | Quantum Gravity | 1 | 2026-05-25 |
+| 2631 | Domingo Gallegos | — | AdS/CFT, CFT | 1 | 2026-09-22 |
+| 2632 | Donato Bini | — | Geometric Gravity | 1 | 2026-06-02 |
+| 2633 | Dongsu Bak | — | Quantum Gravity | 1 | 2026-10-12 |
+| 2634 | Duarte Fragoso | — | CFT | 1 | 2026-09-07 |
+| 2635 | Edward J. Shaya | — | Geometric Gravity | 1 | 2026-06-16 |
+| 2636 | Emanuel Gallo | — | Celestial Holography | 1 | 2026-10-19 |
+| 2637 | Emine Şeyma Kutluk | — | AdS/CFT, Asymptotic Symmetries | 1 | 2026-06-23 |
+| 2638 | Ethan Fursman | — | CFT | 1 | 2026-05-22 |
+| 2639 | Euihun Joung | — | AdS/CFT, String Theory | 1 | 2026-05-28 |
+| 2640 | F. Foucart | — | Asymptotic Symmetries | 1 | 2026-09-29 |
+| 2641 | Fabio Scardigli | — | Quantum Gravity | 1 | 2026-07-14 |
+| 2642 | Farkhod Botirov | — | Entanglement & Geometry | 1 | 2026-09-16 |
+| 2643 | Felix Ringer | — | Entanglement & Geometry | 1 | 2026-09-21 |
+| 2644 | Feng Qu | — | AdS/CFT, CFT | 1 | 2026-08-11 |
+| 2645 | Fien Apers | — | AdS/CFT, String Theory | 1 | 2026-10-12 |
+| 2646 | Filip Herček | — | CFT | 1 | 2026-11-09 |
+| 2647 | Florian Hechenberger | — | Entanglement & Geometry | 1 | 2026-09-21 |
+| 2648 | Francesco Aprile | — | AdS/CFT, CFT, String Theory | 1 | 2026-11-16 |
+| 2649 | Francisco Bento Lustosa | — | Asymptotic Symmetries, Entanglement & Geometry | 1 | 2026-06-16 |
+| 2650 | G. Barbagallo | — | String Theory | 1 | 2026-10-08 |
+| 2651 | G. G. L. Nashed | — | Entanglement & Geometry | 1 | 2026-06-02 |
+| 2652 | G. Yergaliyeva | — | Entanglement & Geometry | 1 | 2026-10-21 |
+| 2653 | Gabriel Fenati | — | AdS/CFT, CFT | 1 | 2026-08-31 |
+| 2654 | Gabriele Tartaglino-Mazzucchelli | — | AdS/CFT, String Theory | 1 | 2026-05-19 |
+| 2655 | Gang Zhou | — | Entanglement & Geometry | 1 | 2026-11-16 |
+| 2656 | Giampiero Esposito | — | Geometric Gravity | 1 | 2026-06-02 |
+| 2657 | Giandomenico Palumbo | — | AdS/CFT, Geometric Gravity | 1 | 2026-10-06 |
+| 2658 | Gianmassimo Tasinato | — | Quantum Gravity | 1 | 2026-10-12 |
+| 2659 | Giuseppe Fabiano | — | Quantum Gravity | 1 | 2026-05-25 |
+| 2660 | Giuseppe Meluccio | — | Quantum Gravity | 1 | 2026-09-11 |
+| 2661 | Giuseppe Sudano | — | AdS/CFT, String Theory | 1 | 2026-06-15 |
+| 2662 | Guglielmo Grimaldi | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-10-27 |
+| 2663 | Guillaume Baverez | — | CFT | 1 | 2026-10-05 |
+| 2664 | Guillermo R. Zemba | — | Entanglement & Geometry | 1 | 2026-10-06 |
+| 2665 | Gulzoda Rakhimova | — | Entanglement & Geometry | 1 | 2026-09-16 |
+| 2666 | Gurbir Arora | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-05-25 |
+| 2667 | H. Inchauspé | — | Asymptotic Symmetries | 1 | 2026-09-29 |
+| 2668 | H. Samtleben | — | AdS/CFT, String Theory | 1 | 2026-10-05 |
+| 2669 | Hafiza Bushra Mujahid | — | AdS/CFT | 1 | 2026-10-27 |
+| 2670 | Hai-Cang Ren | — | AdS/CFT | 1 | 2026-08-04 |
+| 2671 | Hanyu Fang | — | AdS/CFT | 1 | 2026-11-13 |
+| 2672 | Haocheng Zhong | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-09-21 |
+| 2673 | Harold Erbin | — | CFT, String Theory | 1 | 2026-11-13 |
+| 2674 | Harshal Kulkarni | — | AdS/CFT, CFT, Celestial Holography, String Theory | 1 | 2026-09-07 |
+| 2675 | Hasmik Poghosyan | — | CFT | 1 | 2026-07-13 |
+| 2676 | Hector Puerta-Ramisa | — | AdS/CFT, CFT, String Theory | 1 | 2026-11-16 |
+| 2677 | Hendrik J. R. Van Zyl | — | Entanglement & Geometry | 1 | 2026-08-10 |
+| 2678 | Hessel Posthuma | — | CFT | 1 | 2026-09-07 |
+| 2679 | Hikmet Ozsahin | — | AdS/CFT, CFT | 1 | 2026-09-29 |
+| 2680 | Himanshu Chourasiya | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-10-12 |
+| 2681 | Himanshu Parihar | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-10-19 |
+| 2682 | Hong Y. Ling | — | Entanglement & Geometry | 1 | 2026-10-26 |
+| 2683 | Hongliang Jiang | — | CFT | 1 | 2026-11-16 |
+| 2684 | Houri-Christina Tarazi | — | Quantum Gravity | 1 | 2026-08-04 |
+| 2685 | I. Rasulian | — | Celestial Holography, String Theory | 1 | 2026-11-09 |
+| 2686 | Ignacio J. Araya | — | AdS/CFT, CFT | 1 | 2026-10-20 |
+| 2687 | Igor V. Ovchinnikov | — | AdS/CFT, CFT | 1 | 2026-08-18 |
+| 2688 | Ion Nechita | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-06-05 |
+| 2689 | Iñaki Garay | — | Quantum Gravity | 1 | 2026-09-28 |
+| 2690 | J. Casado-Díaz | — | Asymptotic Symmetries | 1 | 2026-10-19 |
+| 2691 | J. van Muiden | — | AdS/CFT | 1 | 2026-09-16 |
+| 2692 | Jack Lewis | — | Asymptotic Symmetries | 1 | 2026-09-09 |
+| 2693 | Jakob J. Minar | — | Entanglement & Geometry | 1 | 2026-10-16 |
+| 2694 | James Halverson | — | String Theory | 1 | 2026-06-15 |
+| 2695 | Jana Menšíková | — | AdS/CFT, CFT | 1 | 2026-11-03 |
+| 2696 | Jaroslav Scheinpflug | — | AdS/CFT | 1 | 2026-11-09 |
+| 2697 | Jasper Nongmaithem | — | AdS/CFT | 1 | 2026-10-12 |
+| 2698 | Jaswant | — | Entanglement & Geometry | 1 | 2026-07-28 |
+| 2699 | Javier Cancino | — | Geometric Gravity | 1 | 2026-10-14 |
+| 2700 | Jay Prakash Singh | — | Entanglement & Geometry | 1 | 2026-07-28 |
+| 2701 | Jaydeep Goswami | — | Entanglement & Geometry | 1 | 2026-08-18 |
+| 2702 | Jayden Tan | — | Quantum Gravity | 1 | 2026-06-05 |
+| 2703 | Jeremy A. Mann | — | Asymptotic Symmetries | 1 | 2026-07-20 |
+| 2704 | Jessica Trespalacios | — | Asymptotic Symmetries | 1 | 2026-11-09 |
+| 2705 | Jessica Yeh | — | String Theory | 1 | 2026-10-26 |
+| 2706 | Jianhui Lin | — | AdS/CFT, Geometric Gravity | 1 | 2026-06-09 |
+| 2707 | Jie-Yu Zhang | — | AdS/CFT | 1 | 2026-06-05 |
+| 2708 | Jinzhao Sun | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2709 | Joakim Flinckman | — | AdS/CFT | 1 | 2026-10-16 |
+| 2710 | Jorge Ovalle | — | Geometric Gravity | 1 | 2026-11-03 |
+| 2711 | Jorrit Bosma | — | Asymptotic Symmetries | 1 | 2026-07-20 |
+| 2712 | Jose M. Begines | — | AdS/CFT, Entanglement & Geometry, String Theory | 1 | 2026-05-18 |
+| 2713 | Josef Seitz | — | CFT, String Theory | 1 | 2026-10-29 |
+| 2714 | Joseph Delmar | — | CFT | 1 | 2026-05-31 |
+| 2715 | José de J. Pérez Lona | — | String Theory | 1 | 2026-10-06 |
+| 2716 | Juan Manuel Diaz | — | Quantum Gravity | 1 | 2026-05-19 |
+| 2717 | Jue Xu | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2718 | Julian Lang | — | AdS/CFT, CFT | 1 | 2026-09-01 |
+| 2719 | Jun-Xia Chen | — | AdS/CFT | 1 | 2026-08-04 |
+| 2720 | Junxiang Huang | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2721 | Justine Fasquel | — | CFT | 1 | 2026-05-22 |
+| 2722 | Jyotirmoy Roy | — | AdS/CFT, CFT | 1 | 2026-11-03 |
+| 2723 | Jørgen Ellegaard Andersen | — | CFT | 1 | 2026-05-22 |
+| 2724 | K. P. Athulya | — | Quantum Gravity | 1 | 2026-06-02 |
+| 2725 | Kai Yan | — | AdS/CFT | 1 | 2026-11-13 |
+| 2726 | Kalle Kytölä | — | CFT | 1 | 2026-10-12 |
+| 2727 | Katrin Becker | — | String Theory | 1 | 2026-05-19 |
+| 2728 | Kazuyoshi Yano | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-10-12 |
+| 2729 | Kevin Cunningham | — | Asymptotic Symmetries | 1 | 2026-09-09 |
+| 2730 | Ki-Seok Kim | — | AdS/CFT, Geometric Gravity | 1 | 2026-05-19 |
+| 2731 | Kirill Zatrimaylov | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-09-01 |
+| 2732 | Klaas Landsman | — | Entanglement & Geometry, Geometric Gravity | 1 | 2026-08-17 |
+| 2733 | Konstantin Izyurov | — | CFT | 1 | 2026-10-12 |
+| 2734 | Krzysztof Cichy | — | CFT | 1 | 2026-05-31 |
+| 2735 | Kymani Armstrong-Williams | — | AdS/CFT | 1 | 2026-10-19 |
+| 2736 | Leo Veissiere | — | String Theory | 1 | 2026-10-29 |
+| 2737 | Leonhard Schmotzer | — | Entanglement & Geometry | 1 | 2026-10-16 |
+| 2738 | Leonid Pastur | — | Entanglement & Geometry | 1 | 2026-11-02 |
+| 2739 | Li-Jie Xin | — | AdS/CFT | 1 | 2026-06-05 |
+| 2740 | Liam McAllister | — | String Theory | 1 | 2026-06-15 |
+| 2741 | Liangyu Chen | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-09-01 |
+| 2742 | Lorenzo Küchler | — | Asymptotic Symmetries | 1 | 2026-09-09 |
+| 2743 | Luis Camargo-Carlos | — | AdS/CFT, CFT | 1 | 2026-08-11 |
+| 2744 | Luis Guajardo | — | AdS/CFT, CFT | 1 | 2026-09-29 |
+| 2745 | Luis J. Garay | — | Quantum Gravity | 1 | 2026-09-28 |
+| 2746 | Lukas Schoug | — | CFT | 1 | 2026-06-23 |
+| 2747 | M. A. Khan | — | Entanglement & Geometry | 1 | 2026-06-11 |
+| 2748 | M. Beccaria | — | AdS/CFT | 1 | 2026-09-16 |
+| 2749 | M. Bulla | — | Asymptotic Symmetries | 1 | 2026-09-29 |
+| 2750 | M. Farasat Shamir | — | Entanglement & Geometry | 1 | 2026-08-17 |
+| 2751 | M. Oyarzo | — | AdS/CFT, String Theory | 1 | 2026-10-05 |
+| 2752 | M. Pillas | — | Asymptotic Symmetries | 1 | 2026-09-29 |
+| 2753 | M. Rizwan | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-07-28 |
+| 2754 | M. Trigiante | — | AdS/CFT, String Theory | 1 | 2026-10-05 |
+| 2755 | Maharshi Sarma | — | Geometric Gravity | 1 | 2026-05-22 |
+| 2756 | Mahdi Sedighi Jafari | — | Celestial Holography | 1 | 2026-11-13 |
+| 2757 | Makoto Natsuume | — | AdS/CFT, CFT | 1 | 2026-05-22 |
+| 2758 | Makoto Tusbota | — | AdS/CFT | 1 | 2026-09-30 |
+| 2759 | Man-Li Tian | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-05-19 |
+| 2760 | Man-Man Sun | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-05-19 |
+| 2761 | Manish Ramchander | — | AdS/CFT, CFT | 1 | 2026-08-03 |
+| 2762 | Marc Casals | — | Asymptotic Symmetries | 1 | 2026-09-09 |
+| 2763 | Marcela Cárdenas | — | Asymptotic Symmetries | 1 | 2026-11-09 |
+| 2764 | Marcos Skowronek | — | Quantum Gravity, String Theory | 1 | 2026-09-01 |
+| 2765 | Margherita Putti | — | String Theory | 1 | 2026-10-29 |
+| 2766 | Marios Petropoulos | — | Asymptotic Symmetries | 1 | 2026-07-20 |
+| 2767 | Marten Reehorst | — | CFT | 1 | 2026-10-16 |
+| 2768 | Martha Constantinou | — | CFT | 1 | 2026-05-31 |
+| 2769 | Masahiro Morikawa | — | Asymptotic Symmetries | 1 | 2026-07-07 |
+| 2770 | Matteo Sacchi | — | String Theory | 1 | 2026-08-24 |
+| 2771 | Matthew J. Blacker | — | AdS/CFT | 1 | 2026-10-30 |
+| 2772 | Matthias R. Gaberdiel | — | AdS/CFT, CFT, String Theory | 1 | 2026-10-16 |
+| 2773 | Max Niedermaier | — | Celestial Holography | 1 | 2026-11-13 |
+| 2774 | Maxim Zelenko | — | Quantum Gravity | 1 | 2026-10-27 |
+| 2775 | Md Khalid Hossain | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-08-03 |
+| 2776 | Mehdi Ameri | — | String Theory | 1 | 2026-08-25 |
+| 2777 | Mehdi Sadeghi | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-07-13 |
+| 2778 | Miao Hu | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-06-05 |
+| 2779 | Micha Berkooz | — | CFT, String Theory | 1 | 2026-10-29 |
+| 2780 | Michele Galli | — | AdS/CFT, String Theory | 1 | 2026-05-19 |
+| 2781 | Miguel-Angel Sanchis-Lozano | — | String Theory | 1 | 2026-05-22 |
+| 2782 | Mikhail Belakovskiy | — | AdS/CFT, CFT | 1 | 2026-07-13 |
+| 2783 | Mikhail S. Volkov | — | Entanglement & Geometry | 1 | 2026-05-28 |
+| 2784 | Mikiya M. Takahashi | — | Entanglement & Geometry | 1 | 2026-06-02 |
+| 2785 | Minkyeu Cho | — | AdS/CFT, String Theory | 1 | 2026-05-28 |
+| 2786 | Minwoo Lim | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-10-19 |
+| 2787 | Mira Shamis | — | Entanglement & Geometry | 1 | 2026-11-02 |
+| 2788 | Mitchell Woolley | — | AdS/CFT, CFT, String Theory | 1 | 2026-11-16 |
+| 2789 | Mohammad Ali S. Afshar | — | AdS/CFT | 1 | 2026-11-04 |
+| 2790 | Mohammad Reza Alipour | — | AdS/CFT | 1 | 2026-11-04 |
+| 2791 | Mohammed Daoud | — | CFT, Entanglement & Geometry | 1 | 2026-10-05 |
+| 2792 | Moslem Shafiee | — | Geometric Gravity, Quantum Gravity | 1 | 2026-05-26 |
+| 2793 | Muhammad Yasir | — | AdS/CFT | 1 | 2026-10-27 |
+| 2794 | Mushtaq Ahmad | — | Entanglement & Geometry | 1 | 2026-08-17 |
+| 2795 | Nana Geraldine Cabo Bizet | — | String Theory | 1 | 2026-10-06 |
+| 2796 | Nate MacFadden | — | String Theory | 1 | 2026-05-28 |
+| 2797 | Nathan Moynihan | — | Asymptotic Symmetries | 1 | 2026-08-24 |
+| 2798 | Ngo Phuc Duc Loc | — | Quantum Gravity | 1 | 2026-10-19 |
+| 2799 | Nuriddin Kurbonov | — | Quantum Gravity | 1 | 2026-05-30 |
+| 2800 | O. Mustafa | — | AdS/CFT | 1 | 2026-11-10 |
+| 2801 | Ohad Mamroud | — | CFT, String Theory | 1 | 2026-10-29 |
+| 2802 | Ondrej Hulik | — | Asymptotic Symmetries | 1 | 2026-11-16 |
+| 2803 | Oscar Lewis | — | String Theory | 1 | 2026-08-24 |
+| 2804 | Osvaldo Chandia | — | String Theory | 1 | 2026-06-09 |
+| 2805 | P. H. O. Silva | — | AdS/CFT | 1 | 2026-11-10 |
+| 2806 | Pablo Carlos López Vázquez | — | Geometric Gravity | 1 | 2026-10-14 |
+| 2807 | Pablo Páez-Velasco | — | Entanglement & Geometry | 1 | 2026-06-15 |
+| 2808 | Pablo Rodríguez | — | Entanglement & Geometry | 1 | 2026-10-12 |
+| 2809 | Pan Zhang | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2810 | Parth Raina | — | AdS/CFT, String Theory | 1 | 2026-05-19 |
+| 2811 | Patrick Bourg | — | Asymptotic Symmetries | 1 | 2026-09-09 |
+| 2812 | Paul Heslop | — | AdS/CFT, CFT, Celestial Holography, String Theory | 1 | 2026-09-07 |
+| 2813 | Paul Pfeiffer | — | Entanglement & Geometry | 1 | 2026-07-13 |
+| 2814 | Paulo Vargas Moniz | — | Entanglement & Geometry | 1 | 2026-10-06 |
+| 2815 | Pavel Meshcheriakov | — | String Theory | 1 | 2026-10-26 |
+| 2816 | Pei Zeng | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2817 | Peng Ye | — | AdS/CFT | 1 | 2026-06-05 |
+| 2818 | Perla Medina | — | Entanglement & Geometry | 1 | 2026-10-12 |
+| 2819 | Prayush Kumar | — | Celestial Holography, String Theory | 1 | 2026-06-02 |
+| 2820 | Qi You | — | String Theory | 1 | 2026-05-19 |
+| 2821 | Qi Zhao | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2822 | R. Noris | — | AdS/CFT, String Theory | 1 | 2026-10-05 |
+| 2823 | Radouane Gannouji | — | Celestial Holography | 1 | 2026-10-19 |
+| 2824 | Raihaneh Moti | — | Asymptotic Symmetries | 1 | 2026-08-24 |
+| 2825 | Rajdeep Mitra | — | AdS/CFT, CFT | 1 | 2026-08-17 |
+| 2826 | Raphael Senghaas | — | Asymptotic Symmetries | 1 | 2026-11-16 |
+| 2827 | Raül Vera | — | Quantum Gravity | 1 | 2026-09-28 |
+| 2828 | Rikpratik Sengupta | — | Entanglement & Geometry | 1 | 2026-10-06 |
+| 2829 | Roberto A. Sussman | — | Geometric Gravity | 1 | 2026-05-22 |
+| 2830 | Roberto Auzzi | — | AdS/CFT, CFT | 1 | 2026-05-19 |
+| 2831 | Roberto Santos-Silva | — | Geometric Gravity | 1 | 2026-10-14 |
+| 2832 | Rodrigo Panosso Macedo | — | Asymptotic Symmetries | 1 | 2026-09-09 |
+| 2833 | Rohit Bhattarai | — | Entanglement & Geometry | 1 | 2026-06-16 |
+| 2834 | Roi Klein | — | AdS/CFT, CFT | 1 | 2026-09-22 |
+| 2835 | Ronak M Soni | — | AdS/CFT, CFT | 1 | 2026-08-03 |
+| 2836 | S. A. Kurlyand | — | AdS/CFT | 1 | 2026-09-16 |
+| 2837 | S. Gurtas Dogan | — | AdS/CFT | 1 | 2026-11-10 |
+| 2838 | S. I. Aadharsh Raj | — | AdS/CFT, Celestial Holography | 1 | 2026-06-05 |
+| 2839 | S. Maurelli | — | AdS/CFT, String Theory | 1 | 2026-10-05 |
+| 2840 | S. P. Miao | — | Quantum Gravity | 1 | 2026-10-19 |
+| 2841 | S. Shamari | — | Entanglement & Geometry, Geometric Gravity | 1 | 2026-07-23 |
+| 2842 | S. Usanov | — | Entanglement & Geometry | 1 | 2026-06-11 |
+| 2843 | Saidmuhammad Ahmedov | — | Quantum Gravity | 1 | 2026-05-30 |
+| 2844 | Sakura Schafer-Nameki | — | String Theory | 1 | 2026-08-24 |
+| 2845 | Salvatore Santoro | — | AdS/CFT, CFT | 1 | 2026-05-19 |
+| 2846 | Sameer Murthy | — | AdS/CFT, CFT, String Theory | 1 | 2026-10-16 |
+| 2847 | Samprity Das | — | AdS/CFT | 1 | 2026-05-22 |
+| 2848 | Sang-Heon Yi | — | Quantum Gravity | 1 | 2026-10-12 |
+| 2849 | Sanhita Parihar | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-08-03 |
+| 2850 | Sebastian Vander Ploeg Fallon | — | String Theory | 1 | 2026-06-15 |
+| 2851 | Sebastián Nájera | — | Geometric Gravity | 1 | 2026-05-22 |
+| 2852 | Semra Gurtas Dogan | — | AdS/CFT, Geometric Gravity | 1 | 2026-07-20 |
+| 2853 | Sergio E. Aguilar-Gutierrez | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-10-16 |
+| 2854 | Sergio Rodríguez-González | — | Quantum Gravity | 1 | 2026-09-28 |
+| 2855 | Shahid Qaisar | — | AdS/CFT | 1 | 2026-10-27 |
+| 2856 | Shalabh Gautam | — | Celestial Holography, String Theory | 1 | 2026-06-02 |
+| 2857 | Shi Gu | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-09-21 |
+| 2858 | Shokoufe Faraji | — | Quantum Gravity, String Theory | 1 | 2026-05-22 |
+| 2859 | Shono Shibuya | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-10-12 |
+| 2860 | Shreeya Rajesh Parab | — | AdS/CFT | 1 | 2026-10-12 |
+| 2861 | Shreyas Sadugol | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2862 | Shruti Paranjape | — | Quantum Gravity, String Theory | 1 | 2026-09-01 |
+| 2863 | Shubho R. Roy | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-08-03 |
+| 2864 | Shudi Jiang | — | AdS/CFT, Geometric Gravity | 1 | 2026-06-09 |
+| 2865 | Shun Jiang | — | Entanglement & Geometry | 1 | 2026-06-02 |
+| 2866 | Shuo Zhou | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2867 | Simon Lin | — | AdS/CFT, Entanglement & Geometry | 1 | 2026-06-05 |
+| 2868 | Siwei Zhong | — | String Theory | 1 | 2026-05-23 |
+| 2869 | Sofie Ried | — | Quantum Gravity | 1 | 2026-10-05 |
+| 2870 | Soufiane Karmoudi | — | CFT, Entanglement & Geometry | 1 | 2026-10-05 |
+| 2871 | Sourav Chatterjee | — | Quantum Gravity | 1 | 2026-05-30 |
+| 2872 | Sreenath K. Manikandan | — | Quantum Gravity | 1 | 2026-06-02 |
+| 2873 | Stefano Bolognesi | — | AdS/CFT, CFT | 1 | 2026-05-19 |
+| 2874 | Stefano Trezzi | — | Quantum Gravity | 1 | 2026-05-25 |
+| 2875 | Steven L. Liebling | — | Celestial Holography | 1 | 2026-10-19 |
+| 2876 | Subhash Mahapatra | — | AdS/CFT | 1 | 2026-10-12 |
+| 2877 | Subrat Parida | — | Entanglement & Geometry | 1 | 2026-08-14 |
+| 2878 | Suraj S. Hegde | — | AdS/CFT, Geometric Gravity | 1 | 2026-10-06 |
+| 2879 | Surajit Chattopadhyay | — | AdS/CFT | 1 | 2026-05-22 |
+| 2880 | Sylvain Ribault | — | CFT | 1 | 2026-09-28 |
+| 2881 | Sébastien Clesse | — | Quantum Gravity | 1 | 2026-05-30 |
+| 2882 | T. Brabant | — | Asymptotic Symmetries | 1 | 2026-09-29 |
+| 2883 | T. Ortín | — | String Theory | 1 | 2026-10-08 |
+| 2884 | Taehwan Oh | — | AdS/CFT, String Theory | 1 | 2026-05-28 |
+| 2885 | Tatsuhiro Misumi | — | Entanglement & Geometry | 1 | 2026-06-15 |
+| 2886 | Tetiana Obikhod | — | AdS/CFT, CFT | 1 | 2026-07-07 |
+| 2887 | Thomas Mädler | — | Celestial Holography | 1 | 2026-10-19 |
+| 2888 | Thomas Thiemann | — | Quantum Gravity | 1 | 2026-06-30 |
+| 2889 | Tianfeng Feng | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2890 | Tim Henke | — | CFT | 1 | 2026-05-22 |
+| 2891 | Tommaso Rainaldi | — | Entanglement & Geometry | 1 | 2026-09-21 |
+| 2892 | Tongyang Li | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2893 | Trivko Kukolj | — | CFT, String Theory | 1 | 2026-10-29 |
+| 2894 | Tung Tran | — | AdS/CFT, String Theory | 1 | 2026-05-28 |
+| 2895 | Umananda Dev Goswami | — | Entanglement & Geometry | 1 | 2026-08-18 |
+| 2896 | Utku Zorba | — | AdS/CFT, String Theory | 1 | 2026-11-02 |
+| 2897 | V. -M. Mandric | — | Quantum Gravity | 1 | 2026-06-09 |
+| 2898 | Valérie Bettaque | — | Entanglement & Geometry, Quantum Gravity | 1 | 2026-10-16 |
+| 2899 | Victor Franken | — | Geometric Gravity, Quantum Gravity | 1 | 2026-09-07 |
+| 2900 | Vittorio D'Esposito | — | Quantum Gravity | 1 | 2026-05-25 |
+| 2901 | Vladimir Belavin | — | AdS/CFT, CFT | 1 | 2026-07-13 |
+| 2902 | Waleed El Hanafy | — | Entanglement & Geometry | 1 | 2026-06-02 |
+| 2903 | Wenjun Yu | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2904 | Wenliang Li | — | CFT | 1 | 2026-05-18 |
+| 2905 | Wenzheng Dong | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2906 | Wolfgang Spitzer | — | Entanglement & Geometry | 1 | 2026-07-13 |
+| 2907 | Xavier Bekaert | — | AdS/CFT, Celestial Holography | 1 | 2026-06-05 |
+| 2908 | Xiao Yuan | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2909 | Xiao-Long Liu | — | AdS/CFT, String Theory | 1 | 2026-10-30 |
+| 2910 | Xiao-Ming Zhang | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2911 | Xin-Li Sheng | — | AdS/CFT | 1 | 2026-08-04 |
+| 2912 | Xing Huang | — | CFT, Entanglement & Geometry | 1 | 2026-06-30 |
+| 2913 | Xinzhao Wang | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2914 | Xiongfeng Ma | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2915 | Yantao Wu | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2916 | Yasha Neiman | — | AdS/CFT, CFT | 1 | 2026-09-01 |
+| 2917 | Yen-Kheng Lim | — | AdS/CFT | 1 | 2026-07-14 |
+| 2918 | Yifan He | — | Quantum Gravity | 1 | 2026-10-01 |
+| 2919 | Yiming Huang | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2920 | Ying Li | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2921 | Yiwei Zhong | — | AdS/CFT, CFT, Entanglement & Geometry | 1 | 2026-09-21 |
+| 2922 | Yong Zhao | — | CFT | 1 | 2026-05-31 |
+| 2923 | You Zhou | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2924 | Yu-Tao Hu | — | AdS/CFT | 1 | 2026-06-05 |
+| 2925 | Yuan Yao | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2926 | Yuezhang Tang | — | AdS/CFT, String Theory | 1 | 2026-10-30 |
+| 2927 | Yun-Ten Chin | — | AdS/CFT | 1 | 2026-07-14 |
+| 2928 | Yuntian Gu | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2929 | Z. Avezmuratova | — | Entanglement & Geometry | 1 | 2026-06-11 |
+| 2930 | Z. Lin | — | Asymptotic Symmetries | 1 | 2026-09-29 |
+| 2931 | Z. Yasakov | — | Entanglement & Geometry | 1 | 2026-06-11 |
+| 2932 | Z. Yousaf | — | AdS/CFT, Entanglement & Geometry, Quantum Gravity | 1 | 2026-07-28 |
+| 2933 | Zheng Miao | — | AdS/CFT, String Theory | 1 | 2026-10-30 |
+| 2934 | Zhenyu Du | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2935 | Zhou You | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2936 | Zhou-Run Zhu | — | AdS/CFT, Entanglement & Geometry, Geometric Gravity | 1 | 2026-05-19 |
+| 2937 | Zijian Shi | — | AdS/CFT, Quantum Gravity | 1 | 2026-09-22 |
+| 2938 | Zili Mou | — | Geometric Gravity | 1 | 2026-10-06 |
+| 2939 | Ziruo Wang | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2940 | Zixu Zhang | — | Entanglement & Geometry | 1 | 2026-07-20 |
+| 2941 | Álvaro Arboleya | — | AdS/CFT, String Theory | 1 | 2026-06-15 |
